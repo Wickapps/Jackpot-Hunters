@@ -1,0 +1,2568 @@
+Scanning: /home/mjw/Projects/Slots/sec-edgar-filings
+Keywords: 12 phrases
+
+============================================================
+  CZR | 10-K | 0001590895-23-000070
+  /home/mjw/Projects/Slots/sec-edgar-filings/CZR/10-K/0001590895-23-000070/full-submission.txt
+============================================================
+
+  [progressive jackpot]
+    " ...zes as casino revenue the net win from these gaming activities,
+    which is the difference between gaming wins and losses, not the total
+    amount wagered. Progressive jackpots are accrued and charged to revenue
+    at the time the obligation to pay the jackpot is established. Gaming
+    revenues are recognized net of free bets, fr..."
+
+  [progressive jackpot]
+    " ...zes as casino revenue the net win from these gaming activities,
+    which is the difference between gaming wins and losses, not the total
+    amount wagered. Progressive jackpots are accrued and charged to revenue
+    at the time the obligation to pay the jackpot is established. Gaming
+    revenues are recognized net of free bets, fr..."
+
+  [progressive jackpot]
+    " ...zes as casino revenue the net win from these gaming activities,
+    which is the difference between gaming wins and losses, not the total
+    amount wagered. Progressive jackpots are accrued and charged to revenue
+    at the time the obligation to pay the jackpot is established. Gaming
+    revenues are recognized net of free bets, fr..."
+
+  [hold percentage]
+    " ...cal win rates to estimate what a certain type of game, on average,
+    will win or lose in the long run. In addition to the element of chance,
+    win rates (hold percentages) are also affected by the spread of table
+    limits and factors that are beyond our control, such as a player’s
+    skill, experience, and behavior, the mi..."
+
+  [hold percentage]
+    " ...old. Slot win percentage is typically in the range of approximately
+    9% to 11% of slot handle for both the Las Vegas and Regional segments.
+    Table game hold percentage is typically in the range of approximately
+    16% to 23% of table game drop in both the Las Vegas and Regional
+    segments. Sports betting hold is typicall..."
+
+  [hold percentage]
+    " ...d to improve for the remainder of 2022, nearly reaching positive
+    net income and adjusted EBITDA during the fourth quarter. Sports betting
+    and iGaming hold percentages for the year ended December 31, 2022 were
+    within our typical range. We expect to continue to expand into new
+    jurisdictions with our apps, our Caesar..."
+
+  [gaming win]
+    " ...eginning of 2022 resulting from a substantial amount of bonus cash
+    and matched deposits issued to customers as sign-on incentives, which
+    exceeded our gaming win. Our level of investment and types of incentives
+    provided are discretionary and are not expected to continue at elevated
+    levels subsequent to the ini..."
+
+  [gaming win]
+    " ...sports betting and iGaming wagers. The Company recognizes as casino
+    revenue the net win from these gaming activities, which is the
+    difference between gaming wins and losses, not the total amount wagered.
+    Progressive jackpots are accrued and charged to revenue at the time the
+    obligation to pay the jackpot is e..."
+
+  [gaming win]
+    " ...sports betting and iGaming wagers. The Company recognizes as casino
+    revenue the net win from these gaming activities, which is the
+    difference between gaming wins and losses, not the total amount wagered.
+    Progressive jackpots are accrued and charged to revenue at the time the
+    obligation to pay the jackpot is e..."
+
+  [slot revenue]
+    " ... our retail and online sportsbooks, iGaming and other games such as
+    keno, all of which comprised approximately 55% of our total net revenues
+    in 2022. Slot revenues generate the majority of our casino revenues.
+    Online Sports Betting and iGaming As a result of our acquisition of
+    William Hill PLC on April 22, 2021..."
+
+============================================================
+  CZR | 10-K | 0001590895-24-000051
+  /home/mjw/Projects/Slots/sec-edgar-filings/CZR/10-K/0001590895-24-000051/full-submission.txt
+============================================================
+
+  [progressive jackpot]
+    " ...zes as casino revenue the net win from these gaming activities,
+    which is the difference between gaming wins and losses, not the total
+    amount wagered. Progressive jackpots are accrued and charged to revenue
+    at the time the obligation to pay the jackpot is established. Gaming
+    revenues are recognized net of free bets, fr..."
+
+  [progressive jackpot]
+    " ...zes as casino revenue the net win from these gaming activities,
+    which is the difference between gaming wins and losses, not the total
+    amount wagered. Progressive jackpots are accrued and charged to revenue
+    at the time the obligation to pay the jackpot is established. Gaming
+    revenues are recognized net of free bets, fr..."
+
+  [progressive jackpot]
+    " ...zes as casino revenue the net win from these gaming activities,
+    which is the difference between gaming wins and losses, not the total
+    amount wagered. Progressive jackpots are accrued and charged to revenue
+    at the time the obligation to pay the jackpot is established. Gaming
+    revenues are recognized net of free bets, fr..."
+
+  [hold percentage]
+    " ...cal win rates to estimate what a certain type of game, on average,
+    will win or lose in the long run. In addition to the element of chance,
+    win rates (hold percentages) are also affected by the spread of table
+    limits and factors that are beyond our control, such as a player’s
+    skill, experience, and behavior, the mi..."
+
+  [hold percentage]
+    " ...old. Slot win percentage is typically in the range of approximately
+    9% to 11% of slot handle for both the Las Vegas and Regional segments.
+    Table game hold percentage is typically in the range of approximately
+    16% to 23% of table game drop in both the Las Vegas and Regional
+    segments. Sports betting hold is typicall..."
+
+  [hold percentage]
+    " ... betting and online casinos expand through increased state or
+    jurisdictional legalization, new product launches, and customer
+    adoption, variations in hold percentages and increases in promotional
+    and marketing expenses in highly competitive markets during promotional
+    periods may negatively impact Caesars Digital’s..."
+
+  [hold percentage]
+    " ... Digital’s net revenues, net income, Adjusted EBITDA and Adjusted
+    EBITDA margin in comparison to current or prior periods. Sports betting
+    and iGaming hold percentages for the year ended December 31, 2023 were
+    within our typical range. Table of Contents 46 Managed and Branded
+    Segment Years Ended December 31, Varian..."
+
+  [gaming win]
+    " ... quarter of 2022 resulting from a substantial amount of bonus cash
+    and matched deposits issued to customers as sign-on incentives, which
+    exceeded our gaming win. We continue to adjust our level of investment
+    during the launch period in new jurisdictions based, in part, on prior
+    experience and do not expect su..."
+
+  [gaming win]
+    " ...sports betting and iGaming wagers. The Company recognizes as casino
+    revenue the net win from these gaming activities, which is the
+    difference between gaming wins and losses, not the total amount wagered.
+    Progressive jackpots are accrued and charged to revenue at the time the
+    obligation to pay the jackpot is e..."
+
+  [slot revenue]
+    " ... our retail and online sportsbooks, iGaming and other games such as
+    keno, all of which comprised approximately 55% of our total net revenues
+    in 2023. Slot revenues generate the majority of our casino revenues.
+    Retail and Online Sports Betting and iGaming We operate and conduct
+    retail and online sports wagering ..."
+
+============================================================
+  CZR | 10-K | 0001590895-25-000068
+  /home/mjw/Projects/Slots/sec-edgar-filings/CZR/10-K/0001590895-25-000068/full-submission.txt
+============================================================
+
+  [progressive jackpot]
+    " ... represents the Company’s net win from these gaming activities,
+    which is the difference between gaming wins and losses, not the total
+    amount wagered. Progressive jackpots are accrued and charged to revenue
+    at the time the obligation to pay the jackpot is established. Gaming
+    revenues are recognized net of free bets, fr..."
+
+  [progressive jackpot]
+    " ... represents the Company’s net win from these gaming activities,
+    which is the difference between gaming wins and losses, not the total
+    amount wagered. Progressive jackpots are accrued and charged to revenue
+    at the time the obligation to pay the jackpot is established. Gaming
+    revenues are recognized net of free bets, fr..."
+
+  [hold percentage]
+    " ...cal win rates to estimate what a certain type of game, on average,
+    will win or lose in the long run. In addition to the element of chance,
+    win rates (hold percentages) are also affected by the spread of table
+    limits and factors that are beyond our control, such as a player’s
+    skill, experience and behavior, the mix..."
+
+  [hold percentage]
+    " ...ld. Slot win percentage is typically in the range of approximately
+    9% to 11% of slot handle for both the Las Vegas and Regional segments.
+    Table games hold percentage is typically in the range of approximately
+    16% to 23% of table games drop in both the Las Vegas and Regional
+    segments. Sports betting hold is typical..."
+
+  [hold percentage]
+    " ... betting and online casinos expand through increased state or
+    jurisdictional legalization, new product launches, and customer
+    adoption, variations in hold percentages and increases in promotional
+    and marketing expenses in highly competitive markets during promotional
+    periods may negatively impact Caesars Digital’s..."
+
+  [gaming win]
+    " ...ons, sports betting and iGaming wagers. Casino revenue represents
+    the Company’s net win from these gaming activities, which is the
+    difference between gaming wins and losses, not the total amount wagered.
+    Progressive jackpots are accrued and charged to revenue at the time the
+    obligation to pay the jackpot is e..."
+
+  [slot revenue]
+    " ... our retail and online sportsbooks, iGaming and other games such as
+    keno, all of which comprised approximately 56% of our total net revenues
+    in 2024. Slot revenues generate the majority of our casino revenues.
+    Retail and Online Sports Betting and iGaming The Company operates and
+    conducts sports wagering across ..."
+
+============================================================
+  CZR | 10-K | 0001590895-26-000011
+  /home/mjw/Projects/Slots/sec-edgar-filings/CZR/10-K/0001590895-26-000011/full-submission.txt
+============================================================
+
+  [progressive jackpot]
+    " ... represents the Company’s net win from these gaming activities,
+    which is the difference between gaming wins and losses, not the total
+    amount wagered. Progressive jackpots are accrued and charged to revenue
+    at the time the obligation to pay the jackpot is established. Gaming
+    revenues are recognized net of free bets, fr..."
+
+  [progressive jackpot]
+    " ... represents the Company’s net win from these gaming activities,
+    which is the difference between gaming wins and losses, not the total
+    amount wagered. Progressive jackpots are accrued and charged to revenue
+    at the time the obligation to pay the jackpot is established. Gaming
+    revenues are recognized net of free bets, fr..."
+
+  [hold percentage]
+    " ...cal win rates to estimate what a certain type of game, on average,
+    will win or lose in the long run. In addition to the element of chance,
+    win rates (hold percentages) are also affected by the spread of table
+    limits and factors that are beyond our control, such as a player’s
+    skill, experience and behavior, the mix..."
+
+  [hold percentage]
+    " ... revenues and is referred to as our win or hold. Slot win
+    percentage is typically in the range of approximately 9% to 11% of slot
+    handle. Table games hold percentage is typically in the range of
+    approximately 16% to 23% of table games drop. Sports betting hold is
+    typically in the range of 7% to 11% and iGaming hol..."
+
+  [hold percentage]
+    " ... betting and online casinos expand through increased state or
+    jurisdictional legalization, new product launches, and customer
+    adoption, variations in hold percentages and increases in promotional
+    and marketing expenses in highly competitive markets may negatively
+    impact Caesars Digital’s net revenues, net income, ..."
+
+  [gaming win]
+    " ...ons, sports betting and iGaming wagers. Casino revenue represents
+    the Company’s net win from these gaming activities, which is the
+    difference between gaming wins and losses, not the total amount wagered.
+    Progressive jackpots are accrued and charged to revenue at the time the
+    obligation to pay the jackpot is e..."
+
+  [slot revenue]
+    " ...ur retail and online sportsbooks, iGaming and other games such as
+    keno, all of which represented approximately 58% of our total net
+    revenues in 2025. Slot revenues generate the majority of our casino
+    revenues. Retail and Online Sports Betting and iGaming The Company
+    operates and conducts sports wagering across ..."
+
+============================================================
+  CZR | 10-Q | 0001590895-23-000077
+  /home/mjw/Projects/Slots/sec-edgar-filings/CZR/10-Q/0001590895-23-000077/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ...old. Slot win percentage is typically in the range of approximately
+    9% to 11% of slot handle for both the Las Vegas and Regional segments.
+    Table game hold percentage is typically in the range of approximately
+    16% to 23% of table game drop in both the Las Vegas and Regional
+    segments. Sports betting hold is typicall..."
+
+  [hold percentage]
+    " ...n on our promotional offerings. As sports betting and online
+    casinos expand through increased state legalization and customer
+    adoption, variations in hold percentages and increases in marketing and
+    promotional costs in highly competitive markets during promotional
+    periods may negatively impact Caesars Digital’s ne..."
+
+  [hold percentage]
+    " ...pact Caesars Digital’s net revenues, Adjusted EBITDA and Adjusted
+    EBITDA margin in comparison to current or prior periods. Sports betting
+    and iGaming hold percentages in the Caesars Digital segment for the
+    three months ended March 31, 2023 were within our typical range. Table
+    of Contents 34 Managed and Branded Seg..."
+
+  [gaming win]
+    " ... quarter of 2022 resulting from a substantial amount of bonus cash
+    and matched deposits issued to customers as sign-on incentives, which
+    exceeded our gaming win. We continue to adjust our level of investment
+    during the launch period in new jurisdictions based, in part, on prior
+    experience and do not expect su..."
+
+============================================================
+  CZR | 10-Q | 0001590895-23-000091
+  /home/mjw/Projects/Slots/sec-edgar-filings/CZR/10-Q/0001590895-23-000091/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ...old. Slot win percentage is typically in the range of approximately
+    9% to 11% of slot handle for both the Las Vegas and Regional segments.
+    Table game hold percentage is typically in the range of approximately
+    16% to 23% of table game drop in both the Las Vegas and Regional
+    segments. Sports betting hold is typicall..."
+
+  [hold percentage]
+    " ... period. As sports betting and online casinos expand through
+    increased state legalization, new product launches, and customer
+    adoption, variations in hold percentages and increases in promotional
+    and marketing expenses in highly competitive markets during promotional
+    periods may negatively impact Caesars Digital’s..."
+
+  [hold percentage]
+    " ... Digital’s net revenues, net income, Adjusted EBITDA and Adjusted
+    EBITDA margin in comparison to current or prior periods. Sports betting
+    and iGaming hold percentages in the Caesars Digital segment for the
+    three and six months ended June 30, 2023 were within our typical range.
+    Table of Contents 38 Managed and Bran..."
+
+  [gaming win]
+    " ... quarter of 2022 resulting from a substantial amount of bonus cash
+    and matched deposits issued to customers as sign-on incentives, which
+    exceeded our gaming win. We continue to adjust our level of investment
+    during the launch period in new jurisdictions based, in part, on prior
+    experience and do not expect su..."
+
+============================================================
+  CZR | 10-Q | 0001590895-23-000122
+  /home/mjw/Projects/Slots/sec-edgar-filings/CZR/10-Q/0001590895-23-000122/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ...old. Slot win percentage is typically in the range of approximately
+    9% to 11% of slot handle for both the Las Vegas and Regional segments.
+    Table game hold percentage is typically in the range of approximately
+    16% to 23% of table game drop in both the Las Vegas and Regional
+    segments. Sports betting hold is typicall..."
+
+  [hold percentage]
+    " ... betting and online casinos expand through increased state or
+    jurisdictional legalization, new product launches, and customer
+    adoption, variations in hold percentages and increases in promotional
+    and marketing expenses in highly competitive markets during promotional
+    periods may negatively impact Caesars Digital’s..."
+
+  [hold percentage]
+    " ... Digital’s net revenues, net income, Adjusted EBITDA and Adjusted
+    EBITDA margin in comparison to current or prior periods. Sports betting
+    and iGaming hold percentages in the Caesars Digital segment for the
+    three and nine months ended September 30, 2023 were within our typical
+    range. Table of Contents 40 Managed an..."
+
+  [gaming win]
+    " ... quarter of 2022 resulting from a substantial amount of bonus cash
+    and matched deposits issued to customers as sign-on incentives, which
+    exceeded our gaming win. We continue to adjust our level of investment
+    during the launch period in new jurisdictions based, in part, on prior
+    experience and do not expect su..."
+
+============================================================
+  CZR | 10-Q | 0001590895-24-000088
+  /home/mjw/Projects/Slots/sec-edgar-filings/CZR/10-Q/0001590895-24-000088/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ...old. Slot win percentage is typically in the range of approximately
+    9% to 11% of slot handle for both the Las Vegas and Regional segments.
+    Table game hold percentage is typically in the range of approximately
+    16% to 23% of table game drop in both the Las Vegas and Regional
+    segments. Sports betting hold is typicall..."
+
+  [hold percentage]
+    " ... betting and online casinos expand through increased state or
+    jurisdictional legalization, new product launches, and customer
+    adoption, variations in hold percentages and increases in promotional
+    and marketing expenses in highly competitive markets during promotional
+    periods may negatively impact Caesars Digital’s..."
+
+  [hold percentage]
+    " ... Digital’s net revenues, net income, Adjusted EBITDA and Adjusted
+    EBITDA margin in comparison to current or prior periods. Sports betting
+    and iGaming hold percentages in the Caesars Digital segment for the
+    three months ended March 31, 2024 were within our typical range. Table
+    of Contents 32 Managed and Branded Seg..."
+
+============================================================
+  CZR | 10-Q | 0001590895-24-000124
+  /home/mjw/Projects/Slots/sec-edgar-filings/CZR/10-Q/0001590895-24-000124/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ...ld. Slot win percentage is typically in the range of approximately
+    9% to 11% of slot handle for both the Las Vegas and Regional segments.
+    Table games hold percentage is typically in the range of approximately
+    16% to 23% of table games drop in both the Las Vegas and Regional
+    segments. Sports betting hold is typical..."
+
+  [hold percentage]
+    " ... betting and online casinos expand through increased state or
+    jurisdictional legalization, new product launches, and customer
+    adoption, variations in hold percentages and increases in promotional
+    and marketing expenses in highly competitive markets during promotional
+    periods may negatively impact Caesars Digital’s..."
+
+  [hold percentage]
+    " ... Digital’s net revenues, net income, Adjusted EBITDA and Adjusted
+    EBITDA margin in comparison to current or prior periods. Sports betting
+    and iGaming hold percentages in the Caesars Digital segment for the
+    three and six months ended June 30, 2024 were within our typical range.
+    Table of Contents 35 Managed and Bran..."
+
+============================================================
+  CZR | 10-Q | 0001590895-24-000138
+  /home/mjw/Projects/Slots/sec-edgar-filings/CZR/10-Q/0001590895-24-000138/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ...ld. Slot win percentage is typically in the range of approximately
+    9% to 11% of slot handle for both the Las Vegas and Regional segments.
+    Table games hold percentage is typically in the range of approximately
+    16% to 23% of table games drop in both the Las Vegas and Regional
+    segments. Sports betting hold is typical..."
+
+  [hold percentage]
+    " ... betting and online casinos expand through increased state or
+    jurisdictional legalization, new product launches, and customer
+    adoption, variations in hold percentages and increases in promotional
+    and marketing expenses in highly competitive markets during promotional
+    periods may negatively impact Caesars Digital’s..."
+
+  [hold percentage]
+    " ... Digital’s net revenues, net income, Adjusted EBITDA and Adjusted
+    EBITDA margin in comparison to current or prior periods. Sports betting
+    and iGaming hold percentages in the Caesars Digital segment for the
+    three and nine months ended September 30, 2024 were within our typical
+    range. Table of Contents 38 Managed an..."
+
+============================================================
+  CZR | 10-Q | 0001590895-25-000110
+  /home/mjw/Projects/Slots/sec-edgar-filings/CZR/10-Q/0001590895-25-000110/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ... revenues and is referred to as our win or hold. Slot win
+    percentage is typically in the range of approximately 9% to 11% of slot
+    handle. Table games hold percentage is typically in the range of
+    approximately 16% to 23% of table games drop. Sports betting hold is
+    typically in the range of 7% to 11% and iGaming hol..."
+
+  [hold percentage]
+    " ... betting and online casinos expand through increased state or
+    jurisdictional legalization, new product launches, and customer
+    adoption, variations in hold percentages and increases in promotional
+    and marketing expenses in highly competitive markets during promotional
+    periods may negatively impact Caesars Digital’s..."
+
+============================================================
+  CZR | 10-Q | 0001590895-25-000126
+  /home/mjw/Projects/Slots/sec-edgar-filings/CZR/10-Q/0001590895-25-000126/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ... revenues and is referred to as our win or hold. Slot win
+    percentage is typically in the range of approximately 9% to 11% of slot
+    handle. Table games hold percentage is typically in the range of
+    approximately 16% to 23% of table games drop. Sports betting hold is
+    typically in the range of 7% to 11% and iGaming hol..."
+
+  [hold percentage]
+    " ... betting and online casinos expand through increased state or
+    jurisdictional legalization, new product launches, and customer
+    adoption, variations in hold percentages and increases in promotional
+    and marketing expenses in highly competitive markets may negatively
+    impact Caesars Digital’s net revenues, net income, ..."
+
+============================================================
+  CZR | 10-Q | 0001590895-25-000130
+  /home/mjw/Projects/Slots/sec-edgar-filings/CZR/10-Q/0001590895-25-000130/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ... revenues and is referred to as our win or hold. Slot win
+    percentage is typically in the range of approximately 9% to 11% of slot
+    handle. Table games hold percentage is typically in the range of
+    approximately 16% to 23% of table games drop. Sports betting hold is
+    typically in the range of 7% to 11% and iGaming hol..."
+
+  [hold percentage]
+    " ... betting and online casinos expand through increased state or
+    jurisdictional legalization, new product launches, and customer
+    adoption, variations in hold percentages and increases in promotional
+    and marketing expenses in highly competitive markets may negatively
+    impact Caesars Digital’s net revenues, net income (..."
+
+============================================================
+  MGM | 10-K | 0000789570-23-000008
+  /home/mjw/Projects/Slots/sec-edgar-filings/MGM/10-K/0000789570-23-000008/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ...ors: table games drop and slots handle (volume indicators); “win”
+    or “hold” percentage, which is not fully controllable by us. Our normal
+    table games hold percentage at our Las Vegas Strip Resorts is in the
+    range of 25.0% to 35.0% of table games drop for Baccarat and 19.0% to
+    23.0% for non-Baccarat; however, reduc..."
+
+  [hold percentage]
+    " ... for Baccarat and 19.0% to 23.0% for non-Baccarat; however, reduced
+    gaming volumes as a result of the COVID-19 pandemic could cause
+    volatility in our hold percentages; and • Hotel revenue indicators (for
+    Las Vegas Strip Resorts): hotel occupancy (a volume indicator); average
+    daily rate (“ADR,” a price indicator); ..."
+
+  [hold percentage]
+    " ...typically in the range of 2.6% to 3.3% of turnover; however,
+    reduced gaming volumes as a result of the pandemic could cause
+    volatility in MGM China’s hold percentages. Results of Operations
+    Summary Operating Results The following table summarizes our operating
+    results: Year Ended December 31, 2022 2021 2020 (In th..."
+
+  [gaming win]
+    " ...les, food and beverage transactions, entertainment shows, and
+    retail transactions. The transaction price for a casino wager is the
+    difference between gaming wins and losses (“net win”). In certain
+    circumstances, the Company offers discounts on markers, which is
+    estimated based upon historical business practic..."
+
+  [gaming win]
+    " ...les, food and beverage transactions, entertainment shows, and
+    retail transactions. The transaction price for a casino wager is the
+    difference between gaming wins and losses (“net win”). In certain
+    circumstances, the Company offers discounts on markers, which is
+    estimated based upon historical business practic..."
+
+  [gaming win]
+    " ...les, food and beverage transactions, entertainment shows, and
+    retail transactions. The transaction price for a casino wager is the
+    difference between gaming wins and losses (“net win”). In certain
+    circumstances, the Company offers discounts on markers, which is
+    estimated based upon historical business practic..."
+
+  [gaming win]
+    " ...mily:'Times New
+    Roman',sans-serif;font-size:10pt;font-weight:400;line-height:115%">The
+    transaction price for a casino wager is the difference between gaming
+    wins and losses (“net win”). In certain circumstances, the Company
+    offers discounts on markers, which is estimated based upon historical
+    business practic..."
+
+  [gaming win]
+    " ...mily:'Times New
+    Roman',sans-serif;font-size:10pt;font-weight:400;line-height:115%">The
+    transaction price for a casino wager is the difference between gaming
+    wins and losses (“net win”). In certain circumstances, the Company
+    offers discounts on markers, which is estimated based upon historical
+    business practic..."
+
+============================================================
+  MGM | 10-K | 0000789570-24-000005
+  /home/mjw/Projects/Slots/sec-edgar-filings/MGM/10-K/0000789570-24-000005/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ...ors: table games drop and slots handle (volume indicators); “win”
+    or “hold” percentage, which is not fully controllable by us. Our normal
+    table games hold percentage at our Las Vegas Strip Resorts is in the
+    range of 25.0% to 35.0% of table games drop for baccarat and 19.0% to
+    23.0% for non-baccarat; and • Hotel re..."
+
+  [gaming win]
+    " ...les, food and beverage transactions, entertainment shows, and
+    retail transactions. The transaction price for a casino wager is the
+    difference between gaming wins and losses (“net win”). In certain
+    circumstances, the Company offers discounts on markers, which is
+    estimated based upon historical business practic..."
+
+  [gaming win]
+    " ...les, food and beverage transactions, entertainment shows, and
+    retail transactions. The transaction price for a casino wager is the
+    difference between gaming wins and losses (“net win”). In certain
+    circumstances, the Company offers discounts on markers, which is
+    estimated based upon historical business practic..."
+
+  [gaming win]
+    " ...les, food and beverage transactions, entertainment shows, and
+    retail transactions. The transaction price for a casino wager is the
+    difference between gaming wins and losses (“net win”). In certain
+    circumstances, the Company offers discounts on markers, which is
+    estimated based upon historical business practic..."
+
+  [gaming win]
+    " ...mily:'Times New
+    Roman',sans-serif;font-size:10pt;font-weight:400;line-height:115%">The
+    transaction price for a casino wager is the difference between gaming
+    wins and losses (“net win”). In certain circumstances, the Company
+    offers discounts on markers, which is estimated based upon historical
+    business practic..."
+
+  [gaming win]
+    " ...mily:'Times New
+    Roman',sans-serif;font-size:10pt;font-weight:400;line-height:115%">The
+    transaction price for a casino wager is the difference between gaming
+    wins and losses (“net win”). In certain circumstances, the Company
+    offers discounts on markers, which is estimated based upon historical
+    business practic..."
+
+============================================================
+  MGM | 10-K | 0000789570-25-000008
+  /home/mjw/Projects/Slots/sec-edgar-filings/MGM/10-K/0000789570-25-000008/full-submission.txt
+============================================================
+
+  [gaming win]
+    " ...s, (volume 37 indicators); “win” or “hold” percentage, which is not
+    fully controllable by us. “Win” or “hold” percentages represent the net
+    amount of gaming wins and losses in relation to table games drop or slot
+    handle; and • Hotel revenue indicators (for Las Vegas Strip Resorts) –
+    hotel occupancy (a volume ..."
+
+  [gaming win]
+    " ...les, food and beverage transactions, entertainment shows, and
+    retail transactions. The transaction price for a casino wager is the
+    difference between gaming wins and losses (“net win”). Discounts on
+    markers and commissions rebated to players are recorded as a reduction
+    of casino revenue. The Company accounts ..."
+
+  [gaming win]
+    " ...les, food and beverage transactions, entertainment shows, and
+    retail transactions. The transaction price for a casino wager is the
+    difference between gaming wins and losses (“net win”). Discounts on
+    markers and commissions rebated to players are recorded as a reduction
+    of casino revenue. The Company accounts ..."
+
+  [gaming win]
+    " ...les, food and beverage transactions, entertainment shows, and
+    retail transactions. The transaction price for a casino wager is the
+    difference between gaming wins and losses (“net win”). Discounts on
+    markers and commissions rebated to players are recorded as a reduction
+    of casino revenue. The Company accounts ..."
+
+  [gaming win]
+    " ...mily:'Times New
+    Roman',sans-serif;font-size:10pt;font-weight:400;line-height:115%">The
+    transaction price for a casino wager is the difference between gaming
+    wins and losses (“net win”). Discounts on markers and commissions
+    rebated to players are recorded as a reduction of casino revenue. The
+    Company accounts ..."
+
+  [gaming win]
+    " ...mily:'Times New
+    Roman',sans-serif;font-size:10pt;font-weight:400;line-height:115%">The
+    transaction price for a casino wager is the difference between gaming
+    wins and losses (“net win”). Discounts on markers and commissions
+    rebated to players are recorded as a reduction of casino revenue. The
+    Company accounts ..."
+
+============================================================
+  MGM | 10-K | 0000789570-26-000018
+  /home/mjw/Projects/Slots/sec-edgar-filings/MGM/10-K/0000789570-26-000018/full-submission.txt
+============================================================
+
+  [gaming win]
+    " ...ines, (volume indicators); “win” or “hold” percentage, which is not
+    fully controllable by us. “Win” or “hold” percentages represent the net
+    amount of gaming wins and losses in relation to table games drop or slot
+    handle; and 35 • Hotel revenue indicators (for Las Vegas Strip Resorts)
+    – hotel occupancy (a volu..."
+
+  [gaming win]
+    " ...les, food and beverage transactions, entertainment shows, and
+    retail transactions. The transaction price for a casino wager is the
+    difference between gaming wins and losses (“net win”). Discounts on
+    markers and commissions rebated to players are recorded as a reduction
+    of casino revenue. The Company accounts ..."
+
+  [gaming win]
+    " ...he amount due that is payable by such Person. For the avoidance of
+    doubt, it is understood and agreed that (x) unredeemed casino chips and
+    tokens and gaming winnings of customers, (y) any obligations of such
+    Person in respect of Cash Management Agreements and (z) any obligations
+    of such Person in respect of e..."
+
+  [gaming win]
+    " ...les, food and beverage transactions, entertainment shows, and
+    retail transactions. The transaction price for a casino wager is the
+    difference between gaming wins and losses (“net win”). Discounts on
+    markers and commissions rebated to players are recorded as a reduction
+    of casino revenue. The Company accounts ..."
+
+  [gaming win]
+    " ...les, food and beverage transactions, entertainment shows, and
+    retail transactions. The transaction price for a casino wager is the
+    difference between gaming wins and losses (“net win”). Discounts on
+    markers and commissions rebated to players are recorded as a reduction
+    of casino revenue. The Company accounts ..."
+
+  [gaming win]
+    " ...nt-family:'Times New
+    Roman',serif;font-size:10pt;font-weight:400;line-height:115%">The
+    transaction price for a casino wager is the difference between gaming
+    wins and losses (“net win”). Discounts on markers and commissions
+    rebated to players are recorded as a reduction of casino revenue. The
+    Company accounts ..."
+
+  [gaming win]
+    " ...nt-family:'Times New
+    Roman',serif;font-size:10pt;font-weight:400;line-height:115%">The
+    transaction price for a casino wager is the difference between gaming
+    wins and losses (“net win”). Discounts on markers and commissions
+    rebated to players are recorded as a reduction of casino revenue. The
+    Company accounts ..."
+
+============================================================
+  MGM | 10-Q | 0000789570-23-000013
+  /home/mjw/Projects/Slots/sec-edgar-filings/MGM/10-Q/0000789570-23-000013/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ...tors: table games drop and slot handle (volume indicators); “win”
+    or “hold” percentage, which is not fully controllable by us. Our normal
+    table games hold percentage at our Las Vegas Strip Resorts is in the
+    range of 25.0% to 35.0% of table games drop for baccarat and 19.0% to
+    23.0% for non-baccarat; and 24 • Hotel..."
+
+============================================================
+  MGM | 10-Q | 0000789570-23-000019
+  /home/mjw/Projects/Slots/sec-edgar-filings/MGM/10-Q/0000789570-23-000019/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ...tors: table games drop and slot handle (volume indicators); “win”
+    or “hold” percentage, which is not fully controllable by us. Our normal
+    table games hold percentage at our Las Vegas Strip Resorts is in the
+    range of 25.0% to 35.0% of table games drop for baccarat and 19.0% to
+    23.0% for non-baccarat; and • Hotel re..."
+
+============================================================
+  MGM | 10-Q | 0000789570-23-000024
+  /home/mjw/Projects/Slots/sec-edgar-filings/MGM/10-Q/0000789570-23-000024/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ...tors: table games drop and slot handle (volume indicators); “win”
+    or “hold” percentage, which is not fully controllable by us. Our normal
+    table games hold percentage at our Las Vegas Strip Resorts is in the
+    range of 25.0% to 35.0% of table games drop for baccarat and 19.0% to
+    23.0% for non-baccarat; and • Hotel re..."
+
+============================================================
+  MGM | 10-Q | 0000789570-24-000014
+  /home/mjw/Projects/Slots/sec-edgar-filings/MGM/10-Q/0000789570-24-000014/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ...tors: table games drop and slot handle (volume indicators); “win”
+    or “hold” percentage, which is not fully controllable by us. Our normal
+    table games hold percentage at our Las Vegas Strip Resorts is in the
+    range of 25.0% to 35.0% of table games drop for baccarat and 19.0% to
+    23.0% for non-baccarat; and • Hotel re..."
+
+============================================================
+  MGM | 10-Q | 0000789570-24-000022
+  /home/mjw/Projects/Slots/sec-edgar-filings/MGM/10-Q/0000789570-24-000022/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ...tors: table games drop and slot handle (volume indicators); “win”
+    or “hold” percentage, which is not fully controllable by us. Our normal
+    table games hold percentage at our Las Vegas Strip Resorts is in the
+    range of 25.0% to 35.0% of table games drop for baccarat and 19.0% to
+    23.0% for non-baccarat; and • Hotel re..."
+
+============================================================
+  MGM | 10-Q | 0000789570-24-000029
+  /home/mjw/Projects/Slots/sec-edgar-filings/MGM/10-Q/0000789570-24-000029/full-submission.txt
+============================================================
+
+  [hold percentage]
+    " ...tors: table games drop and slot handle (volume indicators); “win”
+    or “hold” percentage, which is not fully controllable by us. Our normal
+    table games hold percentage at our Las Vegas Strip Resorts is in the
+    range of 25.0% to 35.0% of table games drop for baccarat and 19.0% to
+    23.0% for non-baccarat; and • Hotel re..."
+
+  [gaming win]
+    " ... related to casino gaming provided to such non-residents shall be
+    exempt from income tax; (ii) the Company shall not be required to report
+    individual gaming wins, submit records of payment ( shiharai chousho ),
+    nor withhold income tax from Japanese residents; (iii) revenues arising
+    from casino business shall ..."
+
+============================================================
+  MGM | 10-Q | 0000789570-25-000021
+  /home/mjw/Projects/Slots/sec-edgar-filings/MGM/10-Q/0000789570-25-000021/full-submission.txt
+============================================================
+
+  [gaming win]
+    " ...ines, (volume indicators); “win” or “hold” percentage, which is not
+    fully controllable by us. “Win” or “hold” percentages represent the net
+    amount of gaming wins and losses in relation to table games drop or slot
+    handle; and • Hotel revenue indicators (for Las Vegas Strip Resorts) –
+    hotel occupancy (a volume ..."
+
+============================================================
+  MGM | 10-Q | 0000789570-25-000033
+  /home/mjw/Projects/Slots/sec-edgar-filings/MGM/10-Q/0000789570-25-000033/full-submission.txt
+============================================================
+
+  [gaming win]
+    " ...ines, (volume indicators); “win” or “hold” percentage, which is not
+    fully controllable by us. “Win” or “hold” percentages represent the net
+    amount of gaming wins and losses in relation to table games drop or slot
+    handle; and • Hotel revenue indicators (for Las Vegas Strip Resorts) –
+    hotel occupancy (a volume ..."
+
+============================================================
+  MGM | 10-Q | 0000789570-25-000074
+  /home/mjw/Projects/Slots/sec-edgar-filings/MGM/10-Q/0000789570-25-000074/full-submission.txt
+============================================================
+
+  [gaming win]
+    " ...ines, (volume indicators); “win” or “hold” percentage, which is not
+    fully controllable by us. “Win” or “hold” percentages represent the net
+    amount of gaming wins and losses in relation to table games drop or slot
+    handle; and • Hotel revenue indicators (for Las Vegas Strip Resorts) –
+    hotel occupancy (a volume ..."
+
+============================================================
+  PENN | 10-K | 0000921738-23-000010
+  /home/mjw/Projects/Slots/sec-edgar-filings/PENN/10-K/0000921738-23-000010/full-submission.txt
+============================================================
+
+  [progressive jackpot liability]
+    " ...” Additionally, amounts as of December 31, 2022 and 2021 include $
+    51.4 million and $ 47.6 million, respectively, pertaining to the
+    Company’s accrued progressive jackpot liability. (2) Amounts as of
+    December 31, 2022 and 2021 include $ 70.8 million and $ 82.1 million,
+    respectively, pertaining to the Company’s non-qualified defe..."
+
+  [progressive jackpot liability]
+    " ...omponent Ownership interest Equity Method Investment, Ownership
+    Percentage Advance deposits Advance Deposit, Current Advance Deposit,
+    Current Accrued progressive jackpot liability Accrued Progressive
+    Jackpot Liability, Current Accrued Progressive Jackpot Liability,
+    Current Restricted stock Restricted Stock [Member] Estimated us..."
+
+  [progressive jackpot liability]
+    " ...posits Advance Deposit, Current Advance Deposit, Current Accrued
+    progressive jackpot liability Accrued Progressive Jackpot Liability,
+    Current Accrued Progressive Jackpot Liability, Current Restricted stock
+    Restricted Stock [Member] Estimated useful lives of property and
+    equipment Property, Plant and Equipment [Line Items] Prope..."
+
+  [progressive jackpot liability]
+    " ...s.” Additionally, amounts as of December 31, 2022 and 2021 include
+    $51.4 million and $47.6 million, respectively, pertaining to the
+    Company’s accrued progressive jackpot liability. (2) Amounts as of
+    December 31, 2022 and 2021 include $70.8 million and $82.1 million,
+    respectively, pertaining to the Company’s non-qualified deferr..."
+    Amounts found: $51.4 million, $47.6 million, $70.8 million, $82.1 million
+
+  [progressive jackpot liability]
+    " ...s.” Additionally, amounts as of December 31, 2022 and 2021 include
+    $51.4 million and $47.6 million, respectively, pertaining to the
+    Company’s accrued progressive jackpot liability. (2) Amounts as of
+    December 31, 2022 and 2021 include $70.8 million and $82.1 million,
+    respectively, pertaining to the Company’s non-qualified deferr..."
+    Amounts found: $51.4 million, $47.6 million, $70.8 million, $82.1 million
+
+  [progressive jackpot liability]
+    " ...20.8 20.9 Other accrued expenses 321.4 317.5 Other current
+    liabilities 203.7 201.0 Accrued expenses and other current liabilities
+    804.7 798.5 Accrued progressive jackpot liability 51.4 47.6 Deferred
+    compensation liability, current 70.8 82.1 Advance deposits $ 60.2 $ 52.1
+    X - Definition Accrued Progressive Jackpot Liability, Cur..."
+
+  [progressive jackpot liability]
+    " ...rued progressive jackpot liability 51.4 47.6 Deferred compensation
+    liability, current 70.8 82.1 Advance deposits $ 60.2 $ 52.1 X -
+    Definition Accrued Progressive Jackpot Liability, Current + References
+    No definition available. + Details Name:
+    penn_AccruedProgressiveJackpotLiabilityCurrent Namespace Prefix: penn_
+    Data Type: xbrl..."
+
+  [progressive jackpot liability]
+    " ...%"> Additionally, amounts as of December 31, 2022 and 2021 include
+    $51.4 million and $47.6 million, respectively, pertaining to the
+    Company’s accrued progressive jackpot liability.</span></div><div
+    style="margin-bottom:10pt;padding-left:36pt;text-indent:-18pt"><span
+    style="color:#000000;font-family:'Times New Roman',sans-serif;..."
+    Amounts found: $51.4 million, $47.6 million
+
+  [progressive jackpot liability]
+    " ...%"> Additionally, amounts as of December 31, 2022 and 2021 include
+    $51.4 million and $47.6 million, respectively, pertaining to the
+    Company’s accrued progressive jackpot liability.</span></div><div
+    style="margin-bottom:10pt;padding-left:36pt;text-indent:-18pt"><span
+    style="color:#000000;font-family:'Times New Roman',sans-serif;..."
+    Amounts found: $51.4 million, $47.6 million
+
+  [progressive jackpot liability]
+    " ...pe" }, "penn_AccruedProgressiveJackpotLiabilityCurrent": {
+    "auth_ref": [], "crdr": "credit", "lang": { "en-us": { "role": {
+    "documentation": "Accrued Progressive Jackpot Liability, Current",
+    "label": "Accrued Progressive Jackpot Liability, Current", "terseLabel":
+    "Accrued progressive jackpot liability" } } }, "localname": "Accr..."
+
+  [progressive jackpot liability]
+    " ..."auth_ref": [], "crdr": "credit", "lang": { "en-us": { "role": {
+    "documentation": "Accrued Progressive Jackpot Liability, Current",
+    "label": "Accrued Progressive Jackpot Liability, Current", "terseLabel":
+    "Accrued progressive jackpot liability" } } }, "localname":
+    "AccruedProgressiveJackpotLiabilityCurrent", "nsuri": "http://ww..."
+
+  [progressive jackpot]
+    " ...The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Given the stability in our
+    slot hold percentages on a historical basis, we have not experienced
+    significant impacts to net income from changes in t..."
+
+  [accrued progressive]
+    " ... Policies.” Additionally, amounts as of December 31, 2022 and 2021
+    include $51.4 million and $47.6 million, respectively, pertaining to the
+    Company’s accrued progressive jackpot liability. (2) Amounts as of
+    December 31, 2022 and 2021 include $70.8 million and $82.1 million,
+    respectively, pertaining to the Company’s no..."
+    Amounts found: $51.4 million, $47.6 million, $70.8 million, $82.1 million
+
+  [hold percentage]
+    " ..., table game, sports bet or iCasino game (“Gaming Offerings”), on
+    average, will win or lose in the long run. Net win is impacted by
+    variations in the hold percentage (the ratio of net win to total amount
+    wagered), or actual outcome, in Gaming Offerings. We use the hold
+    percentage as an indicator of the performance..."
+
+  [hold percentage]
+    " ...n is impacted by variations in the hold percentage (the ratio of
+    net win to total amount wagered), or actual outcome, in Gaming
+    Offerings. We use the hold percentage as an indicator of the performance
+    of the Gaming Offering against its expected outcome. Although each
+    Gaming Offering generally performs within a def..."
+
+  [hold percentage]
+    " ...forms within a defined statistical range of outcomes, actual
+    outcomes may vary for any given period. In addition to the element of
+    chance, win rates (hold percentages) may also (depending on the game
+    involved) be affected by the spread of limits and factors that are
+    beyond our control, such as a user’s skill, expe..."
+
+  [hold percentage]
+    " ... or “hold” percentage. Our typical property slot win percentage is
+    in the range of approximately 7% to 11% of slot handle, and our typical
+    table game hold percentage is in the range of approximately 15% to 28%
+    of table game drop. Slot handle is the gross amount wagered during a
+    given period. The win or hold percen..."
+
+  [hold percentage]
+    " ... percentage is in the range of approximately 15% to 28% of table
+    game drop. Slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Give..."
+
+  [hold percentage]
+    " ... wins and losses, with liabilities recognized for accruals related
+    to the anticipated payout of progressive jackpots. Given the stability
+    in our slot hold percentages on a historical basis, we have not
+    experienced significant impacts to net income from changes in these
+    percentages. For table games, customers usual..."
+
+  [hold percentage]
+    " ...osited by customers before gaming play occurs and for unredeemed
+    gaming chips. As we are primarily focused on regional gaming markets,
+    our table game hold percentages are fairly stable as the majority of
+    these markets do not regularly experience high-end play, which can lead
+    to volatility in hold percentages. Ther..."
+
+  [hold percentage]
+    " ...e game hold percentages are fairly stable as the majority of these
+    markets do not regularly experience high-end play, which can lead to
+    volatility in hold percentages. Therefore, changes in table game hold
+    percentages do not typically have a material impact to our results of
+    operations and cash flows. Under normal..."
+
+  [hold percentage]
+    " ... Share-Based Compensation Arrangement by Share-Based Payment Award,
+    Options, Vested and Expected to Vest, Outstanding, Aggregate Intrinsic
+    Value Threshold percentage of stock price Debt Instrument, Convertible,
+    Threshold Percentage of Stock Price Trigger Freehold Raceway Freehold
+    Raceway [Member] Freehold Raceway ..."
+
+  [hold percentage]
+    " ..., Options, Vested and Expected to Vest, Outstanding, Aggregate
+    Intrinsic Value Threshold percentage of stock price Debt Instrument,
+    Convertible, Threshold Percentage of Stock Price Trigger Freehold
+    Raceway Freehold Raceway [Member] Freehold Raceway [Member] Convertible
+    Notes Convertible Notes Payable [Member] Proc..."
+
+  [hold percentage]
+    " ...rument [Line Items] Loss on early extinguishment of debt $ 10.4 $
+    0.0 $ 1.2 Debt Instrument, Redemption, Period One Debt Instrument [Line
+    Items] Threshold percentage of stock price 130.00% Debt Instrument,
+    Redemption, Period Two Debt Instrument [Line Items] Threshold percentage
+    of stock price 98.00% Debt Instrumen..."
+
+  [hold percentage]
+    " ...ne Debt Instrument [Line Items] Threshold percentage of stock price
+    130.00% Debt Instrument, Redemption, Period Two Debt Instrument [Line
+    Items] Threshold percentage of stock price 98.00% Debt Instrument,
+    Redemption, Period Three Debt Instrument [Line Items] Threshold
+    percentage of stock price 100.00% Convertible ..."
+
+  [hold percentage]
+    " ...o Debt Instrument [Line Items] Threshold percentage of stock price
+    98.00% Debt Instrument, Redemption, Period Three Debt Instrument [Line
+    Items] Threshold percentage of stock price 100.00% Convertible Notes |
+    2.75% Convertible Notes due 2026 Debt Instrument [Line Items] Interest
+    rate 2.75% Debt principal amount $ ..."
+
+  [hold percentage]
+    " ...tal Debt Instrument [Line Items] (Decrease) increase from adoption
+    $ (88.2) Debt Instrument, Redemption, Period One Debt Instrument [Line
+    Items] Threshold percentage of stock price 130.00% Debt Instrument,
+    Redemption, Period Two Debt Instrument [Line Items] Threshold percentage
+    of stock price 98.00% Debt Instrumen..."
+
+  [hold percentage]
+    " ...ne Debt Instrument [Line Items] Threshold percentage of stock price
+    130.00% Debt Instrument, Redemption, Period Two Debt Instrument [Line
+    Items] Threshold percentage of stock price 98.00% Debt Instrument,
+    Redemption, Period Three Debt Instrument [Line Items] Threshold
+    percentage of stock price 100.00% 5.625% Notes..."
+
+  [hold percentage]
+    " ...o Debt Instrument [Line Items] Threshold percentage of stock price
+    98.00% Debt Instrument, Redemption, Period Three Debt Instrument [Line
+    Items] Threshold percentage of stock price 100.00% 5.625% Notes due 2027
+    | Senior notes Debt Instrument [Line Items] Debt principal amount $
+    400.0 Interest rate 5.625% 5.625% 4...."
+
+  [hold percentage]
+    " ...tock price to conversion price of convertible debt instruments to
+    determine eligibility of conversion.", "label": "Debt Instrument,
+    Convertible, Threshold Percentage of Stock Price Trigger", "terseLabel":
+    "Threshold percentage of stock price" } } }, "localname":
+    "DebtInstrumentConvertibleThresholdPercentageOfStock..."
+
+  [hold percentage]
+    " ...s to determine eligibility of conversion.", "label": "Debt
+    Instrument, Convertible, Threshold Percentage of Stock Price Trigger",
+    "terseLabel": "Threshold percentage of stock price" } } }, "localname":
+    "DebtInstrumentConvertibleThresholdPercentageOfStockPriceTrigger",
+    "nsuri": "http://fasb.org/us-gaap/2022", "pres..."
+
+  [gaming win]
+    " ...tion,” for information on our revenue by type and geographic
+    location. The transaction price for a gaming wagering contract is the
+    difference between gaming wins and losses, not the total amount wagered.
+    The transaction price for food and beverage, hotel and retail contracts
+    is the net amount collected from t..."
+
+  [gaming win]
+    " ...tion,” for information on our revenue by type and geographic
+    location. The transaction price for a gaming wagering contract is the
+    difference between gaming wins and losses, not the total amount wagered.
+    The transaction price for food and beverage, hotel and retail contracts
+    is the net amount collected from t..."
+
+  [gaming win]
+    " ...tion,” for information on our revenue by type and geographic
+    location. The transaction price for a gaming wagering contract is the
+    difference between gaming wins and losses, not the total amount wagered.
+    The transaction price for food and beverage, hotel and retail contracts
+    is the net amount collected from t..."
+
+  [gaming win]
+    " ...New
+    Roman',sans-serif;font-size:10pt;font-weight:400;line-height:120%">The
+    transaction price for a gaming wagering contract is the difference
+    between gaming wins and losses, not the total amount wagered. The
+    transaction price for food and beverage, hotel and retail contracts is
+    the net amount collected from t..."
+
+  [gaming win]
+    " ...New
+    Roman',sans-serif;font-size:10pt;font-weight:400;line-height:120%">The
+    transaction price for a gaming wagering contract is the difference
+    between gaming wins and losses, not the total amount wagered. The
+    transaction price for food and beverage, hotel and retail contracts is
+    the net amount collected from t..."
+
+============================================================
+  PENN | 10-K | 0000921738-24-000012
+  /home/mjw/Projects/Slots/sec-edgar-filings/PENN/10-K/0000921738-24-000012/full-submission.txt
+============================================================
+
+  [progressive jackpot liability]
+    " ...” Additionally, amounts as of December 31, 2023 and 2022 include $
+    60.8 million and $ 51.4 million, respectively, pertaining to the
+    Company’s accrued progressive jackpot liability. (2) Amounts as December
+    31, 2023 and 2022 include $ 87.7 million and $ 70.8 million,
+    respectively, pertaining to the Company’s non-qualified deferre..."
+
+  [progressive jackpot liability]
+    " ...ipment, subject to the Master Leases Deferred Tax Liabilities,
+    Leasing Arrangements Subsequent Event Type [Axis] Subsequent Event Type
+    [Axis] Accrued progressive jackpot liability Accrued Progressive Jackpot
+    Liability, Current Accrued Progressive Jackpot Liability, Current
+    Proceeds from exercise of options Proceeds from Stock O..."
+
+  [progressive jackpot liability]
+    " ...ubsequent Event Type [Axis] Subsequent Event Type [Axis] Accrued
+    progressive jackpot liability Accrued Progressive Jackpot Liability,
+    Current Accrued Progressive Jackpot Liability, Current Proceeds from
+    exercise of options Proceeds from Stock Options Exercised Statement of
+    Comprehensive Income [Abstract] Statement of Comprehens..."
+
+  [progressive jackpot liability]
+    " ...s.” Additionally, amounts as of December 31, 2023 and 2022 include
+    $60.8 million and $51.4 million, respectively, pertaining to the
+    Company’s accrued progressive jackpot liability. (2) Amounts as December
+    31, 2023 and 2022 include $87.7 million and $70.8 million, respectively,
+    pertaining to the Company’s non-qualified deferred ..."
+    Amounts found: $60.8 million, $51.4 million, $87.7 million, $70.8 million
+
+  [progressive jackpot liability]
+    " ...s.” Additionally, amounts as of December 31, 2023 and 2022 include
+    $60.8 million and $51.4 million, respectively, pertaining to the
+    Company’s accrued progressive jackpot liability. (2) Amounts as December
+    31, 2023 and 2022 include $87.7 million and $70.8 million, respectively,
+    pertaining to the Company’s non-qualified deferred ..."
+    Amounts found: $60.8 million, $51.4 million, $87.7 million, $70.8 million
+
+  [progressive jackpot liability]
+    " ....1 20.8 Other accrued expenses 327.0 321.4 Other current
+    liabilities 382.2 203.7 Accrued expenses and other current liabilities
+    1,021.9 804.7 Accrued progressive jackpot liability 60.8 51.4 Deferred
+    compensation liability, current 87.7 70.8 Advance deposits 127.0 63.4
+    Unpaid wagers $ 59.6 $ 54.0 X - Definition Accrued Progressi..."
+
+  [progressive jackpot liability]
+    " ...liability 60.8 51.4 Deferred compensation liability, current 87.7
+    70.8 Advance deposits 127.0 63.4 Unpaid wagers $ 59.6 $ 54.0 X -
+    Definition Accrued Progressive Jackpot Liability, Current + References
+    No definition available. + Details Name:
+    penn_AccruedProgressiveJackpotLiabilityCurrent Namespace Prefix: penn_
+    Data Type: xbrl..."
+
+  [progressive jackpot liability]
+    " ...entation": [
+    "http://www.pngaming.com/role/AccruedExpensesandOtherCurrentLiabilitiesDetails"
+    ], "lang": { "en-us": { "role": { "terseLabel": "Accrued progressive
+    jackpot liability", "label": "Accrued Progressive Jackpot Liability,
+    Current", "documentation": "Accrued Progressive Jackpot Liability,
+    Current" } } }, "auth_ref": [] ..."
+
+  [progressive jackpot liability]
+    " ...ExpensesandOtherCurrentLiabilitiesDetails" ], "lang": { "en-us": {
+    "role": { "terseLabel": "Accrued progressive jackpot liability",
+    "label": "Accrued Progressive Jackpot Liability, Current",
+    "documentation": "Accrued Progressive Jackpot Liability, Current" } } },
+    "auth_ref": [] }, "us-gaap_AccumulatedDepreciationDepletionAndAmo..."
+
+  [progressive jackpot liability]
+    " ...%"> Additionally, amounts as of December 31, 2023 and 2022 include
+    $60.8 million and $51.4 million, respectively, pertaining to the
+    Company’s accrued progressive jackpot liability.</span></div><div
+    style="margin-bottom:3pt;padding-left:36pt;text-indent:-18pt"><span
+    style="color:#212529;font-family:'Times New Roman',sans-serif;f..."
+    Amounts found: $60.8 million, $51.4 million
+
+  [progressive jackpot liability]
+    " ...%"> Additionally, amounts as of December 31, 2023 and 2022 include
+    $60.8 million and $51.4 million, respectively, pertaining to the
+    Company’s accrued progressive jackpot liability.</span></div><div
+    style="margin-bottom:3pt;padding-left:36pt;text-indent:-18pt"><span
+    style="color:#212529;font-family:'Times New Roman',sans-serif;f..."
+    Amounts found: $60.8 million, $51.4 million
+
+  [progressive jackpot]
+    " ...The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Given the stability in our
+    slot hold percentages on a historical basis, we have not experienced
+    significant impacts to net income (loss) from chang..."
+
+  [accrued progressive]
+    " ...jackpot liability 60.8 51.4 Deferred compensation liability,
+    current 87.7 70.8 Advance deposits 127.0 63.4 Unpaid wagers $ 59.6 $
+    54.0 X - Definition Accrued Progressive Jackpot Liability, Current +
+    References No definition available. + Details Name:
+    penn_AccruedProgressiveJackpotLiabilityCurrent Namespace Prefix: pen..."
+
+  [large payout]
+    " ... and could result in the user’s winnings exceeding those
+    anticipated. For example, in the past, certain VIP patrons have placed
+    bets that resulted in large payouts and negatively impacted our results
+    of operations. Similar events caused by the variability of win rates
+    (hold rates) have the potential to negative..."
+
+  [hold percentage]
+    " ..., table game, sports bet or iCasino game (“Gaming Offerings”), on
+    average, will win or lose in the long run. Net win is impacted by
+    variations in the hold percentage (the ratio of net win to total amount
+    wagered), or actual outcome, in Gaming Offerings. We use the hold
+    percentage as an indicator of the performance..."
+
+  [hold percentage]
+    " ...n is impacted by variations in the hold percentage (the ratio of
+    net win to total amount wagered), or actual outcome, in Gaming
+    Offerings. We use the hold percentage as an indicator of the performance
+    of the Gaming Offering against its expected outcome. Although each
+    Gaming Offering generally performs within a def..."
+
+  [hold percentage]
+    " ...forms within a defined statistical range of outcomes, actual
+    outcomes may vary for any given period. In addition to the element of
+    chance, win rates (hold percentages) may also (depending on the game
+    involved) be affected by the spread of limits and factors that are
+    beyond our control, such as a user’s skill, expe..."
+
+  [hold percentage]
+    " ... or “hold” percentage. Our typical property slot win percentage is
+    in the range of approximately 7% to 11% of slot handle, and our typical
+    table game hold percentage is in the range of approximately 12% to 28%
+    of table game drop. Slot handle is the gross amount wagered during a
+    given period. The win or hold percen..."
+
+  [hold percentage]
+    " ... percentage is in the range of approximately 12% to 28% of table
+    game drop. Slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Give..."
+
+  [hold percentage]
+    " ...osited by customers before gaming play occurs and for unredeemed
+    gaming chips. As we are primarily focused on regional gaming markets,
+    our table game hold percentages are fairly stable as the majority of
+    these markets do not regularly experience high-end play, which can lead
+    to volatility in hold percentages. Ther..."
+
+  [hold percentage]
+    " ...e game hold percentages are fairly stable as the majority of these
+    markets do not regularly experience high-end play, which can lead to
+    volatility in hold percentages. Therefore, changes in table game hold
+    percentages do not typically have a material impact to our results of
+    operations and cash flows. Under normal..."
+
+  [hold percentage]
+    " ...ing Two Years Lessee, Finance Lease, Percentage Of Average Change
+    To Net Revenues During Preceding Two Years Long-term assets Assets,
+    Noncurrent Threshold percentage of stock price Debt Instrument,
+    Convertible, Threshold Percentage of Stock Price Trigger Defined
+    Contribution Plan Disclosure [Line Items] Defined Co..."
+
+  [hold percentage]
+    " ...To Net Revenues During Preceding Two Years Long-term assets Assets,
+    Noncurrent Threshold percentage of stock price Debt Instrument,
+    Convertible, Threshold Percentage of Stock Price Trigger Defined
+    Contribution Plan Disclosure [Line Items] Defined Contribution Plan
+    Disclosure [Line Items] State and local income tax..."
+
+  [hold percentage]
+    " ...Debt Instrument [Line Items] (Decrease) increase from adoption $
+    18,900,000 Debt Instrument, Redemption, Period One Debt Instrument [Line
+    Items] Threshold percentage of stock price 130.00% Debt Instrument,
+    Redemption, Period Two Debt Instrument [Line Items] Threshold percentage
+    of stock price 98.00% Debt Instrumen..."
+
+  [hold percentage]
+    " ...ne Debt Instrument [Line Items] Threshold percentage of stock price
+    130.00% Debt Instrument, Redemption, Period Two Debt Instrument [Line
+    Items] Threshold percentage of stock price 98.00% Debt Instrument,
+    Redemption, Period Three Debt Instrument [Line Items] Threshold
+    percentage of stock price 100.00% 5.625% Notes..."
+
+  [hold percentage]
+    " ...o Debt Instrument [Line Items] Threshold percentage of stock price
+    98.00% Debt Instrument, Redemption, Period Three Debt Instrument [Line
+    Items] Threshold percentage of stock price 100.00% 5.625% Notes due 2027
+    | Senior notes Debt Instrument [Line Items] Debt principal amount $
+    400,000,000 Interest rate 5.625% 5.6..."
+
+  [hold percentage]
+    "
+    ...pngaming.com/role/LongtermDebtSeniorUnsecuredNotesUnsecuredConvertibleNotesandCovenantsDetails"
+    ], "lang": { "en-us": { "role": { "terseLabel": "Threshold percentage of
+    stock price", "label": "Debt Instrument, Convertible, Threshold
+    Percentage of Stock Price Trigger", "documentation": "Minimum percentage
+    of common..."
+
+  [gaming win]
+    " ...imately 12% to 28% of table game drop. Slot handle is the gross
+    amount wagered during a given period. The win or hold percentage is the
+    net amount of gaming wins and losses, with liabilities recognized for
+    accruals related to the anticipated payout of progressive jackpots.
+    Given the stability in our slot hold..."
+
+  [gaming win]
+    " ...ation” for information on our revenue by type and geographic
+    location. The transaction price for a gaming wagering contract is the
+    difference between gaming wins and losses, not the total amount wagered.
+    The transaction price for food and beverage, hotel, and retail contracts
+    is the net amount collected from ..."
+
+  [gaming win]
+    " ...ation” for information on our revenue by type and geographic
+    location. The transaction price for a gaming wagering contract is the
+    difference between gaming wins and losses, not the total amount wagered.
+    The transaction price for food and beverage, hotel, and retail contracts
+    is the net amount collected from ..."
+
+  [gaming win]
+    " ...ation” for information on our revenue by type and geographic
+    location. The transaction price for a gaming wagering contract is the
+    difference between gaming wins and losses, not the total amount wagered.
+    The transaction price for food and beverage, hotel, and retail contracts
+    is the net amount collected from ..."
+
+  [gaming win]
+    " ...New
+    Roman',sans-serif;font-size:10pt;font-weight:400;line-height:120%">The
+    transaction price for a gaming wagering contract is the difference
+    between gaming wins and losses, not the total amount wagered. The
+    transaction price for food and beverage, hotel, and retail contracts is
+    the net amount collected from ..."
+
+  [gaming win]
+    " ...New
+    Roman',sans-serif;font-size:10pt;font-weight:400;line-height:120%">The
+    transaction price for a gaming wagering contract is the difference
+    between gaming wins and losses, not the total amount wagered. The
+    transaction price for food and beverage, hotel, and retail contracts is
+    the net amount collected from ..."
+
+============================================================
+  PENN | 10-K | 0000921738-25-000008
+  /home/mjw/Projects/Slots/sec-edgar-filings/PENN/10-K/0000921738-25-000008/full-submission.txt
+============================================================
+
+  [progressive jackpot liability]
+    " ...entation.” Additionally, amounts for the respective periods include
+    $ 69.3 million and $ 60.8 million, respectively, related to the
+    Company’s accrued progressive jackpot liability. (2) For the years ended
+    December 31, 2024 and 2023, the amounts include $ 107.2 million and $
+    87.7 million, respectively, related to the Company’s n..."
+
+  [progressive jackpot liability]
+    " ...Advance deposits Advance Deposit, Current Advance Deposit, Current
+    Amortization of ROU assets Finance Lease, Right-of-Use Asset,
+    Amortization Accrued progressive jackpot liability Accrued Progressive
+    Jackpot Liability, Current Accrued Progressive Jackpot Liability,
+    Current Revenue from contract with customer, number of liabilit..."
+
+  [progressive jackpot liability]
+    " ...U assets Finance Lease, Right-of-Use Asset, Amortization Accrued
+    progressive jackpot liability Accrued Progressive Jackpot Liability,
+    Current Accrued Progressive Jackpot Liability, Current Revenue from
+    contract with customer, number of liabilities Revenue From Contract With
+    Customer, Number Of Liabilities Revenue From Contract ..."
+
+  [progressive jackpot liability]
+    " ...esentation.” Additionally, amounts for the respective periods
+    include $69.3 million and $60.8 million, respectively, related to the
+    Company’s accrued progressive jackpot liability. (2) For the years ended
+    December 31, 2024 and 2023, the amounts include $107.2 million and $87.7
+    million, respectively, related to the Company’s non..."
+    Amounts found: $69.3 million, $60.8 million, $107.2 million, $87.7 million
+
+  [progressive jackpot liability]
+    " ...esentation.” Additionally, amounts for the respective periods
+    include $69.3 million and $60.8 million, respectively, related to the
+    Company’s accrued progressive jackpot liability. (2) For the years ended
+    December 31, 2024 and 2023, the amounts include $107.2 million and $87.7
+    million, respectively, related to the Company’s non..."
+    Amounts found: $69.3 million, $60.8 million, $107.2 million, $87.7 million
+
+  [progressive jackpot liability]
+    " ....3 21.1 Other accrued expenses 317.4 327.0 Other current
+    liabilities 308.1 382.2 Accrued expenses and other current liabilities
+    907.3 1,021.9 Accrued progressive jackpot liability 69.3 60.8 Deferred
+    compensation liability, current 107.2 87.7 Advance deposits 90.0 127.0
+    Unpaid wagers 56.5 59.6 Barstool Acquisition Supplier Finan..."
+
+  [progressive jackpot liability]
+    " ...isition | Accrued Liabilities, Current Supplier Finance Program
+    [Line Items] Liabilities associated with this indemnity $ 30.5 X -
+    Definition Accrued Progressive Jackpot Liability, Current + References
+    No definition available. + Details Name:
+    penn_AccruedProgressiveJackpotLiabilityCurrent Namespace Prefix: penn_
+    Data Type: xbrl..."
+
+  [progressive jackpot liability]
+    " ...entation": [
+    "http://www.pngaming.com/role/AccruedExpensesandOtherCurrentLiabilitiesDetails"
+    ], "lang": { "en-us": { "role": { "terseLabel": "Accrued progressive
+    jackpot liability", "label": "Accrued Progressive Jackpot Liability,
+    Current", "documentation": "Accrued Progressive Jackpot Liability,
+    Current" } } }, "auth_ref": [] ..."
+
+  [progressive jackpot liability]
+    " ..."role": { "terseLabel": "Accrued progressive jackpot liability",
+    "label": "Accrued Progressive Jackpot Liability, Current",
+    "documentation": "Accrued Progressive Jackpot Liability, Current" } } },
+    "auth_ref": [] },
+    "us-gaap_AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment":
+    { "xbrltype": "monetaryItemTyp..."
+
+  [progressive jackpot liability]
+    " ...eight:120%"> Additionally, amounts for the respective periods
+    include $69.3 million and $60.8 million, respectively, related to the
+    Company’s accrued progressive jackpot liability.</span></div><div
+    style="margin-bottom:10pt;padding-left:36pt;text-indent:-18pt"><span
+    style="color:#212529;font-family:'Times New Roman',sans-serif;..."
+    Amounts found: $69.3 million, $60.8 million
+
+  [progressive jackpot liability]
+    " ...eight:120%"> Additionally, amounts for the respective periods
+    include $69.3 million and $60.8 million, respectively, related to the
+    Company’s accrued progressive jackpot liability.</span></div><div
+    style="margin-bottom:10pt;padding-left:36pt;text-indent:-18pt"><span
+    style="color:#212529;font-family:'Times New Roman',sans-serif;..."
+    Amounts found: $69.3 million, $60.8 million
+
+  [progressive jackpot]
+    " ...The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Given the stability in our
+    slot hold percentages on a historical basis, we have not experienced
+    significant impacts to net income from changes in t..."
+
+  [progressive jackpot]
+    " ... or hold percentage is the net amount of gaming wins and losses,
+    with liabilities recognized for accruals related to the anticipated
+    payout of online progressive jackpots. Given the stability in our online
+    slot hold percentages on a historical basis, we have not experienced
+    significant impacts to the results of our op..."
+
+  [accrued progressive]
+    " ... of Presentation.” Additionally, amounts for the respective periods
+    include $ 69.3 million and $ 60.8 million, respectively, related to the
+    Company’s accrued progressive jackpot liability. (2) For the years ended
+    December 31, 2024 and 2023, the amounts include $ 107.2 million and $
+    87.7 million, respectively, related ..."
+
+  [accrued progressive]
+    " ...", "presentation": [
+    "http://www.pngaming.com/role/AccruedExpensesandOtherCurrentLiabilitiesDetails"
+    ], "lang": { "en-us": { "role": { "terseLabel": "Accrued progressive
+    jackpot liability", "label": "Accrued Progressive Jackpot Liability,
+    Current", "documentation": "Accrued Progressive Jackpot Liability,
+    Current" } } ..."
+
+  [large payout]
+    " ...the user’s winnings 22 Table of Contents exceeding those
+    anticipated. For example, in the past, certain VIP patrons have placed
+    bets that resulted in large payouts and negatively impacted our results
+    of operations. Similar events caused by the variability of win rates
+    (hold rates) have the potential to negative..."
+
+  [hold percentage]
+    " ..., table game, sports bet or iCasino game (“Gaming Offerings”), on
+    average, will win or lose in the long run. Net win is impacted by
+    variations in the hold percentage (the ratio of net win to total amount
+    wagered), or actual outcome, in Gaming Offerings. We use the hold
+    percentage as an indicator of the performance..."
+
+  [hold percentage]
+    " ...n is impacted by variations in the hold percentage (the ratio of
+    net win to total amount wagered), or actual outcome, in Gaming
+    Offerings. We use the hold percentage as an indicator of the performance
+    of the Gaming Offering against its expected outcome. Although each
+    Gaming Offering generally performs within a def..."
+
+  [hold percentage]
+    " ...forms within a defined statistical range of outcomes, actual
+    outcomes may vary for any given period. In addition to the element of
+    chance, win rates (hold percentages) may also (depending on the game
+    involved) be affected by the spread of limits and factors that are
+    beyond our control, such as a user’s skill, expe..."
+
+  [hold percentage]
+    " ... or “hold” percentage. Our typical property slot win percentage is
+    in the range of approximately 5% to 11% of slot handle, and our typical
+    table game hold percentage is in the range of approximately 12% to 29%
+    of table game drop. Slot handle is the gross amount wagered during a
+    given period. The win or hold percen..."
+
+  [hold percentage]
+    " ... percentage is in the range of approximately 12% to 29% of table
+    game drop. Slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Give..."
+
+  [hold percentage]
+    " ... wins and losses, with liabilities recognized for accruals related
+    to the anticipated payout of progressive jackpots. Given the stability
+    in our slot hold percentages on a historical basis, we have not
+    experienced significant impacts to net income from changes in these
+    percentages. For table games, customers usual..."
+
+  [hold percentage]
+    " ...osited by customers before gaming play occurs and for unredeemed
+    gaming chips. As we are primarily focused on regional gaming markets,
+    our table game hold percentages are fairly stable as the majority of
+    these markets do not regularly experience high-value play, which can
+    lead to volatility in hold percentages. Th..."
+
+  [hold percentage]
+    " ...game hold percentages are fairly stable as the majority of these
+    markets do not regularly experience high-value play, which can lead to
+    volatility in hold percentages. Therefore, changes in table game hold
+    percentages do not typically have a material impact to our results of
+    operations and cash flows. Key performa..."
+
+  [hold percentage]
+    " ...rity of these markets do not regularly experience high-value play,
+    which can lead to volatility in hold percentages. Therefore, changes in
+    table game hold percentages do not typically have a material impact to
+    our results of operations and cash flows. Key performance indicators
+    related to online gaming revenue, in..."
+
+  [hold percentage]
+    " ...% to 9.2% of online handle, online slot win percentage is in the
+    range of approximately 4.5% to 4.9% of online slot handle, and our
+    online table game hold percentage is in the range of approximately 1.6%
+    to 2.2% of online table game handle. For online gaming, customers
+    deposit cash into their online accounts for u..."
+
+  [hold percentage]
+    " ...rs that have been placed on events that have not yet occurred.
+    Online sportsbook handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for any bonus funds deposited into
+    player accounts. Given that online sports..."
+
+  [hold percentage]
+    " ...us funds deposited into player accounts. Given that online sports
+    betting wagers are made based on the outcomes of future sporting events,
+    the win or hold percentage can vary based on the bet type (i.e. straight
+    wagers vs. parlay wagers). Online slot handle is the gross amount
+    wagered during a given period. The wi..."
+
+  [hold percentage]
+    " ...vary based on the bet type (i.e. straight wagers vs. parlay
+    wagers). Online slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of online progressive jackpot..."
+
+  [hold percentage]
+    " ...es, with liabilities recognized for accruals related to the
+    anticipated payout of online progressive jackpots. Given the stability
+    in our online slot hold percentages on a historical basis, we have not
+    experienced significant impacts to the results of our operations or cash
+    flows from changes in these percentages...."
+
+  [hold percentage]
+    " ...m changes in these percentages. Online table game hold is the
+    amount of handle that is retained and recorded as gaming revenue. Our
+    online table game hold percentages are fairly stable as we do not
+    regularly experience high-value online play, which can lead to
+    volatility in hold percentages. Given the stability in..."
+
+  [hold percentage]
+    " ...e. Our online table game hold percentages are fairly stable as we
+    do not regularly experience high-value online play, which can lead to
+    volatility in hold percentages. Given the stability in our online table
+    game hold percentages on a historical basis, we have not experienced
+    significant impacts to the results of ..."
+
+  [hold percentage]
+    " ...we do not regularly experience high-value online play, which can
+    lead to volatility in hold percentages. Given the stability in our
+    online table game hold percentages on a historical basis, we have not
+    experienced significant impacts to the results of our operations or cash
+    flows from changes in these percentages...."
+
+  [hold percentage]
+    " ...lock] Marketing expenses Marketing Expense Exercise price (in
+    dollars per share) Class of Warrant or Right, Exercise Price of Warrants
+    or Rights Threshold percentage of stock price Debt Instrument,
+    Convertible, Threshold Percentage of Stock Price Trigger Stock-Based
+    Compensation Share-Based Payment Arrangement [Te..."
+
+  [hold percentage]
+    " ...ars per share) Class of Warrant or Right, Exercise Price of
+    Warrants or Rights Threshold percentage of stock price Debt Instrument,
+    Convertible, Threshold Percentage of Stock Price Trigger Stock-Based
+    Compensation Share-Based Payment Arrangement [Text Block] Entity
+    Address, City or Town Entity Address, City or Tow..."
+
+  [hold percentage]
+    " ...Debt Instrument [Line Items] (Decrease) increase from adoption $
+    18,900,000 Debt Instrument, Redemption, Period One Debt Instrument [Line
+    Items] Threshold percentage of stock price 130.00% Debt Instrument,
+    Redemption, Period Two Debt Instrument [Line Items] Threshold percentage
+    of stock price 98.00% Debt Instrumen..."
+
+  [hold percentage]
+    " ...ne Debt Instrument [Line Items] Threshold percentage of stock price
+    130.00% Debt Instrument, Redemption, Period Two Debt Instrument [Line
+    Items] Threshold percentage of stock price 98.00% Debt Instrument,
+    Redemption, Period Three Debt Instrument [Line Items] Threshold
+    percentage of stock price 100.00% 5.625% Notes..."
+
+  [hold percentage]
+    " ...o Debt Instrument [Line Items] Threshold percentage of stock price
+    98.00% Debt Instrument, Redemption, Period Three Debt Instrument [Line
+    Items] Threshold percentage of stock price 100.00% 5.625% Notes due 2027
+    | Senior notes Debt Instrument [Line Items] Debt principal amount $
+    400,000,000.0 Interest rate 5.625% 5..."
+
+  [hold percentage]
+    "
+    ...pngaming.com/role/LongtermDebtSeniorUnsecuredNotesUnsecuredConvertibleNotesandCovenantsDetails"
+    ], "lang": { "en-us": { "role": { "terseLabel": "Threshold percentage of
+    stock price", "label": "Debt Instrument, Convertible, Threshold
+    Percentage of Stock Price Trigger", "documentation": "Minimum percentage
+    of common..."
+
+  [hold percentage]
+    " ...CovenantsDetails" ], "lang": { "en-us": { "role": { "terseLabel":
+    "Threshold percentage of stock price", "label": "Debt Instrument,
+    Convertible, Threshold Percentage of Stock Price Trigger",
+    "documentation": "Minimum percentage of common stock price to conversion
+    price of convertible debt instruments to determine ..."
+
+  [gaming win]
+    " ...ation” for information on our revenue by type and geographic
+    location. The transaction price for a gaming wagering contract is the
+    difference between gaming wins and losses, not the total amount wagered.
+    The transaction price for food and beverage, hotel, and retail contracts
+    is the net amount collected from ..."
+
+  [gaming win]
+    " ...ation” for information on our revenue by type and geographic
+    location. The transaction price for a gaming wagering contract is the
+    difference between gaming wins and losses, not the total amount wagered.
+    The transaction price for food and beverage, hotel, and retail contracts
+    is the net amount collected from ..."
+
+  [gaming win]
+    " ...ation” for information on our revenue by type and geographic
+    location. The transaction price for a gaming wagering contract is the
+    difference between gaming wins and losses, not the total amount wagered.
+    The transaction price for food and beverage, hotel, and retail contracts
+    is the net amount collected from ..."
+
+  [gaming win]
+    " ...New
+    Roman',sans-serif;font-size:10pt;font-weight:400;line-height:120%">The
+    transaction price for a gaming wagering contract is the difference
+    between gaming wins and losses, not the total amount wagered. The
+    transaction price for food and beverage, hotel, and retail contracts is
+    the net amount collected from ..."
+
+  [gaming win]
+    " ...New
+    Roman',sans-serif;font-size:10pt;font-weight:400;line-height:120%">The
+    transaction price for a gaming wagering contract is the difference
+    between gaming wins and losses, not the total amount wagered. The
+    transaction price for food and beverage, hotel, and retail contracts is
+    the net amount collected from ..."
+
+============================================================
+  PENN | 10-K | 0000921738-26-000008
+  /home/mjw/Projects/Slots/sec-edgar-filings/PENN/10-K/0000921738-26-000008/full-submission.txt
+============================================================
+
+  [progressive jackpot liability]
+    " ...y, and other taxes 120.8 120.2 Accrued interest 20.9 20.3 Other
+    accrued expenses and other current liabilities: Deferred compensation
+    (1) 119.3 107.2 Progressive jackpot liability 79.1 63.3 Advanced
+    deposits 75.3 90.0 Unpaid wagers 52.4 56.5 Self-insurance liabilities
+    33.1 31.8 PENN Play loyalty point obligation 29.8 29.7 Other..."
+
+  [progressive jackpot liability]
+    " ...nced deposits Advance Deposit, Current Advance Deposit, Current
+    Less: Imputed interest Lessee, Operating Lease, Liability, Undiscounted
+    Excess Amount Progressive jackpot liability Accrued Progressive Jackpot
+    Liability, Current Accrued Progressive Jackpot Liability, Current Tax
+    Credit Carryforward [Axis] Tax Credit Carryforward ..."
+
+  [progressive jackpot liability]
+    " ...t Lessee, Operating Lease, Liability, Undiscounted Excess Amount
+    Progressive jackpot liability Accrued Progressive Jackpot Liability,
+    Current Accrued Progressive Jackpot Liability, Current Tax Credit
+    Carryforward [Axis] Tax Credit Carryforward [Axis] Revenue from contract
+    with customer, number of liabilities Revenue From Contra..."
+
+  [progressive jackpot liability]
+    " ...y, and other taxes 120.8 120.2 Accrued interest 20.9 20.3 Other
+    accrued expenses and other current liabilities: Deferred compensation
+    (1) 119.3 107.2 Progressive jackpot liability 79.1 63.3 Advanced
+    deposits 75.3 90.0 Unpaid wagers 52.4 56.5 Self-insurance liabilities
+    33.1 31.8 PENN Play loyalty point obligation 29.8 29.7 Other..."
+
+  [progressive jackpot liability]
+    " ...y, and other taxes 120.8 120.2 Accrued interest 20.9 20.3 Other
+    accrued expenses and other current liabilities: Deferred compensation
+    (1) 119.3 107.2 Progressive jackpot liability 79.1 63.3 Advanced
+    deposits 75.3 90.0 Unpaid wagers 52.4 56.5 Self-insurance liabilities
+    33.1 31.8 PENN Play loyalty point obligation 29.8 29.7 Other..."
+
+  [progressive jackpot liability]
+    " ...wages $ 152.8 $ 141.3 Accrued gaming, pari-mutuel, property, and
+    other taxes 120.8 120.2 Accrued interest 20.9 20.3 Deferred compensation
+    119.3 107.2 Progressive jackpot liability 79.1 63.3 Advanced deposits
+    75.3 90.0 Unpaid wagers 52.4 56.5 Self-insurance liabilities 33.1 31.8
+    PENN Play loyalty point obligation 29.8 29.7 Other..."
+
+  [progressive jackpot liability]
+    " ...altyPointObligationCurrent Namespace Prefix: penn_ Data Type:
+    xbrli:monetaryItemType Balance Type: credit Period Type: instant X -
+    Definition Accrued Progressive Jackpot Liability, Current + References
+    No definition available. + Details Name:
+    penn_AccruedProgressiveJackpotLiabilityCurrent Namespace Prefix: penn_
+    Data Type: xbrl..."
+
+  [progressive jackpot liability]
+    " ...}, "presentation": [
+    "http://www.pngaming.com/role/AccruedExpensesandOtherCurrentLiabilitiesDetails"
+    ], "lang": { "en-us": { "role": { "terseLabel": "Progressive jackpot
+    liability", "label": "Accrued Progressive Jackpot Liability, Current",
+    "documentation": "Accrued Progressive Jackpot Liability, Current" } } },
+    "auth_ref": [] ..."
+
+  [progressive jackpot liability]
+    " ...-us": { "role": { "terseLabel": "Progressive jackpot liability",
+    "label": "Accrued Progressive Jackpot Liability, Current",
+    "documentation": "Accrued Progressive Jackpot Liability, Current" } } },
+    "auth_ref": [] },
+    "us-gaap_AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment":
+    { "xbrltype": "monetaryItemTyp..."
+
+  [progressive jackpot liability]
+    " ...ext-align:left;vertical-align:bottom"><span
+    style="color:#000000;font-family:'Times New
+    Roman',serif;font-size:10pt;font-weight:400;line-height:100%">Progressive
+    jackpot liability</span></td><td colspan="2"
+    style="background-color:#ffffff;padding:2px 0 2px
+    1pt;text-align:right;vertical-align:bottom"><span
+    style="color:#000000;f..."
+
+  [progressive jackpot liability]
+    " ...ext-align:left;vertical-align:bottom"><span
+    style="color:#000000;font-family:'Times New
+    Roman',serif;font-size:10pt;font-weight:400;line-height:100%">Progressive
+    jackpot liability</span></td><td colspan="2"
+    style="background-color:#ffffff;padding:2px 0 2px
+    1pt;text-align:right;vertical-align:bottom"><span
+    style="color:#000000;f..."
+
+  [progressive jackpot]
+    " ...The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Given the stability in our
+    slot hold percentages on a historical basis, we have not experienced
+    significant impacts to net income from changes in t..."
+
+  [progressive jackpot]
+    " ... or hold percentage is the net amount of gaming wins and losses,
+    with liabilities recognized for accruals related to the anticipated
+    payout of online progressive jackpots. Given the stability in our online
+    slot hold percentages on a historical basis, we have not experienced
+    significant impacts to the results of our op..."
+
+  [large payout]
+    " ...he customer’s winnings exceeding those anticipated. For example, in
+    the past, certain VIP patrons have placed bets or series of bets that
+    resulted in large payouts and negatively impacted our results of
+    operations. Similar events caused by the variability of win rates (hold
+    rates) have the potential to negative..."
+
+  [hold percentage]
+    " ...able game, sports bet or iCasino game (“Gaming Offerings”), on
+    average, will win or lose over the long term. Net win is impacted by
+    variations in the hold percentage (the ratio of net win to total amount
+    wagered), or actual outcome, in Gaming Offerings. W e use hold percen
+    tage as an indicator of the performance o..."
+
+  [hold percentage]
+    " ...forms within a defined statistical range of outcomes, actual
+    outcomes may vary for any given period. In addition to the element of
+    chance, win rates (hold percentages) may also (depending on the game
+    involved) be affected by the spread of limits and factors that are
+    beyond our control, such as a customer’s skill, ..."
+
+  [hold percentage]
+    " ... or “hold” percentage. Our typical property slot win percentage is
+    in the range of approximately 5% to 11% of slot handle, and our typical
+    table game hold percentage is in the range of approximately 12% to 30%
+    of table game drop. Slot handle is the gross amount wagered during a
+    given period. The win or hold percen..."
+
+  [hold percentage]
+    " ... percentage is in the range of approximately 12% to 30% of table
+    game drop. Slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Give..."
+
+  [hold percentage]
+    " ... wins and losses, with liabilities recognized for accruals related
+    to the anticipated payout of progressive jackpots. Given the stability
+    in our slot hold percentages on a historical basis, we have not
+    experienced significant impacts to net income from changes in these
+    percentages. For table games, customers usual..."
+
+  [hold percentage]
+    " ...osited by customers before gaming play occurs and for unredeemed
+    gaming chips. As we are primarily focused on regional gaming markets,
+    our table game hold percentages are fairly stable as the majority of
+    these markets do not regularly experience high-value play, which can
+    lead to volatility in hold percentages. Th..."
+
+  [hold percentage]
+    " ...game hold percentages are fairly stable as the majority of these
+    markets do not regularly experience high-value play, which can lead to
+    volatility in hold percentages. Therefore, changes in table game hold
+    percentages do not typically have a material impact to our results of
+    operations and cash flows. 38 Table of ..."
+
+  [hold percentage]
+    " ...rity of these markets do not regularly experience high-value play,
+    which can lead to volatility in hold percentages. Therefore, changes in
+    table game hold percentages do not typically have a material impact to
+    our results of operations and cash flows. 38 Table of Contents Key
+    performance indicators related to onli..."
+
+  [hold percentage]
+    " ...rs that have been placed on events that have not yet occurred.
+    Online sportsbook handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for any bonus funds deposited into
+    player accounts. Given that OSB wagers ar..."
+
+  [hold percentage]
+    " ...gnized for any bonus funds deposited into player accounts. Given
+    that OSB wagers are made based on the outcomes of future sporting
+    events, the win or hold percentage can vary based on the bet type (i.e.,
+    straight wagers vs. parlay wagers). Online slot handle is the gross
+    amount wagered during a given period. The w..."
+
+  [hold percentage]
+    " ...ary based on the bet type (i.e., straight wagers vs. parlay
+    wagers). Online slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of online progressive jackpot..."
+
+  [hold percentage]
+    " ...m changes in these percentages. Online table game hold is the
+    amount of handle that is retained and recorded as gaming revenue. Our
+    online table game hold percentages are fairly stable as we do not
+    regularly experience high-value online play, which can lead to
+    volatility in hold percentages. Given the stability in..."
+
+  [hold percentage]
+    " ...e. Our online table game hold percentages are fairly stable as we
+    do not regularly experience high-value online play, which can lead to
+    volatility in hold percentages. Given the stability in our online table
+    game hold percentages on a historical basis, we have not experienced
+    significant impacts to the results of ..."
+
+  [hold percentage]
+    " ...we do not regularly experience high-value online play, which can
+    lead to volatility in hold percentages. Given the stability in our
+    online table game hold percentages on a historical basis, we have not
+    experienced significant impacts to the results of our operations or cash
+    flows from changes in these percentages...."
+
+  [hold percentage]
+    " ...ng Information, by Segment [Table Text Block] Deferred tax benefit
+    (expense) Deferred Federal, State and Local, Tax Expense (Benefit)
+    [Abstract] Threshold percentage of stock price Debt Instrument,
+    Convertible, Threshold Percentage of Stock Price Trigger Lease renewal
+    term Lessee, Renewal Term Of Contract Lessee, ..."
+
+  [hold percentage]
+    " ... (expense) Deferred Federal, State and Local, Tax Expense (Benefit)
+    [Abstract] Threshold percentage of stock price Debt Instrument,
+    Convertible, Threshold Percentage of Stock Price Trigger Lease renewal
+    term Lessee, Renewal Term Of Contract Lessee, Renewal Term Of Contract
+    Debt Instrument, Redemption, Period [Axis..."
+
+  [hold percentage]
+    " ...ne Items] Loss on early extinguishment of debt $ 11,800,000 $
+    300,000 $ 0 Debt Instrument, Redemption, Period Three Debt Instrument
+    [Line Items] Threshold percentage of stock price 100.00% 5.625% Notes
+    due 2027 | Senior Notes Debt Instrument [Line Items] Interest rate
+    5.625% 5.625% Debt principal amount $ 400,000,..."
+
+  [hold percentage]
+    "
+    ...pngaming.com/role/LongTermDebtSeniorUnsecuredNotesUnsecuredConvertibleNotesandCovenantsDetails"
+    ], "lang": { "en-us": { "role": { "terseLabel": "Threshold percentage of
+    stock price", "label": "Debt Instrument, Convertible, Threshold
+    Percentage of Stock Price Trigger", "documentation": "Minimum percentage
+    of common..."
+
+  [hold percentage]
+    " ...CovenantsDetails" ], "lang": { "en-us": { "role": { "terseLabel":
+    "Threshold percentage of stock price", "label": "Debt Instrument,
+    Convertible, Threshold Percentage of Stock Price Trigger",
+    "documentation": "Minimum percentage of common stock price to conversion
+    price of convertible debt instruments to determine ..."
+
+  [gaming win]
+    " ...ation” for information on our revenue by type and geographic
+    location. The transaction price for a gaming wagering contract is the
+    difference between gaming wins and losses, not the total amount wagered.
+    The transaction price for food and beverage, hotel, and retail contracts
+    is the net amount collected from ..."
+
+  [gaming win]
+    " ...ation” for information on our revenue by type and geographic
+    location. The transaction price for a gaming wagering contract is the
+    difference between gaming wins and losses, not the total amount wagered.
+    The transaction price for food and beverage, hotel, and retail contracts
+    is the net amount collected from ..."
+
+  [gaming win]
+    " ...ation” for information on our revenue by type and geographic
+    location. The transaction price for a gaming wagering contract is the
+    difference between gaming wins and losses, not the total amount wagered.
+    The transaction price for food and beverage, hotel, and retail contracts
+    is the net amount collected from ..."
+
+  [gaming win]
+    " ...imes New
+    Roman',serif;font-size:10pt;font-weight:400;line-height:120%">The
+    transaction price for a gaming wagering contract is the difference
+    between gaming wins and losses, not the total amount wagered. The
+    transaction price for food and beverage, hotel, and retail contracts is
+    the net amount collected from ..."
+
+  [gaming win]
+    " ...imes New
+    Roman',serif;font-size:10pt;font-weight:400;line-height:120%">The
+    transaction price for a gaming wagering contract is the difference
+    between gaming wins and losses, not the total amount wagered. The
+    transaction price for food and beverage, hotel, and retail contracts is
+    the net amount collected from ..."
+
+============================================================
+  PENN | 10-Q | 0000921738-23-000017
+  /home/mjw/Projects/Slots/sec-edgar-filings/PENN/10-Q/0000921738-23-000017/full-submission.txt
+============================================================
+
+  [progressive jackpot]
+    " ...The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Given the stability in our
+    slot hold percentages on a historical basis, we have not experienced
+    significant impacts to net income from changes in t..."
+
+  [hold percentage]
+    " ... or “hold” percentage. Our typical property slot win percentage is
+    in the range of approximately 7% to 11% of slot handle, and our typical
+    table game hold percentage is in the range of approximately 15% to 28%
+    of table game drop. Slot handle is the gross amount wagered during a
+    given period. The win or hold percen..."
+
+  [hold percentage]
+    " ... percentage is in the range of approximately 15% to 28% of table
+    game drop. Slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Give..."
+
+  [hold percentage]
+    " ... wins and losses, with liabilities recognized for accruals related
+    to the anticipated payout of progressive jackpots. Given the stability
+    in our slot hold percentages on a historical basis, we have not
+    experienced significant impacts to net income from changes in these
+    percentages. For table games, customers usual..."
+
+  [hold percentage]
+    " ...osited by customers before gaming play occurs and for unredeemed
+    gaming chips. As we are primarily focused on regional gaming markets,
+    our table game hold percentages are fairly stable since the majority of
+    these markets do not regularly experience high-end play, which can lead
+    to volatility in hold percentages. T..."
+
+  [hold percentage]
+    " ...ame hold percentages are fairly stable since the majority of these
+    markets do not regularly experience high-end play, which can lead to
+    volatility in hold percentages. Therefore, changes in table game hold
+    percentages do not typically have a material impact to our results of
+    operations and cash flows. Under normal..."
+
+============================================================
+  PENN | 10-Q | 0000921738-23-000025
+  /home/mjw/Projects/Slots/sec-edgar-filings/PENN/10-Q/0000921738-23-000025/full-submission.txt
+============================================================
+
+  [progressive jackpot]
+    " ...The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Given the stability in our
+    slot hold percentages on a historical basis, we have not experienced
+    significant impacts to net income from changes in t..."
+
+  [hold percentage]
+    " ... or “hold” percentage. Our typical property slot win percentage is
+    in the range of approximately 7% to 11% of slot handle, and our typical
+    table game hold percentage is in the range of approximately 15% to 28%
+    of table game drop. Slot handle is the gross amount wagered during a
+    given period. The win or hold percen..."
+
+  [hold percentage]
+    " ... percentage is in the range of approximately 15% to 28% of table
+    game drop. Slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Give..."
+
+  [hold percentage]
+    " ... wins and losses, with liabilities recognized for accruals related
+    to the anticipated payout of progressive jackpots. Given the stability
+    in our slot hold percentages on a historical basis, we have not
+    experienced significant impacts to net income from changes in these
+    percentages. For table games, customers usual..."
+
+  [hold percentage]
+    " ...osited by customers before gaming play occurs and for unredeemed
+    gaming chips. As we are primarily focused on regional gaming markets,
+    our table game hold percentages are fairly stable since the majority of
+    these markets do not regularly experience high-end play, which can lead
+    to volatility in hold percentages. T..."
+
+  [hold percentage]
+    " ...ame hold percentages are fairly stable since the majority of these
+    markets do not regularly experience high-end play, which can lead to
+    volatility in hold percentages. Therefore, changes in table game hold
+    percentages do not typically have a material impact to our results of
+    operations and cash flows. 43 Under nor..."
+
+============================================================
+  PENN | 10-Q | 0000921738-23-000050
+  /home/mjw/Projects/Slots/sec-edgar-filings/PENN/10-Q/0000921738-23-000050/full-submission.txt
+============================================================
+
+  [progressive jackpot]
+    " ...The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Given the stability in our
+    slot hold percentages on a historical basis, we have not experienced
+    significant impacts to net income (loss) from chang..."
+
+  [hold percentage]
+    " ... or “hold” percentage. Our typical property slot win percentage is
+    in the range of approximately 7% to 11% of slot handle, and our typical
+    table game hold percentage is in the range of approximately 15% to 28%
+    of table game drop. Slot handle is the gross amount wagered during a
+    given period. The win or hold percen..."
+
+  [hold percentage]
+    " ... percentage is in the range of approximately 15% to 28% of table
+    game drop. Slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Give..."
+
+  [hold percentage]
+    " ... wins and losses, with liabilities recognized for accruals related
+    to the anticipated payout of progressive jackpots. Given the stability
+    in our slot hold percentages on a historical basis, we have not
+    experienced significant impacts to net income (loss) from changes in
+    these percentages. For table games, customer..."
+
+  [hold percentage]
+    " ...osited by customers before gaming play occurs and for unredeemed
+    gaming chips. As we are primarily focused on regional gaming markets,
+    our table game hold percentages are fairly stable since the majority of
+    these markets do not regularly experience high-end play, which can lead
+    to volatility in hold percentages. T..."
+
+  [hold percentage]
+    " ...ame hold percentages are fairly stable since the majority of these
+    markets do not regularly experience high-end play, which can lead to
+    volatility in hold percentages. Therefore, changes in table game hold
+    percentages do not typically have a material impact to our results of
+    operations and cash flows. Under normal..."
+
+  [hold percentage]
+    " ...jority of these markets do not regularly experience high-end play,
+    which can lead to volatility in hold percentages. Therefore, changes in
+    table game hold percentages do not typically have a material impact to
+    our results of operations and cash flows. Under normal operating
+    conditions, our properties generate sign..."
+
+============================================================
+  PENN | 10-Q | 0000921738-24-000021
+  /home/mjw/Projects/Slots/sec-edgar-filings/PENN/10-Q/0000921738-24-000021/full-submission.txt
+============================================================
+
+  [progressive jackpot]
+    " ...The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Given the stability in our
+    slot hold percentages on a historical basis, we have not experienced
+    significant impacts to net income from changes in t..."
+
+  [hold percentage]
+    " ... or “hold” percentage. Our typical property slot win percentage is
+    in the range of approximately 7% to 11% of slot handle, and our typical
+    table game hold percentage is in the range of approximately 12% to 28%
+    of table game drop. Slot handle is the gross amount wagered during a
+    given period. The win or hold percen..."
+
+  [hold percentage]
+    " ... percentage is in the range of approximately 12% to 28% of table
+    game drop. Slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Give..."
+
+  [hold percentage]
+    " ... wins and losses, with liabilities recognized for accruals related
+    to the anticipated payout of progressive jackpots. Given the stability
+    in our slot hold percentages on a historical basis, we have not
+    experienced significant impacts to net income from changes in these
+    percentages. For table games, customers usual..."
+
+  [hold percentage]
+    " ...osited by customers before gaming play occurs and for unredeemed
+    gaming chips. As we are primarily focused on regional gaming markets,
+    our table game hold percentages are fairly stable as the majority of
+    these markets do not regularly experience high-end play, which can lead
+    to volatility in hold percentages. Ther..."
+
+  [hold percentage]
+    " ...e game hold percentages are fairly stable as the majority of these
+    markets do not regularly experience high-end play, which can lead to
+    volatility in hold percentages. Therefore, changes in table game hold
+    percentages do not typically have a material impact to our results of
+    operations and cash flows. Under normal..."
+
+============================================================
+  PENN | 10-Q | 0000921738-24-000029
+  /home/mjw/Projects/Slots/sec-edgar-filings/PENN/10-Q/0000921738-24-000029/full-submission.txt
+============================================================
+
+  [progressive jackpot]
+    " ...The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Given the stability in our
+    slot hold percentages on a historical basis, we have not experienced
+    significant impacts to net income from changes in t..."
+
+  [hold percentage]
+    " ... or “hold” percentage. Our typical property slot win percentage is
+    in the range of approximately 7% to 11% of slot handle, and our typical
+    table game hold percentage is in the range of approximately 12% to 28%
+    of table game drop. Slot handle is the gross amount wagered during a
+    given period. The win or hold percen..."
+
+  [hold percentage]
+    " ... percentage is in the range of approximately 12% to 28% of table
+    game drop. Slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Give..."
+
+  [hold percentage]
+    " ...osited by customers before gaming play occurs and for unredeemed
+    gaming chips. As we are primarily focused on regional gaming markets,
+    our table game hold percentages are fairly stable as the majority of
+    these markets do not regularly experience high-end play, which can lead
+    to volatility in hold percentages. Ther..."
+
+  [hold percentage]
+    " ...e game hold percentages are fairly stable as the majority of these
+    markets do not regularly experience high-end play, which can lead to
+    volatility in hold percentages. Therefore, changes in table game hold
+    percentages do not typically have a material impact to our results of
+    operations and cash flows. Under normal..."
+
+  [gaming win]
+    " ...imately 12% to 28% of table game drop. Slot handle is the gross
+    amount wagered during a given period. The win or hold percentage is the
+    net amount of gaming wins and losses, with liabilities recognized for
+    accruals related to the anticipated payout of progressive jackpots.
+    Given the stability in our slot hold..."
+
+  [slot revenue]
+    " ...5 million compared to the corresponding prior year period,
+    primarily due to an increase in gaming revenues at our Interactive
+    segment, an increase in slot revenues at our Northeast, Midwest, and
+    West segments, partially offset by a decrease in gaming revenues at our
+    South segment. In our Interactive segment, to..."
+
+  [slot revenue]
+    " ...ast segment’s revenues for the three months ended June 30, 2024
+    increased $8.3 million, primarily due to an increase in gaming revenues,
+    particularly slot revenues. The Northeast segment’s revenues for the six
+    months ended June 30, 2024 decreased $7.5 million, primarily due to
+    severe weather events during the f..."
+    Amounts found: $8.3 million, $7.5 million
+
+  [slot revenue]
+    " ...cting our operations as well as decreases in gaming revenues at
+    several of our properties due to increased competition, partially offset
+    by increased slot revenues in the second quarter. Food and beverage
+    revenues for the six months ended June 30, 2024 decreased as weather
+    events during the first quarter result..."
+
+============================================================
+  PENN | 10-Q | 0000921738-24-000038
+  /home/mjw/Projects/Slots/sec-edgar-filings/PENN/10-Q/0000921738-24-000038/full-submission.txt
+============================================================
+
+  [progressive jackpot]
+    " ...The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Given the stability in our
+    slot hold percentages on a historical basis, we have not experienced
+    significant impacts to net income from changes in t..."
+
+  [hold percentage]
+    " ... or “hold” percentage. Our typical property slot win percentage is
+    in the range of approximately 7% to 11% of slot handle, and our typical
+    table game hold percentage is in the range of approximately 12% to 28%
+    of table game drop. Slot handle is the gross amount wagered during a
+    given period. The win or hold percen..."
+
+  [hold percentage]
+    " ... percentage is in the range of approximately 12% to 28% of table
+    game drop. Slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Give..."
+
+  [hold percentage]
+    " ...osited by customers before gaming play occurs and for unredeemed
+    gaming chips. As we are primarily focused on regional gaming markets,
+    our table game hold percentages are fairly stable as the majority of
+    these markets do not regularly experience high-end play, which can lead
+    to volatility in hold percentages. Ther..."
+
+  [hold percentage]
+    " ...e game hold percentages are fairly stable as the majority of these
+    markets do not regularly experience high-end play, which can lead to
+    volatility in hold percentages. Therefore, changes in table game hold
+    percentages do not typically have a material impact to our results of
+    operations and cash flows. Under normal..."
+
+  [gaming win]
+    " ...imately 12% to 28% of table game drop. Slot handle is the gross
+    amount wagered during a given period. The win or hold percentage is the
+    net amount of gaming wins and losses, with liabilities recognized for
+    accruals related to the anticipated payout of progressive jackpots.
+    Given the stability in our slot hold..."
+
+============================================================
+  PENN | 10-Q | 0000921738-25-000017
+  /home/mjw/Projects/Slots/sec-edgar-filings/PENN/10-Q/0000921738-25-000017/full-submission.txt
+============================================================
+
+  [progressive jackpot]
+    " ...The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Given the stability in our
+    slot hold percentages on a historical basis, we have not experienced
+    significant impacts to net income from changes in t..."
+
+  [progressive jackpot]
+    " ... or hold percentage is the net amount of gaming wins and losses,
+    with liabilities recognized for accruals related to the anticipated
+    payout of online progressive jackpots. Online table game hold is the
+    amount of handle that is retained and recorded as gaming revenue. Given
+    the stability in our online slot and online t..."
+
+  [hold percentage]
+    " ... or “hold” percentage. Our typical property slot win percentage is
+    in the range of approximately 5% to 11% of slot handle, and our typical
+    table game hold percentage is in the range of approximately 12% to 29%
+    of table game drop. 33 Table of Contents Slot handle is the gross amount
+    wagered during a given period. T..."
+
+  [hold percentage]
+    " ... range of approximately 12% to 29% of table game drop. 33 Table of
+    Contents Slot handle is the gross amount wagered during a given period.
+    The win or hold percentage is the net amount of gaming wins and losses,
+    with liabilities recognized for accruals related to the anticipated
+    payout of progressive jackpots. Give..."
+
+  [hold percentage]
+    " ... wins and losses, with liabilities recognized for accruals related
+    to the anticipated payout of progressive jackpots. Given the stability
+    in our slot hold percentages on a historical basis, we have not
+    experienced significant impacts to net income from changes in these
+    percentages. For table games, customers usual..."
+
+  [hold percentage]
+    " ...osited by customers before gaming play occurs and for unredeemed
+    gaming chips. As we are primarily focused on regional gaming markets,
+    our table game hold percentages are fairly stable as the majority of
+    these markets do not regularly experience high-value play, which can
+    lead to volatility in hold percentages. Th..."
+
+  [hold percentage]
+    " ...game hold percentages are fairly stable as the majority of these
+    markets do not regularly experience high-value play, which can lead to
+    volatility in hold percentages. Therefore, changes in table game hold
+    percentages do not typically have a material impact to our results of
+    operations and cash flows. Key performa..."
+
+  [hold percentage]
+    " ...% to 9.2% of online handle, online slot win percentage is in the
+    range of approximately 4.5% to 4.9% of online slot handle, and our
+    online table game hold percentage is in the range of approximately 1.6%
+    to 2.2% of online table game handle. For online gaming, customers
+    deposit cash into their online accounts for u..."
+
+  [hold percentage]
+    " ...rs that have been placed on events that have not yet occurred.
+    Online sportsbook handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for any bonus funds deposited into
+    player accounts. Given that online sports..."
+
+  [hold percentage]
+    " ...us funds deposited into player accounts. Given that online sports
+    betting wagers are made based on the outcomes of future sporting events,
+    the win or hold percentage can vary based on the bet type (i.e. straight
+    wagers vs. parlay wagers). Online slot handle is the gross amount
+    wagered during a given period. The wi..."
+
+  [hold percentage]
+    " ...vary based on the bet type (i.e. straight wagers vs. parlay
+    wagers). Online slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of online progressive jackpot..."
+
+  [hold percentage]
+    " ...table game hold is the amount of handle that is retained and
+    recorded as gaming revenue. Given the stability in our online slot and
+    online table game hold percentages on a historical basis, we have not
+    experienced significant impacts to the results of our operations or cash
+    flows from changes in these percentages...."
+
+============================================================
+  PENN | 10-Q | 0000921738-25-000029
+  /home/mjw/Projects/Slots/sec-edgar-filings/PENN/10-Q/0000921738-25-000029/full-submission.txt
+============================================================
+
+  [progressive jackpot]
+    " ...The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Given the stability in our
+    slot hold percentages on a historical basis, we have not experienced
+    significant impacts to net income from changes in t..."
+
+  [progressive jackpot]
+    " ... or hold percentage is the net amount of gaming wins and losses,
+    with liabilities recognized for accruals related to the anticipated
+    payout of online progressive jackpots. Online table game hold is the
+    amount of handle that is retained and recorded as gaming revenue. Given
+    the stability in our online slot and online t..."
+
+  [hold percentage]
+    " ... or “hold” percentage. Our typical property slot win percentage is
+    in the range of approximately 5% to 11% of slot handle, and our typical
+    table game hold percentage is in the range of approximately 12% to 29%
+    of table game drop. Slot handle is the gross amount wagered during a
+    given period. The win or hold percen..."
+
+  [hold percentage]
+    " ... percentage is in the range of approximately 12% to 29% of table
+    game drop. Slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Give..."
+
+  [hold percentage]
+    " ... wins and losses, with liabilities recognized for accruals related
+    to the anticipated payout of progressive jackpots. Given the stability
+    in our slot hold percentages on a historical basis, we have not
+    experienced significant impacts to net income from changes in these
+    percentages. For table games, customers usual..."
+
+  [hold percentage]
+    " ...osited by customers before gaming play occurs and for unredeemed
+    gaming chips. As we are primarily focused on regional gaming markets,
+    our table game hold percentages are fairly stable as the majority of
+    these markets do not regularly experience high-value play, which can
+    lead to volatility in hold percentages. Th..."
+
+  [hold percentage]
+    " ...game hold percentages are fairly stable as the majority of these
+    markets do not regularly experience high-value play, which can lead to
+    volatility in hold percentages. Therefore, changes in table game hold
+    percentages do not typically have a material impact to our results of
+    operations and cash flows. Key performa..."
+
+  [hold percentage]
+    " ...rity of these markets do not regularly experience high-value play,
+    which can lead to volatility in hold percentages. Therefore, changes in
+    table game hold percentages do not typically have a material impact to
+    our results of operations and cash flows. Key performance indicators
+    related to online gaming revenue, in..."
+
+  [hold percentage]
+    " ...% to 9.2% of online handle, online slot win percentage is in the
+    range of approximately 4.5% to 4.9% of online slot handle, and our
+    online table game hold percentage is in the range of approximately 1.6%
+    to 2.2% of online table game handle. For online gaming, customers
+    deposit cash into their online accounts for u..."
+
+  [hold percentage]
+    " ...rs that have been placed on events that have not yet occurred.
+    Online sportsbook handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for any bonus funds deposited into
+    player accounts. Given that online sports..."
+
+  [hold percentage]
+    " ...us funds deposited into player accounts. Given that online sports
+    betting wagers are made based on the outcomes of future sporting events,
+    the win or hold percentage can vary based on the bet type (i.e. straight
+    wagers vs. parlay wagers). Online slot handle is the gross amount
+    wagered during a given period. The wi..."
+
+  [hold percentage]
+    " ...vary based on the bet type (i.e. straight wagers vs. parlay
+    wagers). Online slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of online progressive jackpot..."
+
+  [gaming win]
+    " ...at have not yet occurred. Online sportsbook handle is the gross
+    amount wagered during a given period. The win or hold percentage is the
+    net amount of gaming wins and losses, with liabilities recognized for
+    any bonus funds deposited into player accounts. Given that online sports
+    betting wagers are made based o..."
+
+  [gaming win]
+    " ...ight wagers vs. parlay wagers). Online slot handle is the gross
+    amount wagered during a given period. The win or hold percentage is the
+    net amount of gaming wins and losses, with liabilities recognized for
+    accruals related to the anticipated payout of online progressive
+    jackpots. Online table game hold is the..."
+
+============================================================
+  PENN | 10-Q | 0000921738-25-000043
+  /home/mjw/Projects/Slots/sec-edgar-filings/PENN/10-Q/0000921738-25-000043/full-submission.txt
+============================================================
+
+  [progressive jackpot]
+    " ...The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of progressive jackpots. Given the stability in our
+    slot hold percentages on a historical basis, we have not experienced
+    significant impacts to net income from changes in t..."
+
+  [progressive jackpot]
+    " ... or hold percentage is the net amount of gaming wins and losses,
+    with liabilities recognized for accruals related to the anticipated
+    payout of online progressive jackpots. Online table game hold is the
+    amount of handle that is retained and recorded as gaming revenue. Given
+    the stability in our online slot and online t..."
+
+  [hold percentage]
+    " ... or “hold” percentage. Our typical property slot win percentage is
+    in the range of approximately 5% to 11% of slot handle, and our typical
+    table game hold percentage is in the range of approximately 12% to 29%
+    of table game drop. 40 Table of Contents Slot handle is the gross amount
+    wagered during a given period. T..."
+
+  [hold percentage]
+    " ... range of approximately 12% to 29% of table game drop. 40 Table of
+    Contents Slot handle is the gross amount wagered during a given period.
+    The win or hold percentage is the net amount of gaming wins and losses,
+    with liabilities recognized for accruals related to the anticipated
+    payout of progressive jackpots. Give..."
+
+  [hold percentage]
+    " ... wins and losses, with liabilities recognized for accruals related
+    to the anticipated payout of progressive jackpots. Given the stability
+    in our slot hold percentages on a historical basis, we have not
+    experienced significant impacts to net income from changes in these
+    percentages. For table games, customers usual..."
+
+  [hold percentage]
+    " ...osited by customers before gaming play occurs and for unredeemed
+    gaming chips. As we are primarily focused on regional gaming markets,
+    our table game hold percentages are fairly stable as the majority of
+    these markets do not regularly experience high-value play, which can
+    lead to volatility in hold percentages. Th..."
+
+  [hold percentage]
+    " ...game hold percentages are fairly stable as the majority of these
+    markets do not regularly experience high-value play, which can lead to
+    volatility in hold percentages. Therefore, changes in table game hold
+    percentages do not typically have a material impact to our results of
+    operations and cash flows. Key performa..."
+
+  [hold percentage]
+    " ...rity of these markets do not regularly experience high-value play,
+    which can lead to volatility in hold percentages. Therefore, changes in
+    table game hold percentages do not typically have a material impact to
+    our results of operations and cash flows. Key performance indicators
+    related to online gaming revenue, in..."
+
+  [hold percentage]
+    " ...% to 9.2% of online handle, online slot win percentage is in the
+    range of approximately 4.5% to 4.9% of online slot handle, and our
+    online table game hold percentage is in the range of approximately 1.6%
+    to 2.2% of online table game handle. For online gaming, customers
+    deposit cash into their online accounts for u..."
+
+  [hold percentage]
+    " ...rs that have been placed on events that have not yet occurred.
+    Online sportsbook handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for any bonus funds deposited into
+    player accounts. Given that online sports..."
+
+  [hold percentage]
+    " ...us funds deposited into player accounts. Given that online sports
+    betting wagers are made based on the outcomes of future sporting events,
+    the win or hold percentage can vary based on the bet type (i.e. straight
+    wagers vs. parlay wagers). Online slot handle is the gross amount
+    wagered during a given period. The wi..."
+
+  [hold percentage]
+    " ...vary based on the bet type (i.e. straight wagers vs. parlay
+    wagers). Online slot handle is the gross amount wagered during a given
+    period. The win or hold percentage is the net amount of gaming wins and
+    losses, with liabilities recognized for accruals related to the
+    anticipated payout of online progressive jackpot..."
+
+  [hold percentage]
+    " ...table game hold is the amount of handle that is retained and
+    recorded as gaming revenue. Given the stability in our online slot and
+    online table game hold percentages on a historical basis, we have not
+    experienced significant impacts to the results of our operations or cash
+    flows from changes in these percentages...."
+
+  [slot revenue]
+    " ...s for the three months ended September 30, 2025 increased by $37.2
+    million, compared to the prior year period, primarily due to an increase
+    in online slot revenues at our Interactive segment. At our retail
+    properties, increases in gaming revenues at our Northeast, West, and
+    Midwest segments were offset by decre..."
+    Amounts found: $37.2 million
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SUMMARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Filings scanned: 39
+  Total matches:   330
+
+  CZR: 13 filing(s), 61 match(es)
+  MGM: 13 filing(s), 37 match(es)
+  PENN: 13 filing(s), 232 match(es)
+    Dollar amounts: $107.2 million, $37.2 million, $47.6 million, $51.4 million, $60.8 million, $69.3 million, $7.5 million, $70.8 million, $8.3 million, $82.1 million
+    ... and 1 more
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
