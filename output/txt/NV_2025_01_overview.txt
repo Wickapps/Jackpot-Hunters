@@ -1,0 +1,177 @@
+================================================================================
+NEVADA GAMING MONTHLY OVERVIEW - JACKPOT HUNTER'S INTELLIGENCE REPORT
+================================================================================
+Input file: docs/NV_2025_01.pdf
+Output directory: output/
+Report file: output/NV_2025_01_overview.txt
+Generated: 2026-02-08 18:22:52
+================================================================================
+
+Extracting gaming data from Nevada monthly report...
+
+✓ Extracted 43 tables from PDF
+
+Report Period: January 2025
+
+Found statewide summary at table index 1
+Table shape: (43, 7)
+
+
+================================================================================
+NEVADA GAMING MONTHLY OVERVIEW - JACKPOT HUNTER'S INTELLIGENCE
+================================================================================
+
+Report Period: January 2025
+Source: NV_2025_01.pdf
+Generated: 2026-02-08 18:22:56
+
+================================================================================
+EXECUTIVE SUMMARY
+================================================================================
+
+✓ Total Tables Extracted: 43
+✓ Data Covers: Statewide and regional gaming performance
+✓ Analysis Focus: Slot machine win percentages and player value
+
+--------------------------------------------------------------------------------
+STATEWIDE PERFORMANCE SNAPSHOT
+--------------------------------------------------------------------------------
+Number of Reporting Locations: 437
+
+================================================================================
+SLOT MACHINE WIN PERCENTAGES - CURRENT MONTH
+================================================================================
+Total Units: 125,275 | Categories: 8
+
+Game Type                        Locs    Units      Win % Rating              
+--------------------------------------------------------------------------------
+5 Dollars                          79      458      5.13% ⭐⭐ Very Good        
+100 Dollars                        30       68      5.52% ⭐⭐ Very Good        
+1 Dollar                          166    5,204      7.03% ⭐ Good              
+Multi Denomination                308   81,658      7.46% ⭐ Good              
+5 Cent                             90      670      8.12% ⭐ Good              
+25 Cent                           153    2,394      8.29% ⭐ Good              
+25 Dollars                         42       93      9.35% ⭐ Good              
+1 Cent                            282   34,730     10.12% Average             
+
+================================================================================
+SLOT MACHINE WIN PERCENTAGES - THREE MONTH AVERAGE
+================================================================================
+Total Units: 125,460 | Categories: 8
+
+Game Type                        Locs    Units      Win % Rating              
+--------------------------------------------------------------------------------
+5 Dollars                          84      479      5.00% ⭐⭐ Very Good        
+100 Dollars                        30       74      5.84% ⭐⭐ Very Good        
+25 Dollars                         43       95      5.85% ⭐⭐ Very Good        
+5 Cent                             91      672      6.43% ⭐⭐ Very Good        
+1 Dollar                          168    5,198      6.47% ⭐⭐ Very Good        
+Multi Denomination                309   81,290      6.80% ⭐⭐ Very Good        
+25 Cent                           158    2,455      7.89% ⭐ Good              
+1 Cent                            284   35,197      9.09% ⭐ Good              
+
+================================================================================
+SLOT MACHINE WIN PERCENTAGES - TWELVE MONTH AVERAGE
+================================================================================
+Total Units: 126,057 | Categories: 8
+
+Game Type                        Locs    Units      Win % Rating              
+--------------------------------------------------------------------------------
+5 Dollars                          90      522      4.53% ⭐⭐⭐ Excellent       
+25 Dollars                         48       99      5.78% ⭐⭐ Very Good        
+5 Cent                            105      715      6.51% ⭐⭐ Very Good        
+1 Dollar                          174    5,402      6.64% ⭐⭐ Very Good        
+Multi Denomination                316   79,052      6.75% ⭐⭐ Very Good        
+100 Dollars                        32       77      6.91% ⭐⭐ Very Good        
+25 Cent                           168    2,560      7.94% ⭐ Good              
+1 Cent                            291   37,630      9.29% ⭐ Good              
+
+================================================================================
+REGIONAL BREAKDOWN
+================================================================================
+
+Regions Covered in Report: 7
+  • Carson Valley Area
+  • Clark County Downtown Las Vegas Area
+  • Clark County Las Vegas Strip Area
+  • Clark County North Las Vegas Area
+  • Clark County Laughlin Area
+  • Clark County Boulder Area
+  • Clark County Mesquite Area
+
+================================================================================
+KEY INSIGHTS FOR JACKPOT HUNTERS
+================================================================================
+
+✓ WHAT TO LOOK FOR:
+  • Lower win % = Better player odds = More favorable conditions
+  • Win % below 8% indicates player-friendly slots
+  • Compare current month to 12-month average for trends
+  • Higher denomination games often have lower hold percentages
+
+✓ ANALYSIS METHODOLOGY:
+  • Data source: Nevada Gaming Control Board official reports
+  • Win % = (Casino Win / Total Coin In) × 100
+  • Lower percentage = higher player return
+  • Focus on game types with consistent low win rates
+
+✓ NEXT STEPS:
+  • Use drill-down scripts to analyze specific regions
+  • Compare month-over-month trends
+  • Identify locations with declining win percentages
+  • Cross-reference with progressive jackpot data
+
+================================================================================
+TABLE INVENTORY
+================================================================================
+
+Total tables extracted: 43
+
+Table Summary:
+    1. Table of Contents                                            Shape: (45, 3)
+    2. Statewide - All Nonrestricted Locations                      Shape: (43, 7)
+    3. Statewide - $1,000,000 and Over Revenue Range                Shape: (43, 7)
+    4. Carson Valley Area - All Nonrestricted Locations             Shape: (29, 7)
+    5. Carson Valley Area - $1,000,000 and Over Revenue Range       Shape: (21, 7)
+    6. Churchill County - All Nonrestricted Locations               Shape: (25, 7)
+    7. Clark County - All Nonrestricted Locations                   Shape: (43, 7)
+    8. Clark County - $1,000,000 and Over Revenue Range             Shape: (43, 7)
+    9. Clark County Downtown Las Vegas Area - All Nonrestricted Loc Shape: (39, 7)
+   10. Clark County Downtown Las Vegas Area - $1,000,000 and Over R Shape: (39, 6)
+   11. Clark County Downtown Las Vegas Area - $12,000,000 and Over  Shape: (39, 6)
+   12. Clark County Las Vegas Strip Area - All Nonrestricted Locati Shape: (42, 7)
+   13. Clark County Las Vegas Strip Area - $1,000,000 and Over Reve Shape: (42, 7)
+   14. Clark County Las Vegas Strip Area - $12,000,000 to $36,000,0 Shape: (20, 6)
+   15. Clark County Las Vegas Strip Area - $36,000,000 to $72,000,0 Shape: (23, 6)
+   16. Clark County Las Vegas Strip Area - $72,000,000 and Over Rev Shape: (42, 7)
+   17. Clark County North Las Vegas Area - All Nonrestricted Locati Shape: (31, 7)
+   18. Clark County Laughlin Area - All Nonrestricted Locations     Shape: (35, 7)
+   19. Clark County Boulder Area - All Nonrestricted Locations      Shape: (37, 7)
+   20. Clark County Mesquite Area - All Nonrestricted Locations     Shape: (28, 7)
+   21. Clark County Balance of County - All Nonrestricted Locations Shape: (40, 7)
+   22. Clark County Balance of County - $1,000,000 and Over Revenue Shape: (40, 7)
+   23. Douglas County South Shore Lake Tahoe Area  - All Nonrestric Shape: (32, 6)
+   24. Elko County - All Nonrestricted Locations                    Shape: (37, 7)
+   25. Elko County Wendover Area - All Nonrestricted Locations      Shape: (33, 7)
+   26. Elko County Balance of County - All Nonrestricted Locations  Shape: (30, 7)
+   27. Humboldt County - All Nonrestricted Locations                Shape: (24, 7)
+   28. Lyon County - All Nonrestricted Locations                    Shape: (25, 7)
+   29. Nye County - All Nonrestricted Locations                     Shape: (26, 7)
+   30. Washoe County - All Nonrestricted Locations                  Shape: (41, 7)
+   31. Washoe County - $1,000,000 and Over Revenue Range            Shape: (41, 7)
+   32. Washoe County Reno Area - All Nonrestricted Locations        Shape: (40, 7)
+   33. Washoe County Reno Area - $1,000,000 and Over Revenue Range  Shape: (40, 7)
+   34. Washoe County Reno Area - $12,000,000 to $36,000,000 Revenue Shape: (15, 7)
+   35. Washoe County Reno Area - $36,000,000 and Over Revenue Range Shape: (30, 7)
+   36. Washoe County Sparks Area - All Nonrestricted Locations      Shape: (29, 7)
+   37. Washoe County Sparks Area - $1,000,000 and Over Revenue Rang Shape: (20, 7)
+   38. Washoe County North Shore Lake Tahoe Area  - All Nonrestrict Shape: (23, 6)
+   39. Washoe County Balance of County - All Nonrestricted Location Shape: (24, 7)
+   40. White Pine County - All Nonrestricted Locations              Shape: (15, 7)
+   41. Balance of Counties - All Nonrestricted Locations            Shape: (15, 7)
+   42. Balance of Counties - $1,000,000 and Over Revenue Range      Shape: (11, 7)
+   43. Taxable Revenue by Area                                      Shape: (46, 5)
+
+================================================================================
+END OF OVERVIEW REPORT
+================================================================================

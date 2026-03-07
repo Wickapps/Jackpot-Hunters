@@ -1,0 +1,97 @@
+================================================================================
+NEVADA WIN % BY LOCATION - ANNUAL TREND ANALYSIS
+================================================================================
+Year: 2025
+Location: Las Vegas Strip
+Input directory: docs/
+Output chart: output/NV_2025_Las_Vegas_Strip_win_pct.png
+Output summary: output/NV_2025_Las_Vegas_Strip_win_pct.txt
+Min units filter: 30
+Generated: 2026-02-09 05:37:12
+================================================================================
+
+Processing monthly PDF files...
+
+  Jan: ✓ 8 denominations extracted
+  Feb: ✓ 8 denominations extracted
+  Mar: ✓ 8 denominations extracted
+  Apr: ✓ 8 denominations extracted
+  May: ✓ 8 denominations extracted
+  Jun: ⚠ Tabula failed, trying OCR fallback...
+  Jun: ✓ 8 denominations extracted (via OCR)
+  Jul: ⚠ Tabula failed, trying OCR fallback...
+  Jul: ✓ 8 denominations extracted (via OCR)
+  Aug: ✓ 8 denominations extracted
+  Sep: ✓ 8 denominations extracted
+  Oct: ✓ 7 denominations extracted
+  Nov: ✓ 7 denominations extracted
+  Dec: ✓ 7 denominations extracted
+
+✓ Successfully processed 12 of 12 months
+
+Building annual trend data...
+
+
+================================================================================
+2025 Las Vegas Strip Win % - Annual Trend Analysis
+================================================================================
+
+Location: Clark County Las Vegas Strip Area - All Nonrestricted Locations
+Year: 2025
+Months Analyzed: 12 of 12
+Generated: 2026-02-09 05:39:00
+
+================================================================================
+MONTHLY WIN % BY DENOMINATION
+================================================================================
+Month        1 c       5 c      25 c       1 $       5 $      25 $     100 $     Multi
+--------------------------------------------------------------------------------------
+Jan       12.47%    10.00%    12.24%     8.04%     4.20%     8.96%     6.77%     8.43%
+Feb       10.97%     7.43%    10.65%     7.74%     5.51%     7.87%     7.78%     7.77%
+Mar       10.56%     7.23%    12.05%     7.51%     5.74%     8.40%     6.44%     7.77%
+Apr       11.17%     8.78%    11.21%     8.08%     4.97%     7.05%     8.48%     7.65%
+May        9.55%     7.44%    10.91%     5.75%     3.64%     5.76%     9.81%     7.37%
+Jun       11.12%     6.70%    12.25%     8.29%     7.43%     6.92%     7.60%     7.97%
+Jul       11.56%     5.95%    11.20%     7.64%     4.01%     3.94%     5.43%     7.85%
+Aug        8.60%     7.57%     9.56%     6.13%     6.77%     5.64%    -0.03%     6.84%
+Sep       12.29%     7.80%    12.23%     8.30%     3.73%     7.94%     8.21%     7.71%
+Oct       10.22%     8.87%    11.27%     7.77%     3.03%     8.11%       ---     7.72%
+Nov       10.56%     7.69%    10.79%     7.21%     7.18%     6.98%       ---     7.47%
+Dec       10.16%     8.83%    10.63%     7.34%     3.43%     7.20%       ---     7.03%
+--------------------------------------------------------------------------------------
+Avg       10.77%     7.86%    11.25%     7.48%     4.97%     7.06%     6.72%     7.63%
+
+================================================================================
+JACKPOT HUNTER'S ANALYSIS
+================================================================================
+
+Denomination                Avg Win%      Best Month     Worst Month     Spread
+--------------------------------------------------------------------------------
+1 Cent                        10.77%     Aug (8.60%)    Jan (12.47%)      3.87%
+5 Cent                         7.86%     Jul (5.95%)    Jan (10.00%)      4.05%
+25 Cent                       11.25%     Aug (9.56%)    Jun (12.25%)      2.69%
+1 Dollar                       7.48%     May (5.75%)     Sep (8.30%)      2.55%
+5 Dollars                      4.97%     Oct (3.03%)     Jun (7.43%)      4.40%
+25 Dollars                     7.06%     Jul (3.94%)     Jan (8.96%)      5.02%
+100 Dollars                    6.72%    Aug (-0.03%)     May (9.81%)      9.84%
+Multi Denomination             7.63%     Aug (6.84%)     Jan (8.43%)      1.59%
+
+================================================================================
+KEY TAKEAWAYS
+================================================================================
+
+✓ LOOSEST denomination: 5 Dollars (avg 4.97% win)
+✗ TIGHTEST denomination: 25 Cent (avg 11.25% win)
+
+✓ MOST STABLE: Multi Denomination (spread: 1.59%)
+✗ MOST VOLATILE: 100 Dollars (spread: 9.84%)
+
+✓ TIP: Lower win % = better for players. Focus on 5 Dollars for best odds.
+✓ TIP: Multi Denomination offers the most predictable returns.
+
+================================================================================
+END OF REPORT
+================================================================================
+
+Generating annual trend chart...
+✓ Chart saved to: output/NV_2025_Las_Vegas_Strip_win_pct.png

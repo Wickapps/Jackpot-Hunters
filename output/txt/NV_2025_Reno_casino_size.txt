@@ -1,0 +1,95 @@
+================================================================================
+NEVADA WIN % BY CASINO SIZE - ANNUAL TREND ANALYSIS
+================================================================================
+Year: 2025
+Location: Reno
+Input directory: docs/
+Output chart: output/NV_2025_Reno_casino_size.png
+Output summary: output/NV_2025_Reno_casino_size.txt
+Generated: 2026-02-09 18:09:35
+================================================================================
+
+Processing monthly PDF files...
+
+  Jan: ✓ 3 casino size tiers extracted
+  Feb: ✓ 3 casino size tiers extracted
+  Mar: ✓ 3 casino size tiers extracted
+  Apr: ✓ 3 casino size tiers extracted
+  May: ✓ 3 casino size tiers extracted
+  Jun: ⚠ Tabula failed, trying OCR fallback...
+  Jun: ✓ 3 casino size tiers extracted (via OCR)
+  Jul: ⚠ Tabula failed, trying OCR fallback...
+  Jul: ✓ 3 casino size tiers extracted (via OCR)
+  Aug: ✓ 3 casino size tiers extracted
+  Sep: ✓ 3 casino size tiers extracted
+  Oct: ✓ 3 casino size tiers extracted
+  Nov: ✓ 3 casino size tiers extracted
+  Dec: ✓ 3 casino size tiers extracted
+
+✓ Successfully processed 12 of 12 months
+✓ Casino size tiers found: $12M-$36M, $36M+, All Sizes
+
+Building annual trend data...
+
+
+================================================================================
+2025 Reno Win % by Casino Size
+================================================================================
+
+Location: Washoe County Reno Area
+Year: 2025
+Months Analyzed: 12 of 12
+Casino Size Tiers: 3
+Generated: 2026-02-09 18:12:42
+
+================================================================================
+MONTHLY TOTAL SLOT WIN % BY CASINO SIZE
+================================================================================
+Month     All Sizes    $12M-$36M        $36M+
+---------------------------------------------
+Jan           6.31%        6.22%        6.31%
+Feb           5.42%        6.15%        5.29%
+Mar           5.07%        6.10%        4.90%
+Apr           5.75%        6.23%        5.68%
+May           4.78%        5.91%        4.64%
+Jun           5.54%        6.10%        5.44%
+Jul           5.86%        6.23%        5.78%
+Aug           4.66%        6.31%        4.45%
+Sep           6.42%        6.42%        6.39%
+Oct           5.73%        6.34%        5.63%
+Nov           4.90%        6.11%        4.72%
+Dec           5.38%        5.99%        5.28%
+---------------------------------------------
+Avg           5.49%        6.18%        5.38%
+
+================================================================================
+CASINO SIZE COMPARISON
+================================================================================
+
+Casino Size       Avg Win%      Best Month     Worst Month     Spread
+----------------------------------------------------------------------
+All Sizes            5.49%     Aug (4.66%)     Sep (6.42%)      1.76%
+$12M-$36M            6.18%     May (5.91%)     Sep (6.42%)      0.51%
+$36M+                5.38%     Aug (4.45%)     Sep (6.39%)      1.94%
+
+================================================================================
+JACKPOT HUNTER'S TAKEAWAYS
+================================================================================
+
+✓ LOOSEST casino size: $36M+ (avg 5.38% win)
+✗ TIGHTEST casino size: $12M-$36M (avg 6.18% win)
+
+  Delta between loosest and tightest: 0.80%
+  → Casino size has a MODERATE impact on slot Win% in this region.
+
+  Average Units by Casino Size:
+    All Sizes: 8,797 machines
+    $12M-$36M: 2,134 machines
+    $36M+: 6,089 machines
+
+================================================================================
+END OF REPORT
+================================================================================
+
+Generating casino size trend chart...
+✓ Chart saved to: output/NV_2025_Reno_casino_size.png

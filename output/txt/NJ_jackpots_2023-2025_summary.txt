@@ -1,0 +1,92 @@
+============================================================
+NJ JACKPOTS BY DENOMINATION - 3 YEAR COMPARISON
+============================================================
+2023 file: docs/NJ_2023.pdf
+2024 file: docs/NJ_2024.pdf
+2025 file: docs/NJ_2025.pdf
+Ignore NaN denominations: True
+Output directory: output/
+============================================================
+
+
+Processing 2023...
+File: docs/NJ_2023.pdf
+  Detected 64 pages in PDF
+  Pages 1-30...
+✓ (31 tables)
+  Pages 31-60...
+✓ (30 tables)
+  Pages 61-64...
+✓ (4 tables)
+  Total tables extracted: 65
+  Combined rows: 1990
+  Filtered out 1843 jackpots without denomination
+  Remaining: 147
+
+Processing 2024...
+File: docs/NJ_2024.pdf
+  Detected 90 pages in PDF
+  Pages 1-30...
+✓ (31 tables)
+  Pages 31-60...
+✓ (30 tables)
+  Pages 61-90...
+✓ (30 tables)
+  Total tables extracted: 91
+  Combined rows: 2575
+  Filtered out 2429 jackpots without denomination
+  Remaining: 146
+
+Processing 2025...
+File: docs/NJ_2025.pdf
+  Detected 182 pages in PDF
+  Pages 1-30...
+✓ (31 tables)
+  Pages 31-60...
+✓ (30 tables)
+  Pages 61-90...
+✓ (30 tables)
+  Pages 91-120...
+✓ (30 tables)
+  Pages 121-150...
+✓ (30 tables)
+  Pages 151-180...
+✓ (30 tables)
+  Pages 181-182...
+✓ (2 tables)
+  Total tables extracted: 183
+  Combined rows: 5814
+  Filtered out 5616 jackpots without denomination
+  Remaining: 198
+
+✓ Combined data saved to: output/NJ_jackpots_2023-2025_combined.xlsx
+
+======================================================================
+NJ JACKPOTS BY DENOMINATION - 3 YEAR COMPARISON
+======================================================================
+
+Filter NaN denominations: True
+
+----------------------------------------------------------------------
+JACKPOT COUNTS BY YEAR AND DENOMINATION
+----------------------------------------------------------------------
+Category           2023       2024       2025        Total
+----------------------------------------------------------------------
+$0.01                14         12         21           47
+$0.05                 7         10          9           26
+$0.25                17         13         20           50
+$1                   14         13         16           43
+$5                   22         19         28           69
+$10                   6          5         11           22
+$20                   0          0          4            4
+$100                 29         25         24           78
+Multi                38         49         65          152
+----------------------------------------------------------------------
+TOTAL               147        146        198          491
+======================================================================
+
+✓ Stacked bar chart saved to: output/NJ_jackpots_2023-2025_stacked.png
+
+======================================================================
+PROCESSING COMPLETE!
+======================================================================

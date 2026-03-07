@@ -1,0 +1,117 @@
+============================================================
+NJ JACKPOT ANALYSIS BY GAME - WHAT TO PLAY
+============================================================
+Input file: docs/NJ_2024.pdf
+Output directory: output/
+Output Excel: output/NJ_2024_by_game.xlsx
+Output chart: output/NJ_2024_by_game.png
+Output summary: output/NJ_2024_by_game_summary.txt
+Top N games to display: 30
+Filter: LAND-BASED CASINOS ONLY
+============================================================
+
+Using tabula-py with stream mode for large PDF
+Detected 90 pages in PDF
+
+Processing pages 1-30...
+✓ (31 tables)
+Processing pages 31-60...
+✓ (30 tables)
+Processing pages 61-90...
+✓ (30 tables)
+
+Total tables extracted: 91
+Removed summary table
+
+Combined rows before cleanup: 2575
+
+Filtered to land-based casinos only
+Removed 1289 online jackpots
+Remaining land-based jackpots: 1286
+
+Table Rows=1286, Columns=7
+Saved Excel to: output/NJ_2024_by_game.xlsx
+
+================================================================================
+NEW JERSEY JACKPOT ANALYSIS - WHAT GAME TO PLAY (LAND-BASED)
+================================================================================
+
+Input file: NJ_2024.pdf
+
+--------------------------------------------------------------------------------
+BASIC STATISTICS
+--------------------------------------------------------------------------------
+Total land-based jackpots: 1286
+Jackpots > $1M:            7 (0.54%)
+Total amount:              $89,725,138.30
+Average jackpot:           $69,770.71
+
+Total unique games:        567
+Total manufacturers:       39
+
+--------------------------------------------------------------------------------
+TOP 10 MANUFACTURERS
+--------------------------------------------------------------------------------
+Manufacturer                             Count   Percentage
+--------------------------------------------------------------------------------
+ARISTOCRAT TECH                            383       29.8%
+INTERNATIONAL GAME TECH.                   231       18.0%
+LIGHT & WONDER-SCI. GAMES                   68        5.3%
+EVOLUTION                                   46        3.6%
+IGT                                         43        3.3%
+BALLY                                       37        2.9%
+SPORTECK NYX GAMING                         36        2.8%
+KONAMI GAMING INC.                          24        1.9%
+LNW GAMING, INC.                            22        1.7%
+GVC                                         17        1.3%
+
+--------------------------------------------------------------------------------
+TOP 30 GAMES BY JACKPOT COUNT
+--------------------------------------------------------------------------------
+Rank  Game                                        Count        Avg $ Manufacturer        
+--------------------------------------------------------------------------------
+1     Dragon Link                                    44 $     90,873 ARISTOCRAT TECH     
+2     Dragon Cash                                    33 $     70,189 ARISTOCRAT TECH     
+3     Double Double Bonus Poker                      31 $     53,694 INTERNATIONAL GAME  
+4     Double Top Dollar                              18 $     68,889 INTERNATIONAL GAME  
+5     Golden Century Dragon Link                     16 $     71,693 ARISTOCRAT TECH     
+6     Golden Century - Dragon Link                   14 $     85,175 ARISTOCRAT TECH     
+7     Huff N Even More Puff                          12 $     81,337 LIGHT & WONDER-SCI  
+8     Autumn Moon Dragon Link                        11 $     56,148 ARISTOCRAT TECH     
+9     Lightning Cash                                 10 $     72,786 ARISTOCRAT TECH     
+10    Triple Double Bonus Poker                       9 $     73,333 INTERNATIONAL GAME  
+11    Dragon Link Panda Magic                         9 $     57,102 ARISTOCRAT TECH     
+12    Buffalo Link                                    9 $     52,499 ARISTOCRAT TECH     
+13    Dragon Link Golden Century                      8 $    112,628 ARISTOCRAT TECH     
+14    Dollar Storm                                    8 $     65,434 ARISTOCRAT TECH     
+15    High Seas Jackpots                              8 $     76,494 NOVAMATICAMERICAS,  
+16    All Aboard Gold Express Dynamite Dash           7 $     54,333 KONAMI GAMING INC.  
+17    Fruit Blast                                     7 $     94,286 GVC                 
+18    Dragon Link - Happy and Prosperous              6 $     98,132 ARISTOCRAT TECH     
+19    Ultimate X Poker                                6 $     48,558 INTERNATIONAL GAME  
+20    Huff N More Puff                                6 $     71,095 LIGHT & WONDER-SCI  
+21    Lightning Buffalo Link                          6 $     66,359 ARISTOCRAT TECH     
+22    Panda Magic Dragon Link                         6 $     68,595 ARISTOCRAT TECH     
+23    Lightning Roulette                              6 $     74,667 EVOLUTION           
+24    Huff N' Even More Puff                          6 $    101,708 LIGHT & WONDER-SCI  
+25    Buffalo Cash                                    6 $     56,415 ARISTOCRAT TECH     
+26    BLACKJACK                                       5 $     48,000 IGT\NJ              
+27    Double Gold                                     5 $     56,000 INTERNATIONAL GAME  
+28    Triple Double Dollars                           5 $     68,400 INTERNATIONAL GAME  
+29    Double Bonus Poker                              5 $     92,080 INTERNATIONAL GAME  
+30    Triple Play Poker                               5 $     78,268 INTERNATIONAL GAME  
+
+--------------------------------------------------------------------------------
+GAME DIVERSITY ANALYSIS
+--------------------------------------------------------------------------------
+Top 10 games account for:  15.4% of jackpots
+Top 20 games account for:  21.2% of jackpots
+Top 30 games account for:  25.4% of jackpots
+
+================================================================================
+
+Bar chart saved to: output/NJ_2024_by_game.png
+
+================================================================================
+PROCESSING COMPLETE!
+================================================================================
