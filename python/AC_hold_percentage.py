@@ -27,6 +27,7 @@ import numpy as np
 import argparse
 import os
 from pypdf import PdfReader
+import re
 
 # Suppress noisy warnings
 logging.getLogger('tabula').setLevel(logging.ERROR)
@@ -90,224 +91,181 @@ tprint("=" * 80 + "\n")
 # ────────────────────────────────────────────────
 tprint("Extracting slot win data from PDF...\n")
 
-# The AC PDF has slot data on page 1
-try:
-    tables = tabula.read_pdf(
-        input_path,
-        pages='1',
-        lattice=True,  # Use lattice mode for structured tables
-        pandas_options={'header': None},
-        multiple_tables=True,
-        java_options=["-Xmx4g"],
-        silent=True
-    )
-    tprint(f"Extracted {len(tables)} tables from page 1")
-except Exception as e:
-    tprint(f"Error extracting tables: {e}")
-    exit(1)
-
-if not tables:
-    tprint("No tables found in PDF")
-    exit(1)
-
-# ────────────────────────────────────────────────
-# PARSE SLOT DATA BY DENOMINATION
-# ────────────────────────────────────────────────
-
-# Denomination groups to extract (in order on the PDF)
-denominations = ['$0.01', '$0.05', '$0.25', '$0.50', '$1.00', '$5.00',
-                 '$25.00', '$100', 'Multi', 'Other', 'Total']
-
-# We'll build a comprehensive dataset
-slot_data = []
-
-# The first table should contain all the slot data
-main_table = tables[0]
-
-tprint(f"\nMain table shape: {main_table.shape}")
-tprint("Parsing denomination groups...\n")
-
-# Strategy: Find denomination headers and extract Win/Handle/Win% for each casino
-# The table has multiple sections, one per denomination
-
-# Get casino names from the first column
-casinos = []
-for idx, row in main_table.iterrows():
-    casino_val = row.iloc[0]
-    if pd.notna(casino_val) and isinstance(casino_val, str):
-        casino_name = str(casino_val).strip()
-        # Filter for actual casino names (not headers, totals, or empty)
-        if (casino_name and
-            'Casino' not in casino_name and
-            'Win' not in casino_name and
-            'Handle' not in casino_name and
-            'Total' != casino_name and
-            len(casino_name) > 2):
-            if casino_name not in casinos:
-                casinos.append(casino_name)
-
-tprint(f"Found {len(casinos)} casinos: {casinos}\n")
-
-# Parse each table more carefully
-# Look for sections by denomination
-for table_idx, df in enumerate(tables):
-    tprint(f"Processing table {table_idx + 1}, shape: {df.shape}")
-
-    # Find sections by looking for denomination markers in headers
-    for col_idx in range(df.shape[1]):
-        col_values = df.iloc[:, col_idx].astype(str)
-
-        # Look for denomination patterns in column headers
-        for denom in denominations:
-            if any(denom in str(val) for val in col_values.head(3)):
-                tprint(f"  Found {denom} data in column {col_idx}")
-
-# ────────────────────────────────────────────────
-# ALTERNATIVE APPROACH: Manual Column Mapping
-# ────────────────────────────────────────────────
-
-tprint("\nUsing structured extraction approach...")
-
-# Based on the PDF structure, we know:
-# - Each denomination section has 3 columns: Win, Handle, Win%
-# - Casinos are in rows
-# - We'll need to parse this carefully
-
-# Let's try a different approach: extract all tables and combine
-all_data = []
-
-# Process the main table more intelligently
-# The PDF likely has a wide format with multiple denomination groups side by side
-
-for table in tables:
-    tprint(f"\nAnalyzing table with shape {table.shape}:")
-    tprint(table.head(3))
-
-# Since the structure is complex, let's use a more robust approach
-# Extract the entire first page as CSV-like data and parse it
-
-tprint("\nAttempting stream mode extraction for better column detection...")
-
-try:
-    stream_tables = tabula.read_pdf(
-        input_path,
-        pages='1',
-        stream=True,  # Try stream mode
-        guess=False,
-        pandas_options={'header': 0},
-        multiple_tables=False,
-        java_options=["-Xmx4g"],
-        silent=True
-    )
-
-    if stream_tables:
-        tprint(f"Stream extraction found table with shape: {stream_tables[0].shape}")
-        main_df = stream_tables[0]
-    else:
-        main_df = tables[0]
-
-except Exception as e:
-    tprint(f"Stream mode failed, using lattice table: {e}")
-    main_df = tables[0]
-
-# ────────────────────────────────────────────────
-# PARSE THE WIDE FORMAT TABLE
-# ────────────────────────────────────────────────
-
-tprint("\n" + "=" * 80)
-tprint("PARSING SLOT WIN DATA")
-tprint("=" * 80)
-
-# Read the CSV we saved to parse it properly
-df_raw = pd.read_csv(output_dir.replace('output/', 'output/AC_stream_extraction.csv'))
-
-tprint(f"Raw data shape: {df_raw.shape}")
-
-# Build structured data
-all_slot_data = []
-
-# Casino names appear in column 0
-# The data is organized in sections:
-# Section 1 (rows ~4-13): $.01/.02, $.05, $.25, $.50
-# Section 2 (rows ~16-25): $1.00, $5.00, $25.00, $100
-# Section 3 (rows ~28-37): Multi-denom, Other, Total
-
-# Define the row ranges and what they contain
-# Looking at the CSV:
-# Rows 4-13: First section ($.01, $.05, $.25, $.50)
-# Rows 16-25: Second section ($1, $5, $25, $100)
-# Rows 28-37: Third section (Multi, Other, Total Slots)
 
 def clean_numeric(val):
-    """Clean numeric values from the messy CSV"""
-    if pd.isna(val) or val in ['', '-', '- -', 'nan']:
+    """Clean numeric values from PDF extraction"""
+    if pd.isna(val) or str(val).strip() in ['', '-', '- -', 'nan', 'NaN']:
         return np.nan
     val_str = str(val).strip().replace(',', '').replace(' ', '').replace('$', '')
+    val_str = val_str.replace('(', '-').replace(')', '')
     try:
         return float(val_str)
     except:
         return np.nan
 
-def extract_denomination_data(df_row, casino_name, denom_name, win_col, handle_col, winpct_col):
-    """Extract Win/Handle/Win% for a specific denomination"""
-    win = clean_numeric(df_row.iloc[win_col])
-    handle = clean_numeric(df_row.iloc[handle_col])
-    win_pct = clean_numeric(df_row.iloc[winpct_col])
 
-    if pd.notna(win_pct):
-        return {
-            'Casino': casino_name,
-            'Denomination': denom_name,
-            'Win': win if pd.notna(win) else 0,
-            'Handle': handle if pd.notna(handle) else 0,
-            'Win_Pct': win_pct
-        }
-    return None
+def normalize_denom(name):
+    """Normalize denomination name from PDF header"""
+    s = re.sub(r'\s*Slot\s+Machines?\s*$', '', name.strip(), flags=re.I).strip()
+    if re.search(r'\.01', s):
+        return '$0.01'
+    if re.search(r'\.05', s):
+        return '$0.05'
+    if re.search(r'\.25', s):
+        return '$0.25'
+    if re.search(r'\.50', s):
+        return '$0.50'
+    if re.search(r'1\.00', s):
+        return '$1.00'
+    if re.search(r'5\.00', s):
+        return '$5.00'
+    if re.search(r'25\.00', s):
+        return '$25.00'
+    if re.search(r'\$?100', s):
+        return '$100'
+    if re.search(r'[Mm]ulti', s):
+        return 'Multi-Denom'
+    if re.search(r'[Oo]ther', s):
+        return 'Other'
+    if re.search(r'[Tt]otal', s):
+        return 'Total Slots'
+    return s
 
-# Parse Section 1: $.01/.02, $.05, $.25, $.50 (rows 4-13, columns vary)
-# Based on CSV inspection: Casino (col 0), then groups of Win/Handle/Win%
-tprint("\nParsing denomination sections...")
 
-# The CSV is messy - let's use a simpler approach
-# Re-extract with better parameters and parse manually
+def parse_table(table):
+    """Parse a PDF table to extract casino/denomination/Win% data"""
+    results = []
 
-tprint("Re-extracting with optimized settings...")
+    # Find the row containing "Win %" labels
+    win_pct_row_idx = None
+    for idx in range(min(5, len(table))):
+        row_vals = [str(v).strip() for v in table.iloc[idx]]
+        if any(v in ['Win %', 'Win%'] for v in row_vals):
+            win_pct_row_idx = idx
+            break
 
-# Casino names from the PDF
-casinos_list = ["Bally's AC", "Borgata", "Caesars", "Golden Nugget", "Hard Rock",
-                "Harrah's", "Ocean Resort", "Resorts", "Tropicana"]
+    if win_pct_row_idx is None:
+        return results
 
-# Manual Win% extraction based on CSV inspection
-# This is the most reliable approach given the messy PDF table structure
-denominations_map = [
-    ('$0.01', [11.7, 15.5, 12.2, 11.2, 10.9, 14.2, 10.5, 11.1, 11.8]),
-    ('$0.05', [16.1, 14.2, 11.9, None, 10.3, 5.3, 7.4, 10.1, 5.5]),
-    ('$0.25', [10.0, 15.4, 9.4, 7.0, 10.2, 8.4, 8.3, 7.8, 5.3]),
-    ('$0.50', [5.4, 6.7, None, 5.4, 15.0, 5.0, 5.5, 6.1, 5.4]),
-    ('$1.00', [6.9, 10.1, 10.4, 8.6, 9.5, 7.8, 7.9, 7.5, 7.4]),
-    ('$5.00', [7.0, 10.7, 3.9, 6.5, 8.5, 7.9, 9.9, 6.5, 6.4]),
-    ('$25.00', [4.0, 13.3, 12.3, 9.0, 7.7, 3.2, 2.8, 10.2, 5.8]),
-    ('$100', [4.5, 11.0, 10.6, 10.8, 6.2, 15.3, 10.7, 8.3, -0.6]),
-    ('Multi-Denom', [9.7, 6.6, 9.0, 9.4, 8.8, 6.8, 7.9, 9.4, 10.0]),
-    ('Total Slots', [9.8, 9.0, 9.6, 9.7, 9.3, 8.4, 9.5, 9.6, 9.9]),
-]
+    # Find Win% column indices
+    win_pct_cols = []
+    for col_idx in range(table.shape[1]):
+        val = str(table.iloc[win_pct_row_idx, col_idx]).strip()
+        if val in ['Win %', 'Win%']:
+            win_pct_cols.append(col_idx)
 
-# Build dataset from manual extraction
-tprint("Building dataset from extracted Win% values...")
-for denom, win_pcts in denominations_map:
-    for casino, win_pct in zip(casinos_list, win_pcts):
-        if win_pct is not None:
-            all_slot_data.append({
-                'Casino': casino,
-                'Denomination': denom,
-                'Win': 0,  # Win amounts not needed for this analysis
-                'Handle': 0,
-                'Win_Pct': win_pct
-            })
+    if not win_pct_cols:
+        return results
 
-tprint(f"✓ Extracted {len(all_slot_data)} casino-denomination combinations")
+    # Find denomination names from header rows above the Win% label row
+    denom_entries = []
+    for idx in range(win_pct_row_idx):
+        for col_idx in range(table.shape[1]):
+            val = str(table.iloc[idx, col_idx]).strip()
+            if val == 'nan' or len(val) < 3:
+                continue
+            # Must look like a denomination header
+            if 'Slot' in val or 'denominational' in val:
+                denom_entries.append((col_idx, normalize_denom(val)))
+
+    # Sort by column position and deduplicate
+    denom_entries.sort(key=lambda x: x[0])
+    seen = set()
+    unique_denoms = []
+    for pos, name in denom_entries:
+        if name not in seen:
+            seen.add(name)
+            unique_denoms.append((pos, name))
+
+    # Match denominations to Win% columns (both sorted left-to-right)
+    n = min(len(unique_denoms), len(win_pct_cols))
+    if n == 0:
+        return results
+    if len(unique_denoms) != len(win_pct_cols):
+        tprint(f"  Warning: {len(unique_denoms)} denominations vs {len(win_pct_cols)} Win% columns, using {n}")
+    pairs = list(zip([d[1] for d in unique_denoms[:n]], win_pct_cols[:n]))
+
+    # Find casino data rows (skip headers, totals, blanks)
+    skip_names = {'nan', 'NaN', '', 'Casino', 'Totals', 'Total'}
+
+    for row_idx in range(win_pct_row_idx + 1, len(table)):
+        raw_name = str(table.iloc[row_idx, 0]).strip()
+        if raw_name in skip_names or len(raw_name) < 3:
+            continue
+        if raw_name.startswith('$'):
+            continue
+
+        casino = raw_name
+        for denom_name, win_col in pairs:
+            val_str = str(table.iloc[row_idx, win_col]).strip()
+            if val_str in ['-', '- -', '', 'nan']:
+                continue
+            val = clean_numeric(table.iloc[row_idx, win_col])
+            if pd.notna(val):
+                results.append({
+                    'Casino': casino,
+                    'Denomination': denom_name,
+                    'Win_Pct': val
+                })
+
+    return results
+
+
+# Try lattice mode first (works well for 2022/2023 PDFs)
+tprint("Trying lattice extraction...")
+try:
+    tables = tabula.read_pdf(
+        input_path, pages='1', lattice=True,
+        pandas_options={'header': None}, multiple_tables=True,
+        java_options=["-Xmx4g"], silent=True
+    )
+except Exception as e:
+    tprint(f"Lattice extraction failed: {e}")
+    tables = []
+
+usable = [t for t in tables if t.shape[0] > 3 and t.shape[1] > 5]
+tprint(f"Lattice mode: {len(tables)} tables, {len(usable)} usable")
+
+# If lattice didn't yield enough tables, try stream mode (needed for 2024 PDF)
+if len(usable) < 2:
+    tprint("Trying stream extraction...")
+    try:
+        stream_tables = tabula.read_pdf(
+            input_path, pages='1', stream=True,
+            pandas_options={'header': None}, multiple_tables=True,
+            java_options=["-Xmx4g"], silent=True
+        )
+    except Exception as e:
+        tprint(f"Stream extraction failed: {e}")
+        stream_tables = []
+
+    stream_usable = [t for t in stream_tables if t.shape[0] > 3 and t.shape[1] > 5]
+    tprint(f"Stream mode: {len(stream_tables)} tables, {len(stream_usable)} usable")
+
+    if len(stream_usable) > len(usable):
+        usable = stream_usable
+
+if not usable:
+    tprint("ERROR: No usable tables found in PDF")
+    exit(1)
+
+# Parse all usable tables
+all_slot_data = []
+for i, table in enumerate(usable):
+    tprint(f"\nParsing table {i+1} (shape: {table.shape})...")
+    parsed = parse_table(table)
+    tprint(f"  Extracted {len(parsed)} data points")
+    all_slot_data.extend(parsed)
+
+if not all_slot_data:
+    tprint("ERROR: No data could be parsed from the PDF tables")
+    exit(1)
+
+tprint(f"\nTotal: {len(all_slot_data)} casino-denomination data points extracted")
 
 df = pd.DataFrame(all_slot_data)
+df['Win'] = 0
+df['Handle'] = 0
 
 tprint(f"Analyzed {len(df)} casino-denomination combinations")
 tprint(f"Casinos: {df['Casino'].nunique()}")
