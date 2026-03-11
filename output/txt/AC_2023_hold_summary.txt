@@ -11,65 +11,20 @@ Output summary: output/AC_2023_hold_summary.txt
 
 Extracting slot win data from PDF...
 
-Extracted 2 tables from page 1
+Trying lattice extraction...
+Lattice mode: 2 tables, 2 usable
 
-Main table shape: (13, 21)
-Parsing denomination groups...
+Parsing table 1 (shape: (13, 21))...
+  Extracted 45 data points
 
-Found 10 casinos: ["Bally's AC", 'Borgata', 'Caesars', 'Golden Nugget', 'Hard Rock', "Harrah's", 'Ocean Resort', 'Resorts', 'Tropicana', 'Totals']
+Parsing table 2 (shape: (13, 21))...
+  Warning: 4 denominations vs 5 Win% columns, using 4
+  Extracted 36 data points
 
-Processing table 1, shape: (13, 21)
-  Found $1.00 data in column 10
-Processing table 2, shape: (13, 21)
-  Found $5.00 data in column 2
-  Found $25.00 data in column 4
-  Found $100 data in column 6
-  Found Multi data in column 8
-  Found Other data in column 10
-
-Using structured extraction approach...
-
-Analyzing table with shape (13, 21):
-           0   1                           2            3                   4   5                   6   ...  \
-0         NaN NaN  $.01 and .02 Slot Machines          NaN  $.05 Slot Machines NaN  $.25 Slot Machines  ...   
-1         NaN NaN                         Win       Handle               Win % NaN                 Win  ...   
-2  Bally's AC NaN                  47,095,355  397,894,808                11.8 NaN             700,913  ...   
-
-          14          15     16  17          18           19     20  
-0        NaN         NaN    NaN NaN         NaN          NaN    NaN  
-1        Win      Handle  Win % NaN         Win       Handle  Win %  
-2  1,766,457  31,860,431    5.5 NaN  10,294,073  140,767,732    7.3  
-
-[3 rows x 21 columns]
-
-Analyzing table with shape (13, 21):
-           0   1                     2           3                     4   5                   6   ...          14  \
-0         NaN NaN  $5.00  Slot Machines         NaN  $25.00 Slot Machines NaN  $100 Slot Machines  ...         NaN   
-1         NaN NaN                   Win      Handle                 Win % NaN                 Win  ...         Win   
-2  Bally's AC NaN             1,440,607  22,487,000                   6.4 NaN             142,813  ...  44,464,012   
-
-            15     16  17       18         19     20  
-0          NaN    NaN NaN      NaN        NaN    NaN  
-1       Handle  Win % NaN      Win     Handle  Win %  
-2  467,271,909    9.5 NaN  482,618  5,580,870    8.6  
-
-[3 rows x 21 columns]
-
-Attempting stream mode extraction for better column detection...
-Stream extraction found table with shape: (32, 18)
-
-================================================================================
-PARSING SLOT WIN DATA
-================================================================================
-Raw data shape: (38, 14)
-
-Parsing denomination sections...
-Re-extracting with optimized settings...
-Building dataset from extracted Win% values...
-✓ Extracted 88 casino-denomination combinations
-Analyzed 88 casino-denomination combinations
+Total: 81 casino-denomination data points extracted
+Analyzed 81 casino-denomination combinations
 Casinos: 9
-Denominations: 10
+Denominations: 9
 
 ================================================================================
 ATLANTIC CITY HOLD PERCENTAGE ANALYSIS - LOOSE SLOT FINDER
@@ -84,45 +39,45 @@ OVERALL CASINO RANKINGS (Average Win% Across All Denominations)
 --------------------------------------------------------------------------------
 Rank   Casino                      Avg Win% Rating         
 --------------------------------------------------------------------------------
-1      Tropicana                      6.69% ★★★ Loosest    
-2      Ocean Resort                   8.04% ★★★ Loosest    
-3      Harrah's                       8.23% ★★★ Loosest    
-4      Bally's AC                     8.51% ★★★ Loosest    
-5      Golden Nugget                  8.62% ★★★ Loosest    
-6      Resorts                        8.66% ★★★ Loosest    
-7      Hard Rock                      9.64% ★ Good         
-8      Caesars                        9.92% ★ Good         
-9      Borgata                       11.25% Average        
+1      Tropicana                      6.50% ★★★ Loosest    
+2      Hard Rock                      7.90% ★★★ Loosest    
+3      Resorts                        8.22% ★★★ Loosest    
+4      Harrah's                       8.54% ★★★ Loosest    
+5      Golden Nugget                  8.86% ★★★ Loosest    
+6      Caesars                        9.28% ★★ Very Good   
+7      Ocean Resort                   9.67% ★ Good         
+8      Bally's AC                     9.72% ★ Good         
+9      Borgata                       10.12% Average        
 
 --------------------------------------------------------------------------------
 LOOSEST CASINO BY DENOMINATION
 --------------------------------------------------------------------------------
 Denomination    Loosest Casino                  Win%
 --------------------------------------------------------------------------------
-$0.01           Ocean Resort                  10.50%
-$0.05           Harrah's                       5.30%
-$0.25           Tropicana                      5.30%
-$0.50           Harrah's                       5.00%
-$1.00           Bally's AC                     6.90%
-$5.00           Caesars                        3.90%
-$25.00          Ocean Resort                   2.80%
-$100            Tropicana                     -0.60%
-Multi-Denom     Borgata                        6.60%
+$0.01           Ocean Resort                  10.70%
+$0.05           Harrah's                       5.20%
+$0.25           Tropicana                      6.30%
+$0.50           Hard Rock                      0.00%
+$1.00           Tropicana                      6.90%
+$5.00           Caesars                        4.90%
+$100            Tropicana                      3.40%
+Multi-Denom     Tropicana                      2.40%
+Other           Borgata                        6.60%
 
 --------------------------------------------------------------------------------
 TIGHTEST CASINO BY DENOMINATION
 --------------------------------------------------------------------------------
 Denomination    Tightest Casino                 Win%
 --------------------------------------------------------------------------------
-$0.01           Borgata                       15.50%
-$0.05           Bally's AC                    16.10%
-$0.25           Borgata                       15.40%
-$0.50           Hard Rock                     15.00%
-$1.00           Caesars                       10.40%
-$5.00           Borgata                       10.70%
-$25.00          Borgata                       13.30%
-$100            Harrah's                      15.30%
-Multi-Denom     Tropicana                     10.00%
+$0.01           Borgata                       14.20%
+$0.05           Caesars                       12.20%
+$0.25           Borgata                       13.20%
+$0.50           Ocean Resort                  11.00%
+$1.00           Caesars                        9.90%
+$5.00           Ocean Resort                  10.00%
+$100            Golden Nugget                 11.90%
+Multi-Denom     Bally's AC                    18.70%
+Other           Tropicana                      9.60%
 
 ================================================================================
 KEY INSIGHTS FOR JACKPOT HUNTERS
