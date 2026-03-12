@@ -1,0 +1,31 @@
+{
+  "name": "Educational 5x3 20-line Slot (Transparent Math Package)",
+  "grid": {
+    "reels": 5,
+    "rows": 3
+  },
+  "paylines_count": 20,
+  "symbols": {
+    "regular": [
+      "A",
+      "K",
+      "Q",
+      "J",
+      "T",
+      "9"
+    ],
+    "wild": "W",
+    "scatter": "S"
+  },
+  "betting": {
+    "line_bet_credits": 1,
+    "lines": 20,
+    "total_bet_credits": 20
+  },
+  "notes": [
+    "Educational example: not based on any proprietary game.",
+    "Single pay per line: evaluate left-to-right; pay best 3/4/5 of a kind with wild substitution.",
+    "Scatter pays anywhere on the 5x3 grid as a multiple of total bet.",
+    "No free spins/bonus rounds implemented (keeps math transparent)."
+  ]
+}
