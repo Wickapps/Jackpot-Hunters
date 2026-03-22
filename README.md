@@ -132,7 +132,7 @@ See [Nevada/README.md](Nevada/README.md) for full documentation and usage.
 | `NJ_jackpots_by_game.py` | Top jackpot-paying game titles |
 | `NJ_jackpots_by_time.py` | Jackpot patterns by day of week and month |
 
-**Data sources:** Year-to-date and annual jackpot PDFs from the NJ Division of Gaming Enforcement.
+**Data sources:** https://www.njoag.gov/about/divisions-and-offices/division-of-gaming-enforcement-home/slot-laboratory-tsb/
 
 See [New-Jersey/README.md](New-Jersey/README.md) for full documentation, data source links, and usage.
 
