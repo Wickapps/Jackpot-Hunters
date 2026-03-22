@@ -199,21 +199,6 @@ See [xls/README.md](xls/README.md) for full column descriptions and usage instru
 
 ------
 
-# Understanding the Outputs
-
-The scripts generate **structured text summaries and tables** intended to help readers interpret casino statistics.
-
-Key concepts explored include:
-
-• **Hold percentage (Win%)**
- • **Regional differences in slot performance**
- • **Denomination behavior**
- • **Jackpot frequency distributions**
-
-These outputs provide empirical insight into how casinos configure and operate slot machines.
-
-------
-
 # Educational Purpose
 
 This repository is provided for **educational and analytical purposes**.
