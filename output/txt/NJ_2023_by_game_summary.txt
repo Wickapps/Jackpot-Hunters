@@ -1,0 +1,117 @@
+============================================================
+NJ JACKPOT ANALYSIS BY GAME - WHAT TO PLAY
+============================================================
+Input file: docs/NJ_2023.pdf
+Output directory: output/
+Output Excel: output/NJ_2023_by_game.xlsx
+Output chart: output/NJ_2023_by_game.png
+Output summary: output/NJ_2023_by_game_summary.txt
+Top N games to display: 30
+Filter: LAND-BASED CASINOS ONLY
+============================================================
+
+Using tabula-py with stream mode for large PDF
+Detected 64 pages in PDF
+
+Processing pages 1-30...
+✓ (31 tables)
+Processing pages 31-60...
+✓ (30 tables)
+Processing pages 61-64...
+✓ (4 tables)
+
+Total tables extracted: 65
+Removed summary table
+
+Combined rows before cleanup: 1990
+
+Filtered to land-based casinos only
+Removed 932 online jackpots
+Remaining land-based jackpots: 1058
+
+Table Rows=1058, Columns=7
+Saved Excel to: output/NJ_2023_by_game.xlsx
+
+================================================================================
+NEW JERSEY JACKPOT ANALYSIS - WHAT GAME TO PLAY (LAND-BASED)
+================================================================================
+
+Input file: NJ_2023.pdf
+
+--------------------------------------------------------------------------------
+BASIC STATISTICS
+--------------------------------------------------------------------------------
+Total land-based jackpots: 1058
+Jackpots > $1M:            6 (0.57%)
+Total amount:              $75,567,379.98
+Average jackpot:           $71,424.74
+
+Total unique games:        425
+Total manufacturers:       34
+
+--------------------------------------------------------------------------------
+TOP 10 MANUFACTURERS
+--------------------------------------------------------------------------------
+Manufacturer                             Count   Percentage
+--------------------------------------------------------------------------------
+ARISTOCRAT TECH                            211       19.9%
+INTERNATIONAL GAME TECH.                   181       17.1%
+SPORTECK NYX GAMING                         60        5.7%
+BALLY                                       40        3.8%
+NETENT GAMING                               36        3.4%
+IGT                                         35        3.3%
+EVOLUTION                                   34        3.2%
+LNW GAMING, INC.                            29        2.7%
+LIGHT & WONDER-SCI. GAMES                   29        2.7%
+KONAMI GAMING INC.                          26        2.5%
+
+--------------------------------------------------------------------------------
+TOP 30 GAMES BY JACKPOT COUNT
+--------------------------------------------------------------------------------
+Rank  Game                                        Count        Avg $ Manufacturer        
+--------------------------------------------------------------------------------
+1     Dragon Cash                                    36 $     74,535 ARISTOCRAT TECH     
+2     Lightning Cash                                 21 $     72,357 ARISTOCRAT TECH     
+3     Double Top Dollar                              20 $     72,150 INTERNATIONAL GAME  
+4     Dragon Link                                    17 $     71,556 ARISTOCRAT TECH     
+5     Lightning Roulette                             13 $     59,850 EVOLUTION           
+6     Top Dollar                                     10 $     70,425 INTERNATIONAL GAME  
+7     Buffalo Cash                                   10 $     63,508 ARISTOCRAT TECH     
+8     Triple Double Bonus Poker                       9 $     53,378 INTERNATIONAL GAME  
+9     Divine Fortune                                  9 $    168,520 NETENT GAMING       
+10    All Aboard Gold Express Dynamite Dash           9 $     61,340 KONAMI GAMING INC.  
+11    Double Double Bonus Poker                       9 $    103,333 INTERNATIONAL GAME  
+12    Jin Ji Bao Xi Endless Treasures                 8 $     62,699 LNW GAMING, INC.    
+13    Quick Hit                                       8 $     50,291 BALLY               
+14    MGM Grand Millions                              8 $    430,033 BWIN                
+15    Five Star Poker                                 7 $     63,429 INTERNATIONAL GAME  
+16    88 Fortunes Jackpot Festival                    7 $    116,279 SPORTECK NYX GAMIN  
+17    Slingo XXXtreme:1530013                         7 $     57,157 ALCHEMY BET         
+18    Triple Double Diamond                           6 $    240,833 INTERNATIONAL GAME  
+19    High Seas Jackpots                              6 $     77,133 NOVAMATICAMERICAS,  
+20    Wheel of Fortune ON TOUR                        6 $     52,208 IGT                 
+21    Jin Ji Bao Xi Endless Treasure                  6 $     58,340 WILLIAMS INTERACTI  
+22    Divine Fortune Touch                            6 $    160,489 NETENT GAMING       
+23    Mystical Mermaid                                5 $     68,560 INTERNATIONAL GAME  
+24    Lightning Link                                  5 $     67,972 ARISTOCRAT TECH     
+25    Dancing Drums Explosion                         5 $     59,010 LNW GAMING, INC.    
+26    5 Treasures                                     5 $     70,013 SPORTECK NYX GAMIN  
+27    Triple Double Dollars                           5 $     87,200 INTERNATIONAL GAME  
+28    Double Ruby                                     5 $     51,600 EVERI INTERACTIVE   
+29    Cleopatra                                       5 $     96,624 IGT                 
+30    Space Invaders                                  5 $     87,060 SPORTECK NYX GAMIN  
+
+--------------------------------------------------------------------------------
+GAME DIVERSITY ANALYSIS
+--------------------------------------------------------------------------------
+Top 10 games account for:  14.6% of jackpots
+Top 20 games account for:  21.4% of jackpots
+Top 30 games account for:  26.3% of jackpots
+
+================================================================================
+
+Bar chart saved to: output/NJ_2023_by_game.png
+
+================================================================================
+PROCESSING COMPLETE!
+================================================================================

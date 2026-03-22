@@ -1,0 +1,97 @@
+================================================================================
+NEVADA WIN % BY CASINO SIZE - ANNUAL TREND ANALYSIS
+================================================================================
+Year: 2025
+Location: Las Vegas Strip
+Input directory: docs/
+Output chart: output/NV_2025_Las_Vegas_Strip_casino_size.png
+Output summary: output/NV_2025_Las_Vegas_Strip_casino_size.txt
+Generated: 2026-02-09 18:04:46
+================================================================================
+
+Processing monthly PDF files...
+
+  Jan: ✓ 4 casino size tiers extracted
+  Feb: ✓ 4 casino size tiers extracted
+  Mar: ✓ 4 casino size tiers extracted
+  Apr: ✓ 4 casino size tiers extracted
+  May: ✓ 4 casino size tiers extracted
+  Jun: ⚠ Tabula failed, trying OCR fallback...
+  Jun: ✓ 4 casino size tiers extracted (via OCR)
+  Jul: ⚠ Tabula failed, trying OCR fallback...
+  Jul: ✓ 4 casino size tiers extracted (via OCR)
+  Aug: ✓ 4 casino size tiers extracted
+  Sep: ✓ 4 casino size tiers extracted
+  Oct: ✓ 4 casino size tiers extracted
+  Nov: ✓ 4 casino size tiers extracted
+  Dec: ✓ 4 casino size tiers extracted
+
+✓ Successfully processed 12 of 12 months
+✓ Casino size tiers found: $12M-$36M, $36M-$72M, $72M+, All Sizes
+
+Building annual trend data...
+
+
+================================================================================
+2025 Las Vegas Strip Win % by Casino Size
+================================================================================
+
+Location: Clark County Las Vegas Strip Area
+Year: 2025
+Months Analyzed: 12 of 12
+Casino Size Tiers: 4
+Generated: 2026-02-09 18:07:55
+
+================================================================================
+MONTHLY TOTAL SLOT WIN % BY CASINO SIZE
+================================================================================
+Month     All Sizes    $12M-$36M    $36M-$72M        $72M+
+----------------------------------------------------------
+Jan           8.78%        8.35%       11.20%        8.72%
+Feb           8.02%        8.64%        8.72%        7.99%
+Mar           8.01%        6.38%        7.76%        8.06%
+Apr           7.97%        8.06%        9.00%        7.93%
+May           7.43%        6.36%        9.11%        7.40%
+Jun           8.24%        8.70%        7.65%        8.24%
+Jul           8.07%        7.86%       10.64%        8.01%
+Aug           6.91%        6.02%        7.17%        6.92%
+Sep           8.04%        8.96%        8.39%        8.60%
+Oct           7.87%        7.22%        9.51%        7.85%
+Nov           7.61%        7.06%        8.37%        7.60%
+Dec           7.22%        7.32%        6.96%        7.23%
+----------------------------------------------------------
+Avg           7.85%        7.58%        8.71%        7.88%
+
+================================================================================
+CASINO SIZE COMPARISON
+================================================================================
+
+Casino Size       Avg Win%      Best Month     Worst Month     Spread
+----------------------------------------------------------------------
+All Sizes            7.85%     Aug (6.91%)     Jan (8.78%)      1.87%
+$12M-$36M            7.58%     Aug (6.02%)     Sep (8.96%)      2.94%
+$36M-$72M            8.71%     Dec (6.96%)    Jan (11.20%)      4.24%
+$72M+                7.88%     Aug (6.92%)     Jan (8.72%)      1.80%
+
+================================================================================
+JACKPOT HUNTER'S TAKEAWAYS
+================================================================================
+
+✓ LOOSEST casino size: $12M-$36M (avg 7.58% win)
+✗ TIGHTEST casino size: $36M-$72M (avg 8.71% win)
+
+  Delta between loosest and tightest: 1.13%
+  → Casino size has a MODERATE impact on slot Win% in this region.
+
+  Average Units by Casino Size:
+    All Sizes: 35,235 machines
+    $12M-$36M: 2,316 machines
+    $36M-$72M: 2,625 machines
+    $72M+: 29,988 machines
+
+================================================================================
+END OF REPORT
+================================================================================
+
+Generating casino size trend chart...
+✓ Chart saved to: output/NV_2025_Las_Vegas_Strip_casino_size.png

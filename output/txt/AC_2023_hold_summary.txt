@@ -1,0 +1,99 @@
+================================================================================
+ATLANTIC CITY HOLD PERCENTAGE ANALYSIS - FINDING THE LOOSEST SLOTS
+================================================================================
+Input file: docs/AC_2023.pdf
+Output directory: output/
+Output Excel: output/AC_2023_hold_analysis.xlsx
+Output heatmap: output/AC_2023_hold_heatmap.png
+Output rankings: output/AC_2023_hold_rankings.png
+Output summary: output/AC_2023_hold_summary.txt
+================================================================================
+
+Extracting slot win data from PDF...
+
+Trying lattice extraction...
+Lattice mode: 2 tables, 2 usable
+
+Parsing table 1 (shape: (13, 21))...
+  Extracted 45 data points
+
+Parsing table 2 (shape: (13, 21))...
+  Warning: 4 denominations vs 5 Win% columns, using 4
+  Extracted 36 data points
+
+Total: 81 casino-denomination data points extracted
+Analyzed 81 casino-denomination combinations
+Casinos: 9
+Denominations: 9
+
+================================================================================
+ATLANTIC CITY HOLD PERCENTAGE ANALYSIS - LOOSE SLOT FINDER
+================================================================================
+
+Input file: AC_2023.pdf
+
+Lower Win% = Better for Players = 'Looser' Slots
+
+--------------------------------------------------------------------------------
+OVERALL CASINO RANKINGS (Average Win% Across All Denominations)
+--------------------------------------------------------------------------------
+Rank   Casino                      Avg Win% Rating         
+--------------------------------------------------------------------------------
+1      Tropicana                      6.50% ★★★ Loosest    
+2      Hard Rock                      7.90% ★★★ Loosest    
+3      Resorts                        8.22% ★★★ Loosest    
+4      Harrah's                       8.54% ★★★ Loosest    
+5      Golden Nugget                  8.86% ★★★ Loosest    
+6      Caesars                        9.28% ★★ Very Good   
+7      Ocean Resort                   9.67% ★ Good         
+8      Bally's AC                     9.72% ★ Good         
+9      Borgata                       10.12% Average        
+
+--------------------------------------------------------------------------------
+LOOSEST CASINO BY DENOMINATION
+--------------------------------------------------------------------------------
+Denomination    Loosest Casino                  Win%
+--------------------------------------------------------------------------------
+$0.01           Ocean Resort                  10.70%
+$0.05           Harrah's                       5.20%
+$0.25           Tropicana                      6.30%
+$0.50           Hard Rock                      0.00%
+$1.00           Tropicana                      6.90%
+$5.00           Caesars                        4.90%
+$100            Tropicana                      3.40%
+Multi-Denom     Tropicana                      2.40%
+Other           Borgata                        6.60%
+
+--------------------------------------------------------------------------------
+TIGHTEST CASINO BY DENOMINATION
+--------------------------------------------------------------------------------
+Denomination    Tightest Casino                 Win%
+--------------------------------------------------------------------------------
+$0.01           Borgata                       14.20%
+$0.05           Caesars                       12.20%
+$0.25           Borgata                       13.20%
+$0.50           Ocean Resort                  11.00%
+$1.00           Caesars                        9.90%
+$5.00           Ocean Resort                  10.00%
+$100            Golden Nugget                 11.90%
+Multi-Denom     Bally's AC                    18.70%
+Other           Tropicana                      9.60%
+
+================================================================================
+KEY INSIGHTS FOR JACKPOT HUNTERS
+================================================================================
+
+✓ Focus on casinos with Win% below 9.5% for best odds
+✓ Lower denominations typically have higher hold percentages
+✓ Win% variations between casinos can be significant
+✓ Check the heatmap to see patterns across denominations
+
+================================================================================
+
+✓ Detailed data saved to: output/AC_2023_hold_analysis.xlsx
+✓ Heatmap saved to: output/AC_2023_hold_heatmap.png
+✓ Rankings chart saved to: output/AC_2023_hold_rankings.png
+
+================================================================================
+PROCESSING COMPLETE!
+================================================================================

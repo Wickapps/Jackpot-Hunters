@@ -1,0 +1,94 @@
+================================================================================
+NEVADA WIN % BY LOCATION - ANNUAL TREND ANALYSIS
+================================================================================
+Year: 2025
+Location: Reno
+Input directory: docs/
+Output chart: output/NV_2025_Reno_win_pct.png
+Output summary: output/NV_2025_Reno_win_pct.txt
+Min units filter: 30
+Generated: 2026-02-09 05:33:13
+================================================================================
+
+Processing monthly PDF files...
+
+  Jan: ✓ 4 denominations extracted
+  Feb: ✓ 4 denominations extracted
+  Mar: ✓ 4 denominations extracted
+  Apr: ✓ 4 denominations extracted
+  May: ✓ 4 denominations extracted
+  Jun: ⚠ Tabula failed, trying OCR fallback...
+  Jun: ✓ 4 denominations extracted (via OCR)
+  Jul: ⚠ Tabula failed, trying OCR fallback...
+  Jul: ✓ 4 denominations extracted (via OCR)
+  Aug: ✓ 4 denominations extracted
+  Sep: ✓ 5 denominations extracted
+  Oct: ✓ 5 denominations extracted
+  Nov: ✓ 5 denominations extracted
+  Dec: ✓ 5 denominations extracted
+
+✓ Successfully processed 12 of 12 months
+
+Building annual trend data...
+
+
+================================================================================
+2025 Reno Win % - Annual Trend Analysis
+================================================================================
+
+Location: Washoe County Reno Area - All Nonrestricted Locations
+Year: 2025
+Months Analyzed: 12 of 12
+Generated: 2026-02-09 05:35:56
+
+================================================================================
+MONTHLY WIN % BY DENOMINATION
+================================================================================
+Month        1 c       5 c      25 c       1 $     Multi
+--------------------------------------------------------
+Jan        7.94%       ---     7.24%     5.11%     6.06%
+Feb        6.63%       ---     5.98%     4.83%     5.23%
+Mar        6.55%       ---     5.28%     4.72%     4.86%
+Apr        7.83%       ---     6.10%     5.49%     5.42%
+May        6.13%       ---     5.80%     2.49%     4.65%
+Jun        6.82%       ---     7.72%     5.76%     5.33%
+Jul        6.96%       ---     6.49%     5.52%     5.66%
+Aug        5.34%       ---     5.37%     5.57%     4.54%
+Sep        9.05%    12.79%     8.63%     5.71%     6.07%
+Oct        6.86%     4.46%     7.08%     5.81%     5.59%
+Nov        5.66%    11.17%     5.56%     3.78%     4.81%
+Dec        7.28%     7.39%     5.50%     3.45%     5.19%
+--------------------------------------------------------
+Avg        6.92%     8.95%     6.40%     4.85%     5.28%
+
+================================================================================
+JACKPOT HUNTER'S ANALYSIS
+================================================================================
+
+Denomination                Avg Win%      Best Month     Worst Month     Spread
+--------------------------------------------------------------------------------
+1 Cent                         6.92%     Aug (5.34%)     Sep (9.05%)      3.71%
+5 Cent                         8.95%     Oct (4.46%)    Sep (12.79%)      8.33%
+25 Cent                        6.40%     Mar (5.28%)     Sep (8.63%)      3.35%
+1 Dollar                       4.85%     May (2.49%)     Oct (5.81%)      3.32%
+Multi Denomination             5.28%     Aug (4.54%)     Sep (6.07%)      1.53%
+
+================================================================================
+KEY TAKEAWAYS
+================================================================================
+
+✓ LOOSEST denomination: 1 Dollar (avg 4.85% win)
+✗ TIGHTEST denomination: 5 Cent (avg 8.95% win)
+
+✓ MOST STABLE: Multi Denomination (spread: 1.53%)
+✗ MOST VOLATILE: 5 Cent (spread: 8.33%)
+
+✓ TIP: Lower win % = better for players. Focus on 1 Dollar for best odds.
+✓ TIP: Multi Denomination offers the most predictable returns.
+
+================================================================================
+END OF REPORT
+================================================================================
+
+Generating annual trend chart...
+✓ Chart saved to: output/NV_2025_Reno_win_pct.png

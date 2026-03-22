@@ -1,0 +1,156 @@
+============================================================
+NJ JACKPOT ANALYSIS BY CASINO - WHERE TO HUNT
+============================================================
+Input file: docs/NJ_2023.pdf
+Output directory: output/
+Output Excel: output/NJ_2023_by_casino.xlsx
+Output chart: output/NJ_2023_by_casino.png
+Output summary: output/NJ_2023_by_casino_summary.txt
+Top N casinos to display: 40
+============================================================
+
+Using tabula-py with stream mode for large PDF
+Detected 64 pages in PDF
+
+Processing pages 1-30...
+✓ (31 tables)
+Processing pages 31-60...
+✓ (30 tables)
+Processing pages 61-64...
+✓ (4 tables)
+
+Total tables extracted: 65
+Removed summary table
+
+Combined rows before cleanup: 1990
+
+Fixing split casino names...
+Fixed 289 rows with split casino names
+Removed 249 rows with invalid casino names
+
+Table Rows=1741, Columns=7
+Saved Excel to: output/NJ_2023_by_casino.xlsx
+
+================================================================================
+NEW JERSEY JACKPOT ANALYSIS - WHERE TO HUNT
+================================================================================
+
+Input file: NJ_2023.pdf
+Top N casinos displayed: 40
+
+--------------------------------------------------------------------------------
+BASIC STATISTICS
+--------------------------------------------------------------------------------
+Start date:       01/01/2023
+End date:         12/30/2023
+Total jackpots:   1741
+Jackpots > $1M:   16 (0.92%)
+Total amount:     $167,870,671.54
+Average:          $96,421.98
+
+Online jackpots:  932 (53.53%)
+Land-based:       809 (46.47%)
+
+Total unique casinos: 36
+Online casinos:       20
+Land-based casinos:   16
+
+--------------------------------------------------------------------------------
+TOP 40 CASINOS BY JACKPOT COUNT
+--------------------------------------------------------------------------------
+Rank  Casino                                Count        Avg $         Total $
+--------------------------------------------------------------------------------
+1     WWW.DRAFTKINGS.COM                      479 $    117,728 $    56,391,825 🌐
+2     WWW.PLAYMGMCASINO.COM                   174 $     98,395 $    17,120,717
+3     BORGATACASINO.COM                       139 $    111,914 $    15,556,081 🌐
+4     HARD ROCK                               129 $     85,765 $    11,063,708
+5     BORGATA                                 113 $    113,601 $    12,836,967
+6     OCEAN RESORT                             94 $     74,080 $     6,963,474
+7     BETFAIRCASINO.COM                        93 $     70,009 $     6,510,833 🌐
+8     CAESARS                                  57 $    107,902 $     6,150,400
+9     WWW.HARDROCKCASINO.COM                   55 $     81,125 $     4,461,866
+10    PLAYMGM.COM                              33 $     89,250 $     2,945,243 🌐
+11    PLAYSUGARHOUSE.COM                       32 $     97,572 $     3,122,317 🌐
+12    TROPICANA                                27 $     80,226 $     2,166,092
+13    HARRAH'S                                 24 $    114,380 $     2,745,127
+14    GOLDEN NUGGET                            24 $     74,037 $     1,776,893
+15    WWW.OCEANONLINECASINO.COM                22 $     98,455 $     2,166,020
+16    WWW.SPORTSBOOK.FANDUEL                   21 $     91,011 $     1,911,233
+17    WWW.BALLYCASINO.COM                      20 $     63,601 $     1,272,016 🌐
+18    WWW.MOHEGANSUNCASINO.COM                 19 $     69,582 $     1,322,051
+19    GOLDENNUGGETCASINO.COM                   19 $     82,553 $     1,568,499
+20    TROPICANACASINO.COM                      18 $     74,287 $     1,337,166 🌐
+21    RESORTS                                  16 $    159,486 $     2,551,770
+22    VIRGINCASINO.COM                         12 $    102,787 $     1,233,441 🌐
+23    BALLY PARK PLACE                         11 $     64,278 $       707,062
+24    WWW.WYNNBET.COM                          11 $    117,398 $     1,291,381 🌐
+25    NJ.PARTYPOKER.COM                        10 $     71,177 $       711,767 🌐
+26    WWW.RESORTSCASINO.COM                     5 $     82,350 $       411,750 🌐
+27    US.BETWAY.COM                             5 $    106,244 $       531,220 🌐
+28    WWW.POINTSBET.COM                         4 $     70,700 $       282,800 🌐
+29    CAESARSCASINO.COM                         4 $     66,725 $       266,900 🌐
+30    WWW.TIPICO.COM                            2 $    142,735 $       285,470 🌐
+31    WWW.NJ.PARTYCASINO.COM                    2 $     50,286 $       100,572 🌐
+32    WWW.PLAYMGMPOKER.COM                      1 $     55,500 $        55,500
+33    PALACASINO.COM                            1 $     52,510 $        52,510 🌐
+
+--------------------------------------------------------------------------------
+TOP 10 MANUFACTURERS (ALL CASINOS)
+--------------------------------------------------------------------------------
+ARISTOCRAT TECH                            211
+EVOLUTION                                  206
+INTERNATIONAL GAME TECH.                   181
+IGT                                        175
+SPORTECK NYX GAMING                        149
+DRAFTKINGS INC                             124
+NETENT GAMING                              104
+LNW GAMING, INC.                            70
+DIGITAL GAMING CORP                         61
+ALCHEMY BET                                 43
+
+--------------------------------------------------------------------------------
+TOP 10 GAMES (ONLINE CASINOS)
+--------------------------------------------------------------------------------
+DraftKings Craps                                      40
+Game King Video Poker                                 39
+Bonanza                                               31
+Fortune Coin                                          22
+Roulette 00                                           22
+DraftKings Bingo Blackjack                            20
+DraftKings Rocket                                     20
+MegaJackpots Siberian Storm                           16
+Parthenon: Quest for Immortality                      15
+Lightning Roulette                                    14
+
+--------------------------------------------------------------------------------
+TOP 10 GAMES (LAND-BASED CASINOS)
+--------------------------------------------------------------------------------
+Dragon Cash                                           36
+Lightning Cash                                        21
+Double Top Dollar                                     20
+Dragon Link                                           17
+Lightning Roulette                                    13
+Top Dollar                                            10
+Buffalo Cash                                          10
+Triple Double Bonus Poker                              9
+Divine Fortune                                         9
+All Aboard Gold Express Dynamite Dash                  9
+
+--------------------------------------------------------------------------------
+ONLINE VS LAND-BASED COMPARISON
+--------------------------------------------------------------------------------
+Metric                                  Online      Land-Based
+--------------------------------------------------------------------------------
+Total Jackpots                             932             809
+Total Amount                   $    92,303,292 $    75,567,380
+Average Amount                 $       106,096 $        93,756
+Median Amount                  $        63,512 $        63,166
+Max Jackpot                    $     3,297,864 $     2,914,518
+
+================================================================================
+
+Bar chart saved to: output/NJ_2023_by_casino.png
+
+================================================================================
+PROCESSING COMPLETE!
+================================================================================

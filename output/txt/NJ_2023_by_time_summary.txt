@@ -1,0 +1,116 @@
+============================================================
+NJ JACKPOT ANALYSIS BY TIME - WHEN TO HUNT
+============================================================
+Input file: docs/NJ_2023.pdf
+Output directory: output/
+Output Excel: output/NJ_2023_by_time.xlsx
+Output chart: output/NJ_2023_by_time.png
+Output summary: output/NJ_2023_by_time_summary.txt
+Filter: LAND-BASED CASINOS ONLY
+============================================================
+
+Using tabula-py with stream mode for large PDF
+Detected 64 pages in PDF
+
+Processing pages 1-30...
+✓ (31 tables)
+Processing pages 31-60...
+✓ (30 tables)
+Processing pages 61-64...
+✓ (4 tables)
+
+Total tables extracted: 65
+Removed summary table
+
+Combined rows before cleanup: 1990
+
+Filtered to land-based casinos only
+Removed 932 online jackpots
+Remaining land-based jackpots: 1058
+
+Parsing dates...
+Removed 252 rows with unparseable dates
+Successfully parsed 806 dates
+
+Table Rows=806, Columns=17
+Saved Excel to: output/NJ_2023_by_time.xlsx
+
+================================================================================
+NEW JERSEY JACKPOT ANALYSIS - WHEN TO HUNT (LAND-BASED ONLY)
+================================================================================
+
+Input file: NJ_2023.pdf
+Date range: 2023-01-01 to 2023-12-30
+
+--------------------------------------------------------------------------------
+BASIC STATISTICS
+--------------------------------------------------------------------------------
+Total land-based jackpots: 806
+Jackpots > $1M:            6 (0.74%)
+Total amount:              $75,567,379.98
+Average jackpot:           $93,756.05
+
+--------------------------------------------------------------------------------
+WEEKEND VS WEEKDAY
+--------------------------------------------------------------------------------
+Metric                                           Weekend              Weekday
+--------------------------------------------------------------------------------
+Total Jackpots                                       329                  477
+Percentage                                        40.8%               59.2%
+Average Amount                      $             96,690 $             91,732
+Total Amount                        $         31,810,984 $         43,756,396
+
+--------------------------------------------------------------------------------
+JACKPOTS BY DAY OF WEEK
+--------------------------------------------------------------------------------
+Day                  Count      Avg Amount       Total Amount
+--------------------------------------------------------------------------------
+Monday                  70 ( 8.7%) $      89,326 $      6,252,840
+Tuesday                 75 ( 9.3%) $      95,480 $      7,161,018
+Wednesday               65 ( 8.1%) $     114,080 $      7,415,174
+Thursday                96 (11.9%) $      75,810 $      7,277,720
+Friday                 171 (21.2%) $      91,518 $     15,649,645
+Saturday               193 (23.9%) $      97,307 $     18,780,326
+Sunday                 136 (16.9%) $      95,814 $     13,030,659
+
+Best day:  Saturday (193 jackpots)
+Worst day: Wednesday (65 jackpots)
+
+--------------------------------------------------------------------------------
+JACKPOTS BY MONTH
+--------------------------------------------------------------------------------
+Month                Count      Avg Amount
+--------------------------------------------------------------------------------
+January                 70 ( 8.7%) $     118,849
+February                55 ( 6.8%) $     126,297
+March                   70 ( 8.7%) $      93,614
+April                  105 (13.0%) $      89,787
+May                     83 (10.3%) $     111,510
+June                    62 ( 7.7%) $      79,047
+July                    47 ( 5.8%) $      73,698
+August                  62 ( 7.7%) $     115,616
+September               64 ( 7.9%) $      73,483
+October                 64 ( 7.9%) $      71,589
+November                80 ( 9.9%) $      85,814
+December                44 ( 5.5%) $      76,890
+
+Best month:  April (105 jackpots)
+Worst month: December (44 jackpots)
+
+--------------------------------------------------------------------------------
+JACKPOTS BY WEEK OF MONTH (Payday Effect?)
+--------------------------------------------------------------------------------
+Week                      Count      Avg Amount
+--------------------------------------------------------------------------------
+Week 1 (1-7)                197 (24.4%) $     101,821
+Week 2 (8-14)               187 (23.2%) $      77,540
+Week 3 (15-21)              183 (22.7%) $      92,815
+Week 4+ (22-31)             239 (29.7%) $     100,517
+
+================================================================================
+
+Bar chart saved to: output/NJ_2023_by_time.png
+
+================================================================================
+PROCESSING COMPLETE!
+================================================================================
