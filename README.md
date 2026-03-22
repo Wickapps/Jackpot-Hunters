@@ -40,7 +40,7 @@ Jackpot-Hunters/
 ├─ Financial-reports/
 │   Scripts for downloading and scanning casino SEC filings
 │
-├─ xls/
+├─ Spreadsheets/
 │   Excel session tracking spreadsheets
 │
 └─ README.md
@@ -55,7 +55,7 @@ Jackpot-Hunters/
 | **Atlantic-City/**     | Scripts and output for Atlantic City hold percentage analysis        |
 | **Math-package/**      | Slot machine math model simulator and supporting config files        |
 | **Financial-reports/** | SEC filing downloader and scanner scripts                            |
-| **xls/**               | Excel spreadsheets for tracking playing sessions                     |
+| **Spreadsheets/**               | Excel spreadsheets for tracking playing sessions                     |
 
 ------
 
@@ -183,7 +183,7 @@ See [Financial-reports/README.md](Financial-reports/README.md) for full document
 
 # Session Tracking Spreadsheets
 
-The `xls/` directory contains three Excel spreadsheets for **logging and analyzing your own playing sessions** — as described in the book. No macros required.
+The `Spreadsheets/` directory contains three Excel spreadsheets for **logging and analyzing your own playing sessions** — as described in the book. No macros required.
 
 | Spreadsheet | Purpose |
 | --- | --- |
@@ -191,7 +191,7 @@ The `xls/` directory contains three Excel spreadsheets for **logging and analyzi
 | **Hit-Multiplier-v1.xlsx** | Long-term spin log — tracks hit multiplier values across many sessions with a running total spin count |
 | **Stepper-Graph-Example-v2.xlsx** | Single-session credit balance chart — plots the stepper pattern with an embedded chart that updates as you enter data |
 
-See [xls/README.md](xls/README.md) for full column descriptions and usage instructions for each spreadsheet.
+See [Spreadsheets/README.md](Spreadsheets/README.md) for full column descriptions and usage instructions for each spreadsheet.
 
 ------
 
