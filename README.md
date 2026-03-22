@@ -26,16 +26,13 @@ The scripts allow readers to **replicate the statistical analysis used in the bo
 Jackpot-Hunters/
 │
 ├─ Nevada/
-│   Scripts analyzing Nevada Gaming Control Board monthly reports
+│   Scripts and output for Nevada Gaming Control Board analysis
 │
 ├─ New-Jersey/
-│   Scripts analyzing NJ Division of Gaming Enforcement jackpot reports
+│   Scripts and output for NJ Division of Gaming Enforcement analysis
 │
 ├─ Atlantic-City/
-│   Scripts analyzing AC annual slot and table game revenue reports
-│
-├─ output/
-│   Generated output files produced by the scripts (png, txt, xlsx)
+│   Scripts and output for AC annual slot and table game analysis
 │
 ├─ Math-package/
 │   Slot machine math simulator and configuration files
@@ -53,10 +50,9 @@ Jackpot-Hunters/
 
 | Directory              | Description                                                          |
 | ---------------------- | -------------------------------------------------------------------- |
-| **Nevada/**            | Nevada Gaming Control Board slot analysis scripts                    |
-| **New-Jersey/**        | NJ Division of Gaming Enforcement jackpot analysis scripts           |
-| **Atlantic-City/**     | Atlantic City annual hold percentage analysis scripts                |
-| **output/**            | Script outputs — charts (png), summaries (txt), data (xlsx)          |
+| **Nevada/**            | Scripts and output for Nevada Gaming Control Board analysis          |
+| **New-Jersey/**        | Scripts and output for NJ jackpot analysis                           |
+| **Atlantic-City/**     | Scripts and output for Atlantic City hold percentage analysis        |
 | **Math-package/**      | Slot machine math model simulator and supporting config files        |
 | **Financial-reports/** | SEC filing downloader and scanner scripts                            |
 | **xls/**               | Excel spreadsheets for tracking playing sessions                     |
