@@ -1,6 +1,6 @@
 # Jackpot Hunters
 
-![The Jackpot Hunter's Guide to the Slot Machine](Cover-Front.jpg)
+![The Jackpot Hunter's Guide to the Slot Machine](book-cover.jpg)
 
 ### Companion Repository for
 
