@@ -233,15 +233,20 @@ def parse_current_month_slots(table, min_units=0):
 
         win_pct = None
 
-        if len(cleaned_numbers) >= 5:
-            # Pattern A: all 5 values in col 0, last is Win%
+        # Win % lives in its own column: 7-col regional tables use col 1,
+        # the 8-col statewide table has a NaN gap in col 1 with win % in col 2.
+        for ci in (1, 2):
+            if table.shape[1] > ci:
+                col_val = clean_number(row.iloc[ci])
+                if col_val is not None and 0 < abs(col_val) < 50:
+                    win_pct = col_val
+                    break
+
+        # Fallback: some tables glue all values into col 0 with win % last.
+        # Only trust this for the full 5-value row -- the 4-value form ends in
+        # the month-over-month % change, NOT the win %.
+        if win_pct is None and len(cleaned_numbers) >= 5:
             win_pct = cleaned_numbers[-1]
-        else:
-            # Pattern B: Win% is in column 1 (separate column)
-            if table.shape[1] > 1:
-                col1_val = clean_number(row.iloc[1])
-                if col1_val is not None and 0 < abs(col1_val) < 50:
-                    win_pct = col1_val
 
         if win_pct is not None and abs(win_pct) < 50:
             # Check units (2nd number) against minimum threshold

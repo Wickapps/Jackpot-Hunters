@@ -162,112 +162,120 @@ def find_statewide_table(tables):
     return None, None
 
 def parse_gaming_table_multi_period(table):
-    """Parse gaming table and extract all three time periods"""
-    # The Nevada table structure (7 columns):
-    # Col 0: Current Month - "1 Cent 282 34,730 176,664 (23.72) 10.12"
-    # Col 1: NaN
-    # Col 2: 3-Month Locations - "284"
-    # Col 3: 3-Month Rest - "35,197 512,671 (24.14) 9.09"
-    # Col 4: NaN
-    # Col 5: 12-Month Locations - "291"
-    # Col 6: 12-Month Rest - "37,630 2,313,307 (25.33) 9.29"
+    """Parse gaming table and extract all three time periods.
 
-    def parse_period_data(table, name_col, loc_col=None, data_col=None):
-        """Parse slot data for a specific time period"""
-        data = []
-        slot_patterns = ['Cent', 'Dollar', 'Multi Denomination', 'Megabucks']
+    Observed NGCB stream-mode layout (8 columns) for the statewide table:
+      Col 0: Current month - "1 Cent 286 27,059 119,456 (25.39)"
+             (denomination, # locations, # units, win amount, % change)
+      Col 1: NaN
+      Col 2: Current-month Win %   -> "8.71"
+      Col 3: 3-Month # locations   -> "288"
+      Col 4: 3-Month data          -> "27,624 369,111 (23.71) 8.88"
+             (# units, win amount, % change, win %)
+      Col 5: NaN
+      Col 6: 12-Month # locations  -> "294"
+      Col 7: 12-Month data         -> "29,433 1,585,702 (26.35) 8.87"
 
-        # Find the "Slot Machines" section
-        slot_section_start = None
+    IMPORTANT: the win % for each period lives in its own column - it is NOT the
+    last number in the col-0 description. That trailing parenthesised value is the
+    month-over-month % CHANGE. Earlier versions of this parser mistook it for the
+    win %, reporting (e.g.) 25.39% for 1-cent slots instead of the true 8.71%.
+    """
+    ncols = table.shape[1]
+    slot_patterns = ['Cent', 'Dollar', 'Multi Denomination', 'Megabucks']
+
+    def find_slot_start(name_col):
         for idx in range(len(table)):
-            row_text = str(table.iloc[idx, name_col])
-            if 'Slot Machines' in row_text or 'Slot Machine' in row_text:
-                slot_section_start = idx + 1
-                break
+            if 'Slot Machine' in str(table.iloc[idx, name_col]):
+                return idx + 1
+        return None
 
-        if slot_section_start is None:
+    def split_denom(row_text):
+        """Split a col-0 description into (denom_name, [number strings])."""
+        denom_match = re.match(
+            r'^([\d]+\s+Cent|[\d]+\s+Dollar|[\d]+\s+Dollars|Multi\s+Denomination|Megabucks|Other)\s+',
+            row_text
+        )
+        if denom_match:
+            denom_name = denom_match.group(1)
+            return denom_name, row_text[len(denom_name):].strip().split()
+        parts = row_text.split()
+        for i, part in enumerate(parts):
+            if re.search(r'^\(?\d', part):
+                return (" ".join(parts[:i]) or "Other"), parts[i:]
+        return "Other", []
+
+    def to_nums(values):
+        nums = []
+        for v in values:
+            n = clean_number(v)
+            if n is not None:
+                nums.append(abs(n))
+        return nums
+
+    def parse_period(name_col, win_col=None, loc_col=None, data_col=None):
+        """Parse slot data for one time period.
+
+        Current month: loc/units lead col 0, win % read from win_col.
+        3/12-month:    loc read from loc_col, units + win % from data_col.
+        """
+        data = []
+        start = find_slot_start(name_col)
+        if start is None:
             return pd.DataFrame()
 
-        # Parse slot rows
-        for idx in range(slot_section_start, len(table)):
+        for idx in range(start, len(table)):
             row = table.iloc[idx]
             row_text = str(row.iloc[name_col]).strip()
 
             if ('Total Gaming' in row_text or 'Race Book' in row_text or
-                '***' in row_text or row_text == '' or row_text == 'nan'):
+                    '***' in row_text or row_text in ('', 'nan')):
                 break
-
             if row_text.startswith('Total ') or row_text == 'Total':
                 continue
-
-            is_slot_row = any(pattern in row_text for pattern in slot_patterns)
-            if not is_slot_row:
+            if not any(pattern in row_text for pattern in slot_patterns):
                 continue
 
-            # Extract denomination name
-            denom_match = re.match(
-                r'^([\d]+\s+Cent|[\d]+\s+Dollar|[\d]+\s+Dollars|Multi\s+Denomination|Megabucks|Other)\s+',
-                row_text
-            )
+            denom_name, col0_numbers = split_denom(row_text)
 
-            if denom_match:
-                denom_name = denom_match.group(1)
-                numbers_text = row_text[len(denom_name):].strip()
-                numbers = numbers_text.split()
-            else:
-                parts = row_text.split()
-                denom_name = ""
-                for i, part in enumerate(parts):
-                    if re.search(r'^\(?\d', part):
-                        denom_name = " ".join(parts[:i])
-                        numbers = parts[i:]
-                        break
-                if not denom_name or len(denom_name) < 2:
-                    denom_name = "Other"
-
-            # For 3-month and 12-month, combine locations from separate column
+            locations = units = win_pct = None
             if loc_col is not None and data_col is not None:
-                # Get location count from separate column
-                loc_val = str(row.iloc[loc_col]).strip()
-                # Get rest of data from data column
+                # 3-month / 12-month: locations in own column, data column holds
+                # [units, win amount, % change, win %]
+                locations = clean_number(row.iloc[loc_col])
+                if locations is not None:
+                    locations = abs(locations)
                 data_text = str(row.iloc[data_col]).strip()
-                if data_text != 'nan':
-                    # Prepend location to the data
-                    numbers = [loc_val] + data_text.split()
+                data_nums = to_nums(data_text.split()) if data_text != 'nan' else []
+                if data_nums:
+                    units = data_nums[0]
+                    win_pct = data_nums[-1]
+            else:
+                # Current month: [# loc, # units, win amount, % change] in col 0,
+                # win % in win_col
+                col0_nums = to_nums(col0_numbers)
+                if len(col0_nums) >= 2:
+                    locations, units = col0_nums[0], col0_nums[1]
+                elif col0_nums:
+                    units = col0_nums[0]
+                if win_col is not None:
+                    win_pct = clean_number(row.iloc[win_col])
+                elif col0_nums:
+                    win_pct = col0_nums[-1]
 
-            # Parse numbers
-            cleaned_numbers = []
-            for num_str in numbers:
-                num = clean_number(num_str)
-                if num is not None:
-                    cleaned_numbers.append(abs(num))
-
-            win_pct = None
-            num_units = None
-            locations = None
-
-            if len(cleaned_numbers) >= 5:
-                locations = cleaned_numbers[0]
-                num_units = cleaned_numbers[1]
-                win_pct = cleaned_numbers[-1]
-            elif len(cleaned_numbers) >= 2:
-                win_pct = cleaned_numbers[-1]
-                num_units = cleaned_numbers[0]
-
-            if win_pct is not None and win_pct < 50:
+            if win_pct is not None and 0 < win_pct < 50:
                 data.append({
                     'Unit': denom_name,
                     'Locations': locations,
-                    'Units': num_units,
+                    'Units': units,
                     'Win_Pct': win_pct
                 })
 
         return pd.DataFrame(data)
 
-    # Parse all three time periods
-    current_month = parse_period_data(table, 0)  # All data in col 0
-    three_month = parse_period_data(table, 0, 2, 3) if table.shape[1] > 3 else pd.DataFrame()  # Name from col 0, locs from col 2, rest from col 3
-    twelve_month = parse_period_data(table, 0, 5, 6) if table.shape[1] > 6 else pd.DataFrame()  # Name from col 0, locs from col 5, rest from col 6
+    current_month = parse_period(0, win_col=2) if ncols > 2 else parse_period(0)
+    three_month = parse_period(0, loc_col=3, data_col=4) if ncols > 4 else pd.DataFrame()
+    twelve_month = parse_period(0, loc_col=6, data_col=7) if ncols > 7 else pd.DataFrame()
 
     return current_month, three_month, twelve_month
 

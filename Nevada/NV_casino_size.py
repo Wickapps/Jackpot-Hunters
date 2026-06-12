@@ -231,12 +231,16 @@ def parse_total_slot_winpct(table):
             win_pct = cleaned_numbers[-1]
             units = int(cleaned_numbers[1])
         elif len(cleaned_numbers) >= 2:
-            # Pattern B: fewer numbers in col 0, check col 1
-            if table.shape[1] > 1:
-                col1_val = clean_number(row.iloc[1])
-                if col1_val is not None and abs(col1_val) < 50:
-                    win_pct = col1_val
-                    units = int(cleaned_numbers[1]) if len(cleaned_numbers) >= 2 else 0
+            # Pattern B: win % is in its own column, not col 0.
+            # 7-col regional tables put it in col 1; the 8-col statewide
+            # table has a NaN gap in col 1 with the win % in col 2.
+            for ci in (1, 2):
+                if table.shape[1] > ci:
+                    col_val = clean_number(row.iloc[ci])
+                    if col_val is not None and abs(col_val) < 50:
+                        win_pct = col_val
+                        units = int(cleaned_numbers[1])
+                        break
 
         if win_pct is not None and abs(win_pct) < 50:
             return (win_pct, units)
