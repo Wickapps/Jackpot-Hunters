@@ -20,6 +20,16 @@ The scripts allow readers to **replicate the statistical analysis used in the bo
 
 ------
 
+# Latest Updates — June 2026
+
+The jurisdiction scripts were re-validated against the most recently published regulatory data:
+
+- **Nevada — bug fix.** Corrected slot win% parsing in `NV_overview.py`, `NV_casino_size.py`, and `NV_win_pct_location_annual.py`. The Nevada Gaming Control Board statewide table renders as **8 columns** (regional tables as 7), and the win% lives in its own column — not the trailing value in the first column, which is the month-over-month **% change**. The scripts now read win% from the correct column (col 2 statewide / col 1 regional). This fixes incorrect statewide win percentages and statewide rows that were previously dropped. Validated against the April 2026 NGCB monthly report.
+- **New Jersey — validated, no changes needed.** All five `NJ_jackpots_*` scripts parse the current NJ Division of Gaming Enforcement jackpot publication correctly. Note that the publication repeats recent jackpots across its "Last 30 Days" and year-to-date sections, so raw totals include a small number of duplicate rows (an inherent feature of the source data).
+- **Atlantic City — awaiting data.** The state has **not yet published the 2025** annual slot and table game report. It is absent from the [DGE index](https://www.njoag.gov/about/divisions-and-offices/division-of-gaming-enforcement-home/financial-and-statistical-information/annual-slot-and-table-game-data/) and the expected `…/AnnualSlotTableGameData/2025.pdf` URL returns 404. The latest available year remains **2024**. Such are the perils of published data.
+
+------
+
 # Repository Structure
 
 ```
