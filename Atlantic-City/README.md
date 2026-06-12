@@ -10,8 +10,11 @@ Python scripts that parse **New Jersey Office of the Attorney General annual slo
 | --- | --- |
 | **Atlantic City Casino Industry Slot Win Data — 2024** | https://www.nj.gov/oag/ge/docs/Financials/AnnualSlotTableGameData/2024.pdf |
 | **Atlantic City Casino Industry Slot Win Data — 2023** | https://www.nj.gov/oag/ge/docs/Financials/AnnualSlotTableGameData/2023.pdf |
+| **Atlantic City Casino Industry Slot Win Data — 2022** | https://www.nj.gov/oag/ge/docs/Financials/AnnualSlotTableGameData/2022.pdf |
 
 Download the annual PDF for your target year and pass it as the `input_file` argument. New years follow the same URL pattern — replace the year in the path.
+
+> **Data availability (checked June 2026):** The latest annual report published by the state is **2024**. Calendar-year **2025 data is not yet available** — it is not present on the DGE [Annual Slot and Table Game Data](https://www.njoag.gov/about/divisions-and-offices/division-of-gaming-enforcement-home/financial-and-statistical-information/annual-slot-and-table-game-data/) index, and the predictable `…/AnnualSlotTableGameData/2025.pdf` URL returns HTTP 404. The annual report is released well after year-end, so 2025 should appear at the same location/pattern in a later release. Until then, the Atlantic City scripts can only be validated against the 2024 (or earlier) reports.
 
 ---
 
